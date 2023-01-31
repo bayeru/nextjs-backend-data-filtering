@@ -1,0 +1,8004 @@
+{
+	"cars": [
+		{
+			"brand": "Mitsubishi",
+			"model": "Montero",
+			"color": "Yellow",
+			"year": 2002,
+			"price": 2814.46,
+			"available": false
+		},
+		{
+			"brand": "Volkswagen",
+			"model": "Passat",
+			"color": "Maroon",
+			"year": 2008,
+			"price": 1731.98,
+			"available": false
+		},
+		{
+			"brand": "Saturn",
+			"model": "L-Series",
+			"color": "Red",
+			"year": 2003,
+			"price": 2238.35,
+			"available": true
+		},
+		{
+			"brand": "Jeep",
+			"model": "Compass",
+			"color": "Violet",
+			"year": 2012,
+			"price": 2732.99,
+			"available": false
+		},
+		{
+			"brand": "Mitsubishi",
+			"model": "Lancer Evolution",
+			"color": "Purple",
+			"year": 2002,
+			"price": 3849.47,
+			"available": false
+		},
+		{
+			"brand": "Chevrolet",
+			"model": "Suburban",
+			"color": "Indigo",
+			"year": 2009,
+			"price": 1252.3,
+			"available": false
+		},
+		{
+			"brand": "Dodge",
+			"model": "Ram Van B350",
+			"color": "Yellow",
+			"year": 1994,
+			"price": 1762.42,
+			"available": true
+		},
+		{
+			"brand": "Isuzu",
+			"model": "Ascender",
+			"color": "Teal",
+			"year": 2004,
+			"price": 1081.4,
+			"available": true
+		},
+		{
+			"brand": "BMW",
+			"model": "6 Series",
+			"color": "Purple",
+			"year": 2008,
+			"price": 1258.99,
+			"available": true
+		},
+		{
+			"brand": "Mitsubishi",
+			"model": "GTO",
+			"color": "Purple",
+			"year": 1994,
+			"price": 3822.92,
+			"available": false
+		},
+		{
+			"brand": "Mazda",
+			"model": "Mazda5",
+			"color": "Red",
+			"year": 2010,
+			"price": 3963.2,
+			"available": true
+		},
+		{
+			"brand": "Audi",
+			"model": "Q7",
+			"color": "Pink",
+			"year": 2012,
+			"price": 1144.27,
+			"available": true
+		},
+		{
+			"brand": "Mercedes-Benz",
+			"model": "SL-Class",
+			"color": "Aquamarine",
+			"year": 1989,
+			"price": 1386.49,
+			"available": true
+		},
+		{
+			"brand": "Volvo",
+			"model": "C70",
+			"color": "Red",
+			"year": 2012,
+			"price": 1366.96,
+			"available": true
+		},
+		{
+			"brand": "GMC",
+			"model": "Envoy XL",
+			"color": "Green",
+			"year": 2006,
+			"price": 1221.46,
+			"available": false
+		},
+		{
+			"brand": "GMC",
+			"model": "Vandura G3500",
+			"color": "Teal",
+			"year": 1996,
+			"price": 1877.63,
+			"available": true
+		},
+		{
+			"brand": "Cadillac",
+			"model": "CTS",
+			"color": "Pink",
+			"year": 2003,
+			"price": 2646.55,
+			"available": true
+		},
+		{
+			"brand": "BMW",
+			"model": "X5 M",
+			"color": "Mauv",
+			"year": 2012,
+			"price": 2076.03,
+			"available": true
+		},
+		{
+			"brand": "Dodge",
+			"model": "Viper",
+			"color": "Turquoise",
+			"year": 1999,
+			"price": 1323.48,
+			"available": true
+		},
+		{
+			"brand": "Ford",
+			"model": "Taurus",
+			"color": "Mauv",
+			"year": 2002,
+			"price": 1801.89,
+			"available": false
+		},
+		{
+			"brand": "Suzuki",
+			"model": "Swift",
+			"color": "Green",
+			"year": 1996,
+			"price": 2716.12,
+			"available": true
+		},
+		{
+			"brand": "Chrysler",
+			"model": "Town & Country",
+			"color": "Mauv",
+			"year": 2010,
+			"price": 3480.31,
+			"available": false
+		},
+		{
+			"brand": "Maserati",
+			"model": "430",
+			"color": "Blue",
+			"year": 1991,
+			"price": 1660.01,
+			"available": false
+		},
+		{
+			"brand": "Toyota",
+			"model": "Tacoma Xtra",
+			"color": "Puce",
+			"year": 1996,
+			"price": 3532.17,
+			"available": false
+		},
+		{
+			"brand": "Volkswagen",
+			"model": "Eurovan",
+			"color": "Pink",
+			"year": 2000,
+			"price": 1645.81,
+			"available": true
+		},
+		{
+			"brand": "Ford",
+			"model": "Econoline E150",
+			"color": "Puce",
+			"year": 2002,
+			"price": 3464.94,
+			"available": true
+		},
+		{
+			"brand": "GMC",
+			"model": "Sierra Denali",
+			"color": "Green",
+			"year": 2006,
+			"price": 1506.9,
+			"available": false
+		},
+		{
+			"brand": "Lotus",
+			"model": "Esprit",
+			"color": "Purple",
+			"year": 1991,
+			"price": 1061.74,
+			"available": false
+		},
+		{
+			"brand": "Mitsubishi",
+			"model": "Expo",
+			"color": "Maroon",
+			"year": 1995,
+			"price": 1828.44,
+			"available": false
+		},
+		{
+			"brand": "Land Rover",
+			"model": "Discovery Series II",
+			"color": "Orange",
+			"year": 2002,
+			"price": 2911.93,
+			"available": false
+		},
+		{
+			"brand": "Geo",
+			"model": "Tracker",
+			"color": "Khaki",
+			"year": 1997,
+			"price": 3894.12,
+			"available": true
+		},
+		{
+			"brand": "Mercury",
+			"model": "Monterey",
+			"color": "Violet",
+			"year": 2004,
+			"price": 2799.57,
+			"available": true
+		},
+		{
+			"brand": "BMW",
+			"model": "3 Series",
+			"color": "Violet",
+			"year": 1992,
+			"price": 1629.85,
+			"available": false
+		},
+		{
+			"brand": "GMC",
+			"model": "3500 Club Coupe",
+			"color": "Fuscia",
+			"year": 1998,
+			"price": 3559.47,
+			"available": true
+		},
+		{
+			"brand": "Volkswagen",
+			"model": "Passat",
+			"color": "Puce",
+			"year": 1998,
+			"price": 1468.79,
+			"available": true
+		},
+		{
+			"brand": "GMC",
+			"model": "Yukon",
+			"color": "Indigo",
+			"year": 2007,
+			"price": 2477.77,
+			"available": false
+		},
+		{
+			"brand": "Volkswagen",
+			"model": "Golf",
+			"color": "Khaki",
+			"year": 1991,
+			"price": 3968.2,
+			"available": false
+		},
+		{
+			"brand": "Mercedes-Benz",
+			"model": "SLR McLaren",
+			"color": "Orange",
+			"year": 2008,
+			"price": 1437.86,
+			"available": false
+		},
+		{
+			"brand": "Land Rover",
+			"model": "Range Rover",
+			"color": "Khaki",
+			"year": 1993,
+			"price": 1341.78,
+			"available": true
+		},
+		{
+			"brand": "Lamborghini",
+			"model": "Countach",
+			"color": "Goldenrod",
+			"year": 1985,
+			"price": 2139.19,
+			"available": true
+		},
+		{
+			"brand": "Dodge",
+			"model": "Durango",
+			"color": "Indigo",
+			"year": 2002,
+			"price": 2887.16,
+			"available": true
+		},
+		{
+			"brand": "Saturn",
+			"model": "VUE",
+			"color": "Violet",
+			"year": 2006,
+			"price": 3042.96,
+			"available": true
+		},
+		{
+			"brand": "Toyota",
+			"model": "Matrix",
+			"color": "Violet",
+			"year": 2005,
+			"price": 1238.19,
+			"available": false
+		},
+		{
+			"brand": "Jaguar",
+			"model": "XJ",
+			"color": "Orange",
+			"year": 2006,
+			"price": 3879.67,
+			"available": true
+		},
+		{
+			"brand": "Mercedes-Benz",
+			"model": "Sprinter 3500",
+			"color": "Maroon",
+			"year": 2011,
+			"price": 3567.25,
+			"available": true
+		},
+		{
+			"brand": "Mitsubishi",
+			"model": "Montero",
+			"color": "Crimson",
+			"year": 1996,
+			"price": 3217.31,
+			"available": true
+		},
+		{
+			"brand": "Subaru",
+			"model": "Impreza",
+			"color": "Fuscia",
+			"year": 2006,
+			"price": 2437.81,
+			"available": false
+		},
+		{
+			"brand": "Audi",
+			"model": "A5",
+			"color": "Orange",
+			"year": 2012,
+			"price": 2455.81,
+			"available": false
+		},
+		{
+			"brand": "Porsche",
+			"model": "928",
+			"color": "Blue",
+			"year": 1994,
+			"price": 2112.12,
+			"available": false
+		},
+		{
+			"brand": "Acura",
+			"model": "TL",
+			"color": "Violet",
+			"year": 2000,
+			"price": 3595.67,
+			"available": false
+		},
+		{
+			"brand": "Mitsubishi",
+			"model": "Mirage",
+			"color": "Teal",
+			"year": 1992,
+			"price": 3642.5,
+			"available": true
+		},
+		{
+			"brand": "Kia",
+			"model": "Rondo",
+			"color": "Red",
+			"year": 2008,
+			"price": 1150.48,
+			"available": true
+		},
+		{
+			"brand": "Nissan",
+			"model": "Maxima",
+			"color": "Purple",
+			"year": 2005,
+			"price": 2308.71,
+			"available": true
+		},
+		{
+			"brand": "Suzuki",
+			"model": "Samurai",
+			"color": "Fuscia",
+			"year": 1992,
+			"price": 3523.87,
+			"available": true
+		},
+		{
+			"brand": "Chevrolet",
+			"model": "Cobalt",
+			"color": "Pink",
+			"year": 2009,
+			"price": 1668.89,
+			"available": true
+		},
+		{
+			"brand": "GMC",
+			"model": "Acadia",
+			"color": "Pink",
+			"year": 2011,
+			"price": 3564.3,
+			"available": true
+		},
+		{
+			"brand": "Volkswagen",
+			"model": "Golf",
+			"color": "Maroon",
+			"year": 1998,
+			"price": 3866.51,
+			"available": true
+		},
+		{
+			"brand": "Lexus",
+			"model": "GS",
+			"color": "Violet",
+			"year": 1996,
+			"price": 3045.06,
+			"available": true
+		},
+		{
+			"brand": "Cadillac",
+			"model": "Eldorado",
+			"color": "Orange",
+			"year": 2002,
+			"price": 1652.75,
+			"available": true
+		},
+		{
+			"brand": "Ford",
+			"model": "F250",
+			"color": "Teal",
+			"year": 2010,
+			"price": 3702.14,
+			"available": true
+		},
+		{
+			"brand": "GMC",
+			"model": "Savana 2500",
+			"color": "Turquoise",
+			"year": 2005,
+			"price": 3330.66,
+			"available": false
+		},
+		{
+			"brand": "BMW",
+			"model": "645",
+			"color": "Blue",
+			"year": 2005,
+			"price": 1498.82,
+			"available": true
+		},
+		{
+			"brand": "Chevrolet",
+			"model": "1500",
+			"color": "Orange",
+			"year": 1994,
+			"price": 2063.98,
+			"available": false
+		},
+		{
+			"brand": "Ford",
+			"model": "Taurus",
+			"color": "Khaki",
+			"year": 1992,
+			"price": 2802.49,
+			"available": false
+		},
+		{
+			"brand": "Lexus",
+			"model": "RX",
+			"color": "Maroon",
+			"year": 2007,
+			"price": 2462.45,
+			"available": false
+		},
+		{
+			"brand": "GMC",
+			"model": "Savana",
+			"color": "Goldenrod",
+			"year": 2010,
+			"price": 1315.98,
+			"available": true
+		},
+		{
+			"brand": "Kia",
+			"model": "Spectra",
+			"color": "Khaki",
+			"year": 2007,
+			"price": 3011.1,
+			"available": false
+		},
+		{
+			"brand": "Bentley",
+			"model": "Continental GT",
+			"color": "Turquoise",
+			"year": 2012,
+			"price": 1419.38,
+			"available": false
+		},
+		{
+			"brand": "Dodge",
+			"model": "Dakota",
+			"color": "Goldenrod",
+			"year": 2008,
+			"price": 1407.1,
+			"available": false
+		},
+		{
+			"brand": "Honda",
+			"model": "Civic",
+			"color": "Turquoise",
+			"year": 2001,
+			"price": 2508.52,
+			"available": true
+		},
+		{
+			"brand": "Lexus",
+			"model": "LS",
+			"color": "Violet",
+			"year": 1992,
+			"price": 1700.5,
+			"available": false
+		},
+		{
+			"brand": "BMW",
+			"model": "1 Series",
+			"color": "Fuscia",
+			"year": 2012,
+			"price": 1231.67,
+			"available": false
+		},
+		{
+			"brand": "Ferrari",
+			"model": "F430",
+			"color": "Pink",
+			"year": 2007,
+			"price": 1185.92,
+			"available": false
+		},
+		{
+			"brand": "Pontiac",
+			"model": "Grand Prix",
+			"color": "Violet",
+			"year": 1996,
+			"price": 2065.93,
+			"available": true
+		},
+		{
+			"brand": "Suzuki",
+			"model": "Esteem",
+			"color": "Puce",
+			"year": 1995,
+			"price": 2054.55,
+			"available": true
+		},
+		{
+			"brand": "Nissan",
+			"model": "Versa",
+			"color": "Crimson",
+			"year": 2012,
+			"price": 1500.26,
+			"available": false
+		},
+		{
+			"brand": "Suzuki",
+			"model": "Swift",
+			"color": "Teal",
+			"year": 1995,
+			"price": 3864.08,
+			"available": true
+		},
+		{
+			"brand": "Mitsubishi",
+			"model": "Diamante",
+			"color": "Turquoise",
+			"year": 2000,
+			"price": 2886.85,
+			"available": false
+		},
+		{
+			"brand": "Cadillac",
+			"model": "XLR-V",
+			"color": "Goldenrod",
+			"year": 2007,
+			"price": 1089.89,
+			"available": false
+		},
+		{
+			"brand": "Honda",
+			"model": "Pilot",
+			"color": "Green",
+			"year": 2009,
+			"price": 1897.01,
+			"available": false
+		},
+		{
+			"brand": "Nissan",
+			"model": "Frontier",
+			"color": "Pink",
+			"year": 2011,
+			"price": 1401.49,
+			"available": false
+		},
+		{
+			"brand": "Dodge",
+			"model": "Caravan",
+			"color": "Green",
+			"year": 2004,
+			"price": 1367.44,
+			"available": true
+		},
+		{
+			"brand": "Aston Martin",
+			"model": "DB9",
+			"color": "Mauv",
+			"year": 2006,
+			"price": 3051.68,
+			"available": false
+		},
+		{
+			"brand": "Mercedes-Benz",
+			"model": "300E",
+			"color": "Blue",
+			"year": 1992,
+			"price": 1186.54,
+			"available": true
+		},
+		{
+			"brand": "Subaru",
+			"model": "SVX",
+			"color": "Blue",
+			"year": 1994,
+			"price": 1209.9,
+			"available": true
+		},
+		{
+			"brand": "Dodge",
+			"model": "Ram Van 2500",
+			"color": "Puce",
+			"year": 1997,
+			"price": 2986.94,
+			"available": false
+		},
+		{
+			"brand": "Chevrolet",
+			"model": "Corvette",
+			"color": "Turquoise",
+			"year": 1961,
+			"price": 3783.62,
+			"available": true
+		},
+		{
+			"brand": "Mitsubishi",
+			"model": "Diamante",
+			"color": "Indigo",
+			"year": 2000,
+			"price": 1312.27,
+			"available": true
+		},
+		{
+			"brand": "Mitsubishi",
+			"model": "Expo",
+			"color": "Maroon",
+			"year": 1994,
+			"price": 1946.73,
+			"available": true
+		},
+		{
+			"brand": "GMC",
+			"model": "Safari",
+			"color": "Goldenrod",
+			"year": 1998,
+			"price": 3748.78,
+			"available": true
+		},
+		{
+			"brand": "BMW",
+			"model": "M5",
+			"color": "Crimson",
+			"year": 2009,
+			"price": 3914.79,
+			"available": false
+		},
+		{
+			"brand": "Dodge",
+			"model": "Ram 3500",
+			"color": "Pink",
+			"year": 1999,
+			"price": 3001.79,
+			"available": true
+		},
+		{
+			"brand": "Chevrolet",
+			"model": "G-Series 1500",
+			"color": "Fuscia",
+			"year": 1998,
+			"price": 3471.12,
+			"available": false
+		},
+		{
+			"brand": "Toyota",
+			"model": "Camry Hybrid",
+			"color": "Turquoise",
+			"year": 2007,
+			"price": 2195.59,
+			"available": false
+		},
+		{
+			"brand": "Ford",
+			"model": "Contour",
+			"color": "Orange",
+			"year": 1997,
+			"price": 1981.14,
+			"available": true
+		},
+		{
+			"brand": "Mercedes-Benz",
+			"model": "SL-Class",
+			"color": "Khaki",
+			"year": 2006,
+			"price": 1937.08,
+			"available": false
+		},
+		{
+			"brand": "Subaru",
+			"model": "Outback",
+			"color": "Puce",
+			"year": 2002,
+			"price": 1934.78,
+			"available": false
+		},
+		{
+			"brand": "Ford",
+			"model": "E-Series",
+			"color": "Violet",
+			"year": 2003,
+			"price": 3202.99,
+			"available": true
+		},
+		{
+			"brand": "Ford",
+			"model": "F150",
+			"color": "Pink",
+			"year": 1994,
+			"price": 1245.14,
+			"available": true
+		},
+		{
+			"brand": "Hyundai",
+			"model": "Veloster",
+			"color": "Indigo",
+			"year": 2012,
+			"price": 2987.01,
+			"available": true
+		},
+		{
+			"brand": "Lincoln",
+			"model": "Mark VIII",
+			"color": "Teal",
+			"year": 1994,
+			"price": 1463.19,
+			"available": false
+		},
+		{
+			"brand": "Land Rover",
+			"model": "Range Rover",
+			"color": "Mauv",
+			"year": 1986,
+			"price": 1446.6,
+			"available": true
+		},
+		{
+			"brand": "Cadillac",
+			"model": "DeVille",
+			"color": "Turquoise",
+			"year": 1996,
+			"price": 2922.12,
+			"available": true
+		},
+		{
+			"brand": "Mitsubishi",
+			"model": "Eclipse",
+			"color": "Orange",
+			"year": 2007,
+			"price": 3525.9,
+			"available": false
+		},
+		{
+			"brand": "Honda",
+			"model": "Prelude",
+			"color": "Crimson",
+			"year": 2000,
+			"price": 2770.75,
+			"available": true
+		},
+		{
+			"brand": "Lincoln",
+			"model": "Continental",
+			"color": "Puce",
+			"year": 1998,
+			"price": 2849.2,
+			"available": true
+		},
+		{
+			"brand": "Chevrolet",
+			"model": "G-Series 1500",
+			"color": "Yellow",
+			"year": 1998,
+			"price": 1148.41,
+			"available": false
+		},
+		{
+			"brand": "Buick",
+			"model": "Roadmaster",
+			"color": "Pink",
+			"year": 1994,
+			"price": 2145.7,
+			"available": false
+		},
+		{
+			"brand": "Nissan",
+			"model": "NV1500",
+			"color": "Fuscia",
+			"year": 2012,
+			"price": 1303.46,
+			"available": false
+		},
+		{
+			"brand": "Jaguar",
+			"model": "XK Series",
+			"color": "Violet",
+			"year": 2000,
+			"price": 3560.16,
+			"available": true
+		},
+		{
+			"brand": "Toyota",
+			"model": "Land Cruiser",
+			"color": "Turquoise",
+			"year": 2005,
+			"price": 3212.46,
+			"available": true
+		},
+		{
+			"brand": "Nissan",
+			"model": "Frontier",
+			"color": "Crimson",
+			"year": 2007,
+			"price": 2531.06,
+			"available": true
+		},
+		{
+			"brand": "Suzuki",
+			"model": "X-90",
+			"color": "Green",
+			"year": 1997,
+			"price": 3637.72,
+			"available": true
+		},
+		{
+			"brand": "MINI",
+			"model": "MINI",
+			"color": "Maroon",
+			"year": 2002,
+			"price": 1084.8,
+			"available": true
+		},
+		{
+			"brand": "GMC",
+			"model": "Sierra",
+			"color": "Crimson",
+			"year": 2009,
+			"price": 3405.99,
+			"available": true
+		},
+		{
+			"brand": "Hyundai",
+			"model": "Veracruz",
+			"color": "Puce",
+			"year": 2007,
+			"price": 2361.57,
+			"available": true
+		},
+		{
+			"brand": "Saturn",
+			"model": "S-Series",
+			"color": "Teal",
+			"year": 1993,
+			"price": 2277.25,
+			"available": false
+		},
+		{
+			"brand": "Volvo",
+			"model": "C70",
+			"color": "Crimson",
+			"year": 2011,
+			"price": 3910.9,
+			"available": true
+		},
+		{
+			"brand": "GMC",
+			"model": "Sierra 3500",
+			"color": "Puce",
+			"year": 2010,
+			"price": 2793.04,
+			"available": false
+		},
+		{
+			"brand": "GMC",
+			"model": "Yukon XL 1500",
+			"color": "Khaki",
+			"year": 2005,
+			"price": 1166.24,
+			"available": false
+		},
+		{
+			"brand": "BMW",
+			"model": "7 Series",
+			"color": "Turquoise",
+			"year": 2009,
+			"price": 2136.36,
+			"available": false
+		},
+		{
+			"brand": "Chevrolet",
+			"model": "Suburban 2500",
+			"color": "Khaki",
+			"year": 2002,
+			"price": 1750.74,
+			"available": false
+		},
+		{
+			"brand": "Jeep",
+			"model": "Liberty",
+			"color": "Indigo",
+			"year": 2007,
+			"price": 1686.33,
+			"available": false
+		},
+		{
+			"brand": "Mercedes-Benz",
+			"model": "G-Class",
+			"color": "Violet",
+			"year": 2010,
+			"price": 2616.48,
+			"available": true
+		},
+		{
+			"brand": "Cadillac",
+			"model": "Escalade ESV",
+			"color": "Red",
+			"year": 2011,
+			"price": 3716.72,
+			"available": true
+		},
+		{
+			"brand": "Chevrolet",
+			"model": "Impala",
+			"color": "Goldenrod",
+			"year": 1995,
+			"price": 1344.5,
+			"available": true
+		},
+		{
+			"brand": "Pontiac",
+			"model": "6000",
+			"color": "Aquamarine",
+			"year": 1986,
+			"price": 3741.61,
+			"available": false
+		},
+		{
+			"brand": "Ford",
+			"model": "Festiva",
+			"color": "Purple",
+			"year": 1989,
+			"price": 3214.22,
+			"available": false
+		},
+		{
+			"brand": "Chevrolet",
+			"model": "Impala",
+			"color": "Violet",
+			"year": 1996,
+			"price": 1432.28,
+			"available": false
+		},
+		{
+			"brand": "Mazda",
+			"model": "RX-8",
+			"color": "Blue",
+			"year": 2009,
+			"price": 1552.12,
+			"available": true
+		},
+		{
+			"brand": "Toyota",
+			"model": "Avalon",
+			"color": "Purple",
+			"year": 2004,
+			"price": 1794.74,
+			"available": false
+		},
+		{
+			"brand": "Mazda",
+			"model": "MX-6",
+			"color": "Green",
+			"year": 1992,
+			"price": 1895.74,
+			"available": true
+		},
+		{
+			"brand": "Kia",
+			"model": "Sephia",
+			"color": "Red",
+			"year": 1997,
+			"price": 3282.08,
+			"available": false
+		},
+		{
+			"brand": "Pontiac",
+			"model": "Gemini",
+			"color": "Goldenrod",
+			"year": 1989,
+			"price": 1249.75,
+			"available": true
+		},
+		{
+			"brand": "Dodge",
+			"model": "Ram Van B250",
+			"color": "Violet",
+			"year": 1994,
+			"price": 3915.36,
+			"available": false
+		},
+		{
+			"brand": "Plymouth",
+			"model": "Grand Voyager",
+			"color": "Yellow",
+			"year": 1995,
+			"price": 1332.26,
+			"available": true
+		},
+		{
+			"brand": "Ford",
+			"model": "Econoline E350",
+			"color": "Fuscia",
+			"year": 1994,
+			"price": 3742.2,
+			"available": false
+		},
+		{
+			"brand": "GMC",
+			"model": "Vandura 2500",
+			"color": "Red",
+			"year": 1992,
+			"price": 1030.39,
+			"available": true
+		},
+		{
+			"brand": "Ford",
+			"model": "Explorer",
+			"color": "Blue",
+			"year": 2010,
+			"price": 3135.57,
+			"available": true
+		},
+		{
+			"brand": "Dodge",
+			"model": "Dakota",
+			"color": "Aquamarine",
+			"year": 2001,
+			"price": 3802.52,
+			"available": false
+		},
+		{
+			"brand": "Toyota",
+			"model": "Tacoma Xtra",
+			"color": "Crimson",
+			"year": 1995,
+			"price": 2842.63,
+			"available": false
+		},
+		{
+			"brand": "Dodge",
+			"model": "D150",
+			"color": "Violet",
+			"year": 1992,
+			"price": 2302.23,
+			"available": false
+		},
+		{
+			"brand": "Mazda",
+			"model": "Mazda6",
+			"color": "Blue",
+			"year": 2008,
+			"price": 2299.79,
+			"available": false
+		},
+		{
+			"brand": "Pontiac",
+			"model": "Grand Prix",
+			"color": "Aquamarine",
+			"year": 2004,
+			"price": 1162.25,
+			"available": true
+		},
+		{
+			"brand": "Chrysler",
+			"model": "Crossfire",
+			"color": "Khaki",
+			"year": 2004,
+			"price": 1593.55,
+			"available": true
+		},
+		{
+			"brand": "Honda",
+			"model": "CR-Z",
+			"color": "Blue",
+			"year": 2011,
+			"price": 1725.72,
+			"available": true
+		},
+		{
+			"brand": "Volkswagen",
+			"model": "Cabriolet",
+			"color": "Green",
+			"year": 1989,
+			"price": 1495.38,
+			"available": false
+		},
+		{
+			"brand": "Volkswagen",
+			"model": "Jetta",
+			"color": "Maroon",
+			"year": 2004,
+			"price": 3633.12,
+			"available": true
+		},
+		{
+			"brand": "Lexus",
+			"model": "RX",
+			"color": "Maroon",
+			"year": 2008,
+			"price": 1751.58,
+			"available": false
+		},
+		{
+			"brand": "Mitsubishi",
+			"model": "Mirage",
+			"color": "Fuscia",
+			"year": 1996,
+			"price": 3359.5,
+			"available": false
+		},
+		{
+			"brand": "Jaguar",
+			"model": "XK Series",
+			"color": "Purple",
+			"year": 1999,
+			"price": 2011.84,
+			"available": true
+		},
+		{
+			"brand": "Ford",
+			"model": "Fusion",
+			"color": "Blue",
+			"year": 2011,
+			"price": 3781.78,
+			"available": true
+		},
+		{
+			"brand": "Saab",
+			"model": "9000",
+			"color": "Crimson",
+			"year": 1997,
+			"price": 3427.05,
+			"available": true
+		},
+		{
+			"brand": "Chevrolet",
+			"model": "TrailBlazer",
+			"color": "Violet",
+			"year": 2006,
+			"price": 2167.72,
+			"available": true
+		},
+		{
+			"brand": "Honda",
+			"model": "Civic",
+			"color": "Aquamarine",
+			"year": 2010,
+			"price": 1116.87,
+			"available": false
+		},
+		{
+			"brand": "BMW",
+			"model": "3 Series",
+			"color": "Green",
+			"year": 2006,
+			"price": 1124.01,
+			"available": true
+		},
+		{
+			"brand": "GMC",
+			"model": "Terrain",
+			"color": "Violet",
+			"year": 2011,
+			"price": 1649.82,
+			"available": false
+		},
+		{
+			"brand": "Ford",
+			"model": "Aerostar",
+			"color": "Pink",
+			"year": 1996,
+			"price": 2549.51,
+			"available": false
+		},
+		{
+			"brand": "Subaru",
+			"model": "Legacy",
+			"color": "Aquamarine",
+			"year": 1995,
+			"price": 3597.01,
+			"available": false
+		},
+		{
+			"brand": "Dodge",
+			"model": "Ram 50",
+			"color": "Puce",
+			"year": 1993,
+			"price": 2101.71,
+			"available": true
+		},
+		{
+			"brand": "Geo",
+			"model": "Metro",
+			"color": "Maroon",
+			"year": 1994,
+			"price": 1462.76,
+			"available": true
+		},
+		{
+			"brand": "Mercury",
+			"model": "Tracer",
+			"color": "Puce",
+			"year": 1991,
+			"price": 3109.46,
+			"available": true
+		},
+		{
+			"brand": "Mazda",
+			"model": "Mazdaspeed 3",
+			"color": "Mauv",
+			"year": 2012,
+			"price": 3368.98,
+			"available": false
+		},
+		{
+			"brand": "Mitsubishi",
+			"model": "Outlander Sport",
+			"color": "Red",
+			"year": 2012,
+			"price": 3488.55,
+			"available": true
+		},
+		{
+			"brand": "Ford",
+			"model": "Fusion",
+			"color": "Pink",
+			"year": 2010,
+			"price": 1542.98,
+			"available": true
+		},
+		{
+			"brand": "Volvo",
+			"model": "V70",
+			"color": "Aquamarine",
+			"year": 2008,
+			"price": 1678.31,
+			"available": false
+		},
+		{
+			"brand": "Jeep",
+			"model": "Wrangler",
+			"color": "Violet",
+			"year": 1992,
+			"price": 1946.8,
+			"available": false
+		},
+		{
+			"brand": "Pontiac",
+			"model": "GTO",
+			"color": "Puce",
+			"year": 1966,
+			"price": 2925.66,
+			"available": true
+		},
+		{
+			"brand": "Maybach",
+			"model": "57",
+			"color": "Turquoise",
+			"year": 2010,
+			"price": 2375.61,
+			"available": false
+		},
+		{
+			"brand": "Porsche",
+			"model": "944",
+			"color": "Teal",
+			"year": 1984,
+			"price": 2398.08,
+			"available": true
+		},
+		{
+			"brand": "Jeep",
+			"model": "Cherokee",
+			"color": "Maroon",
+			"year": 1992,
+			"price": 1319.48,
+			"available": true
+		},
+		{
+			"brand": "Volkswagen",
+			"model": "Golf",
+			"color": "Khaki",
+			"year": 2005,
+			"price": 3912.57,
+			"available": false
+		},
+		{
+			"brand": "Honda",
+			"model": "Odyssey",
+			"color": "Violet",
+			"year": 2008,
+			"price": 3078.29,
+			"available": false
+		},
+		{
+			"brand": "Chrysler",
+			"model": "LeBaron",
+			"color": "Purple",
+			"year": 1994,
+			"price": 3293.49,
+			"available": false
+		},
+		{
+			"brand": "Eagle",
+			"model": "Summit",
+			"color": "Violet",
+			"year": 1993,
+			"price": 1238.66,
+			"available": true
+		},
+		{
+			"brand": "GMC",
+			"model": "Safari",
+			"color": "Red",
+			"year": 1993,
+			"price": 3723.56,
+			"available": false
+		},
+		{
+			"brand": "Volkswagen",
+			"model": "Golf",
+			"color": "Indigo",
+			"year": 2012,
+			"price": 2925.89,
+			"available": true
+		},
+		{
+			"brand": "Mazda",
+			"model": "RX-7",
+			"color": "Mauv",
+			"year": 1995,
+			"price": 2095.57,
+			"available": true
+		},
+		{
+			"brand": "Lamborghini",
+			"model": "Diablo",
+			"color": "Purple",
+			"year": 2001,
+			"price": 1194.42,
+			"available": true
+		},
+		{
+			"brand": "Chevrolet",
+			"model": "Corvette",
+			"color": "Pink",
+			"year": 1965,
+			"price": 2009.53,
+			"available": true
+		},
+		{
+			"brand": "Oldsmobile",
+			"model": "Achieva",
+			"color": "Goldenrod",
+			"year": 1994,
+			"price": 2418.32,
+			"available": true
+		},
+		{
+			"brand": "Honda",
+			"model": "Accord",
+			"color": "Mauv",
+			"year": 1993,
+			"price": 2952.04,
+			"available": true
+		},
+		{
+			"brand": "Chevrolet",
+			"model": "Caprice",
+			"color": "Indigo",
+			"year": 1994,
+			"price": 2260.8,
+			"available": true
+		},
+		{
+			"brand": "Hyundai",
+			"model": "Santa Fe",
+			"color": "Teal",
+			"year": 2005,
+			"price": 3970.53,
+			"available": false
+		},
+		{
+			"brand": "GMC",
+			"model": "Sonoma",
+			"color": "Puce",
+			"year": 1997,
+			"price": 3961.08,
+			"available": true
+		},
+		{
+			"brand": "Mercury",
+			"model": "Mountaineer",
+			"color": "Violet",
+			"year": 2005,
+			"price": 3420.82,
+			"available": false
+		},
+		{
+			"brand": "Saab",
+			"model": "9-5",
+			"color": "Violet",
+			"year": 2007,
+			"price": 1277.8,
+			"available": true
+		},
+		{
+			"brand": "Chevrolet",
+			"model": "2500",
+			"color": "Khaki",
+			"year": 2000,
+			"price": 2623.18,
+			"available": true
+		},
+		{
+			"brand": "Pontiac",
+			"model": "Grand Prix",
+			"color": "Indigo",
+			"year": 1975,
+			"price": 2147.6,
+			"available": false
+		},
+		{
+			"brand": "Eagle",
+			"model": "Talon",
+			"color": "Goldenrod",
+			"year": 1995,
+			"price": 2966.72,
+			"available": true
+		},
+		{
+			"brand": "Chevrolet",
+			"model": "Corvette",
+			"color": "Turquoise",
+			"year": 2003,
+			"price": 1370.71,
+			"available": false
+		},
+		{
+			"brand": "Mercedes-Benz",
+			"model": "S-Class",
+			"color": "Blue",
+			"year": 1992,
+			"price": 1284.9,
+			"available": false
+		},
+		{
+			"brand": "Dodge",
+			"model": "Daytona",
+			"color": "Pink",
+			"year": 1993,
+			"price": 1622.24,
+			"available": false
+		},
+		{
+			"brand": "Jaguar",
+			"model": "XJ",
+			"color": "Indigo",
+			"year": 2012,
+			"price": 2278.07,
+			"available": false
+		},
+		{
+			"brand": "Toyota",
+			"model": "Echo",
+			"color": "Yellow",
+			"year": 2005,
+			"price": 3609.78,
+			"available": false
+		},
+		{
+			"brand": "Saab",
+			"model": "9-3",
+			"color": "Purple",
+			"year": 1999,
+			"price": 1557.03,
+			"available": true
+		},
+		{
+			"brand": "Mazda",
+			"model": "B-Series",
+			"color": "Purple",
+			"year": 1988,
+			"price": 2185.2,
+			"available": true
+		},
+		{
+			"brand": "Hyundai",
+			"model": "Tiburon",
+			"color": "Yellow",
+			"year": 2005,
+			"price": 3338.77,
+			"available": false
+		},
+		{
+			"brand": "Volvo",
+			"model": "XC90",
+			"color": "Aquamarine",
+			"year": 2006,
+			"price": 2319.11,
+			"available": true
+		},
+		{
+			"brand": "Mitsubishi",
+			"model": "Eclipse",
+			"color": "Goldenrod",
+			"year": 2006,
+			"price": 2047.61,
+			"available": true
+		},
+		{
+			"brand": "Bentley",
+			"model": "Azure",
+			"color": "Red",
+			"year": 2008,
+			"price": 3240.79,
+			"available": false
+		},
+		{
+			"brand": "Lexus",
+			"model": "GX",
+			"color": "Fuscia",
+			"year": 2011,
+			"price": 2828.06,
+			"available": false
+		},
+		{
+			"brand": "Mazda",
+			"model": "B2000",
+			"color": "Maroon",
+			"year": 1985,
+			"price": 1663.91,
+			"available": false
+		},
+		{
+			"brand": "Lexus",
+			"model": "LS",
+			"color": "Crimson",
+			"year": 1989,
+			"price": 2363.28,
+			"available": true
+		},
+		{
+			"brand": "MINI",
+			"model": "Cooper Countryman",
+			"color": "Pink",
+			"year": 2012,
+			"price": 3064.07,
+			"available": false
+		},
+		{
+			"brand": "GMC",
+			"model": "3500",
+			"color": "Red",
+			"year": 1996,
+			"price": 2107.49,
+			"available": true
+		},
+		{
+			"brand": "Chevrolet",
+			"model": "Express 2500",
+			"color": "Red",
+			"year": 1998,
+			"price": 2779.89,
+			"available": false
+		},
+		{
+			"brand": "MINI",
+			"model": "Cooper",
+			"color": "Purple",
+			"year": 2011,
+			"price": 3426.46,
+			"available": false
+		},
+		{
+			"brand": "Hyundai",
+			"model": "Santa Fe",
+			"color": "Orange",
+			"year": 2003,
+			"price": 3118.32,
+			"available": false
+		},
+		{
+			"brand": "Ford",
+			"model": "E-Series",
+			"color": "Puce",
+			"year": 1963,
+			"price": 1287.11,
+			"available": true
+		},
+		{
+			"brand": "Infiniti",
+			"model": "J",
+			"color": "Blue",
+			"year": 1993,
+			"price": 2636.97,
+			"available": false
+		},
+		{
+			"brand": "GMC",
+			"model": "Suburban 1500",
+			"color": "Khaki",
+			"year": 1997,
+			"price": 3291.6,
+			"available": true
+		},
+		{
+			"brand": "GMC",
+			"model": "Sonoma",
+			"color": "Purple",
+			"year": 2002,
+			"price": 2460.93,
+			"available": true
+		},
+		{
+			"brand": "Hyundai",
+			"model": "Sonata",
+			"color": "Maroon",
+			"year": 2007,
+			"price": 2408.08,
+			"available": false
+		},
+		{
+			"brand": "Chevrolet",
+			"model": "Express 1500",
+			"color": "Yellow",
+			"year": 1998,
+			"price": 1589.09,
+			"available": false
+		},
+		{
+			"brand": "Nissan",
+			"model": "Rogue",
+			"color": "Puce",
+			"year": 2012,
+			"price": 1198.69,
+			"available": true
+		},
+		{
+			"brand": "Maserati",
+			"model": "Spyder",
+			"color": "Red",
+			"year": 2004,
+			"price": 1962.92,
+			"available": true
+		},
+		{
+			"brand": "Nissan",
+			"model": "280ZX",
+			"color": "Goldenrod",
+			"year": 1979,
+			"price": 3338.05,
+			"available": true
+		},
+		{
+			"brand": "GMC",
+			"model": "Suburban 1500",
+			"color": "Green",
+			"year": 1997,
+			"price": 2267.86,
+			"available": false
+		},
+		{
+			"brand": "Ford",
+			"model": "E150",
+			"color": "Aquamarine",
+			"year": 2003,
+			"price": 1229.39,
+			"available": false
+		},
+		{
+			"brand": "Chevrolet",
+			"model": "Corvette",
+			"color": "Orange",
+			"year": 1959,
+			"price": 3349.67,
+			"available": true
+		},
+		{
+			"brand": "Dodge",
+			"model": "Neon",
+			"color": "Purple",
+			"year": 2003,
+			"price": 1389.55,
+			"available": false
+		},
+		{
+			"brand": "Honda",
+			"model": "Accord",
+			"color": "Fuscia",
+			"year": 1989,
+			"price": 1850.43,
+			"available": true
+		},
+		{
+			"brand": "Volkswagen",
+			"model": "rio",
+			"color": "Puce",
+			"year": 1998,
+			"price": 3823.76,
+			"available": true
+		},
+		{
+			"brand": "Kia",
+			"model": "Rio",
+			"color": "Indigo",
+			"year": 2006,
+			"price": 2605.56,
+			"available": true
+		},
+		{
+			"brand": "Ford",
+			"model": "Thunderbird",
+			"color": "Purple",
+			"year": 2002,
+			"price": 3912.39,
+			"available": false
+		},
+		{
+			"brand": "Mercury",
+			"model": "Capri",
+			"color": "Goldenrod",
+			"year": 1992,
+			"price": 1500.17,
+			"available": true
+		},
+		{
+			"brand": "Dodge",
+			"model": "Ram 3500",
+			"color": "Indigo",
+			"year": 1999,
+			"price": 3810.69,
+			"available": false
+		},
+		{
+			"brand": "Nissan",
+			"model": "Sentra",
+			"color": "Puce",
+			"year": 2001,
+			"price": 2272.23,
+			"available": true
+		},
+		{
+			"brand": "Toyota",
+			"model": "Sienna",
+			"color": "Aquamarine",
+			"year": 2008,
+			"price": 3476.96,
+			"available": false
+		},
+		{
+			"brand": "Mercedes-Benz",
+			"model": "E-Class",
+			"color": "Maroon",
+			"year": 1994,
+			"price": 1470.18,
+			"available": false
+		},
+		{
+			"brand": "Audi",
+			"model": "riolet",
+			"color": "Crimson",
+			"year": 1994,
+			"price": 2531.25,
+			"available": false
+		},
+		{
+			"brand": "Ford",
+			"model": "Freestyle",
+			"color": "Puce",
+			"year": 2006,
+			"price": 1234.29,
+			"available": false
+		},
+		{
+			"brand": "Jaguar",
+			"model": "XF",
+			"color": "Yellow",
+			"year": 2011,
+			"price": 3593.33,
+			"available": true
+		},
+		{
+			"brand": "Mercury",
+			"model": "Capri",
+			"color": "Mauv",
+			"year": 1993,
+			"price": 1809.69,
+			"available": true
+		},
+		{
+			"brand": "Eagle",
+			"model": "Talon",
+			"color": "Green",
+			"year": 1997,
+			"price": 1379.21,
+			"available": true
+		},
+		{
+			"brand": "Mercedes-Benz",
+			"model": "E-Class",
+			"color": "Yellow",
+			"year": 1999,
+			"price": 2821.03,
+			"available": true
+		},
+		{
+			"brand": "Hyundai",
+			"model": "Santa Fe",
+			"color": "Goldenrod",
+			"year": 2001,
+			"price": 3508.77,
+			"available": false
+		},
+		{
+			"brand": "Hyundai",
+			"model": "Genesis",
+			"color": "Aquamarine",
+			"year": 2011,
+			"price": 2412.51,
+			"available": false
+		},
+		{
+			"brand": "Acura",
+			"model": "Integra",
+			"color": "Pink",
+			"year": 1996,
+			"price": 3854.08,
+			"available": false
+		},
+		{
+			"brand": "Infiniti",
+			"model": "M",
+			"color": "Blue",
+			"year": 2008,
+			"price": 2338.52,
+			"available": false
+		},
+		{
+			"brand": "Ferrari",
+			"model": "F430",
+			"color": "Maroon",
+			"year": 2009,
+			"price": 2967.63,
+			"available": false
+		},
+		{
+			"brand": "Volkswagen",
+			"model": "Fox",
+			"color": "Turquoise",
+			"year": 1991,
+			"price": 1208.13,
+			"available": false
+		},
+		{
+			"brand": "Suzuki",
+			"model": "Grand Vitara",
+			"color": "Red",
+			"year": 2001,
+			"price": 3471.29,
+			"available": true
+		},
+		{
+			"brand": "Ford",
+			"model": "Focus",
+			"color": "Goldenrod",
+			"year": 2003,
+			"price": 2815.94,
+			"available": false
+		},
+		{
+			"brand": "Chevrolet",
+			"model": "Sportvan G20",
+			"color": "Violet",
+			"year": 1992,
+			"price": 3050.69,
+			"available": true
+		},
+		{
+			"brand": "Volkswagen",
+			"model": "Jetta III",
+			"color": "Maroon",
+			"year": 1994,
+			"price": 2643.03,
+			"available": true
+		},
+		{
+			"brand": "Chevrolet",
+			"model": "Cobalt",
+			"color": "Fuscia",
+			"year": 2010,
+			"price": 3677.11,
+			"available": false
+		},
+		{
+			"brand": "Ford",
+			"model": "Econoline E150",
+			"color": "Indigo",
+			"year": 2002,
+			"price": 1848.09,
+			"available": false
+		},
+		{
+			"brand": "Chevrolet",
+			"model": "Corvette",
+			"color": "Orange",
+			"year": 1962,
+			"price": 3493.26,
+			"available": false
+		},
+		{
+			"brand": "Toyota",
+			"model": "Previa",
+			"color": "Indigo",
+			"year": 1995,
+			"price": 1501.95,
+			"available": true
+		},
+		{
+			"brand": "Mercury",
+			"model": "Grand Marquis",
+			"color": "Crimson",
+			"year": 2008,
+			"price": 2115.91,
+			"available": true
+		},
+		{
+			"brand": "Oldsmobile",
+			"model": "Achieva",
+			"color": "Orange",
+			"year": 1992,
+			"price": 2372.44,
+			"available": false
+		},
+		{
+			"brand": "Honda",
+			"model": "del Sol",
+			"color": "Orange",
+			"year": 1994,
+			"price": 3485.49,
+			"available": false
+		},
+		{
+			"brand": "Ford",
+			"model": "Mustang",
+			"color": "Green",
+			"year": 1971,
+			"price": 1321.76,
+			"available": false
+		},
+		{
+			"brand": "Mitsubishi",
+			"model": "Mirage",
+			"color": "Puce",
+			"year": 2002,
+			"price": 1532.99,
+			"available": false
+		},
+		{
+			"brand": "Hyundai",
+			"model": "Santa Fe",
+			"color": "Violet",
+			"year": 2008,
+			"price": 1142.26,
+			"available": false
+		},
+		{
+			"brand": "Lexus",
+			"model": "IS",
+			"color": "Indigo",
+			"year": 2003,
+			"price": 2059.89,
+			"available": true
+		},
+		{
+			"brand": "Chevrolet",
+			"model": "S10 Blazer",
+			"color": "Aquamarine",
+			"year": 1992,
+			"price": 2718.41,
+			"available": false
+		},
+		{
+			"brand": "Toyota",
+			"model": "Camry",
+			"color": "Khaki",
+			"year": 2007,
+			"price": 1090.08,
+			"available": true
+		},
+		{
+			"brand": "Ford",
+			"model": "E-Series",
+			"color": "Purple",
+			"year": 1989,
+			"price": 2331.35,
+			"available": true
+		},
+		{
+			"brand": "Subaru",
+			"model": "Leone",
+			"color": "Puce",
+			"year": 1988,
+			"price": 2765.91,
+			"available": false
+		},
+		{
+			"brand": "Pontiac",
+			"model": "Aztek",
+			"color": "Indigo",
+			"year": 2005,
+			"price": 1618.11,
+			"available": true
+		},
+		{
+			"brand": "Jaguar",
+			"model": "XJ Series",
+			"color": "Violet",
+			"year": 2000,
+			"price": 1919.09,
+			"available": false
+		},
+		{
+			"brand": "Mitsubishi",
+			"model": "Pajero",
+			"color": "Yellow",
+			"year": 1993,
+			"price": 1675.32,
+			"available": true
+		},
+		{
+			"brand": "Volkswagen",
+			"model": "New Beetle",
+			"color": "Indigo",
+			"year": 2003,
+			"price": 1506.06,
+			"available": true
+		},
+		{
+			"brand": "Cadillac",
+			"model": "CTS-V",
+			"color": "Turquoise",
+			"year": 2009,
+			"price": 3795.04,
+			"available": true
+		},
+		{
+			"brand": "Mitsubishi",
+			"model": "Montero",
+			"color": "Pink",
+			"year": 1995,
+			"price": 2974.31,
+			"available": false
+		},
+		{
+			"brand": "Nissan",
+			"model": "Quest",
+			"color": "Turquoise",
+			"year": 1996,
+			"price": 3252.47,
+			"available": false
+		},
+		{
+			"brand": "Chrysler",
+			"model": "Imperial",
+			"color": "Aquamarine",
+			"year": 1926,
+			"price": 2108.16,
+			"available": false
+		},
+		{
+			"brand": "BMW",
+			"model": "M6",
+			"color": "Teal",
+			"year": 2006,
+			"price": 3688.12,
+			"available": true
+		},
+		{
+			"brand": "MINI",
+			"model": "Clubman",
+			"color": "Violet",
+			"year": 2009,
+			"price": 1702.06,
+			"available": false
+		},
+		{
+			"brand": "Suzuki",
+			"model": "Daewoo Lacetti",
+			"color": "Maroon",
+			"year": 2005,
+			"price": 1721.14,
+			"available": true
+		},
+		{
+			"brand": "Nissan",
+			"model": "350Z",
+			"color": "Blue",
+			"year": 2004,
+			"price": 1604.08,
+			"available": false
+		},
+		{
+			"brand": "Ford",
+			"model": "Bronco",
+			"color": "Indigo",
+			"year": 1991,
+			"price": 3136.03,
+			"available": true
+		},
+		{
+			"brand": "Mitsubishi",
+			"model": "Galant",
+			"color": "Fuscia",
+			"year": 1985,
+			"price": 2190.49,
+			"available": false
+		},
+		{
+			"brand": "Mazda",
+			"model": "B-Series Plus",
+			"color": "Indigo",
+			"year": 1997,
+			"price": 1593.08,
+			"available": false
+		},
+		{
+			"brand": "Mazda",
+			"model": "Miata MX-5",
+			"color": "Indigo",
+			"year": 2000,
+			"price": 3341.48,
+			"available": true
+		},
+		{
+			"brand": "Saab",
+			"model": "9000",
+			"color": "Yellow",
+			"year": 1992,
+			"price": 1255.1,
+			"available": true
+		},
+		{
+			"brand": "Mitsubishi",
+			"model": "Mirage",
+			"color": "Goldenrod",
+			"year": 1989,
+			"price": 3806.68,
+			"available": false
+		},
+		{
+			"brand": "Oldsmobile",
+			"model": "88",
+			"color": "Violet",
+			"year": 1998,
+			"price": 3772.03,
+			"available": true
+		},
+		{
+			"brand": "Volkswagen",
+			"model": "R32",
+			"color": "Teal",
+			"year": 2008,
+			"price": 3495.75,
+			"available": false
+		},
+		{
+			"brand": "Mitsubishi",
+			"model": "Lancer Evolution",
+			"color": "Red",
+			"year": 2011,
+			"price": 3732.64,
+			"available": false
+		},
+		{
+			"brand": "Hyundai",
+			"model": "Santa Fe",
+			"color": "Red",
+			"year": 2004,
+			"price": 2622.27,
+			"available": true
+		},
+		{
+			"brand": "Mercury",
+			"model": "Grand Marquis",
+			"color": "Puce",
+			"year": 1997,
+			"price": 1545.18,
+			"available": false
+		},
+		{
+			"brand": "Buick",
+			"model": "Skylark",
+			"color": "Green",
+			"year": 1997,
+			"price": 1479.82,
+			"available": true
+		},
+		{
+			"brand": "Mercury",
+			"model": "Grand Marquis",
+			"color": "Green",
+			"year": 1992,
+			"price": 2776.44,
+			"available": true
+		},
+		{
+			"brand": "Honda",
+			"model": "Civic",
+			"color": "Khaki",
+			"year": 1995,
+			"price": 3937.78,
+			"available": true
+		},
+		{
+			"brand": "Mercury",
+			"model": "Monterey",
+			"color": "Green",
+			"year": 2006,
+			"price": 2052.4,
+			"available": true
+		},
+		{
+			"brand": "Porsche",
+			"model": "Boxster",
+			"color": "Maroon",
+			"year": 2005,
+			"price": 2776.98,
+			"available": false
+		},
+		{
+			"brand": "Mercedes-Benz",
+			"model": "E-Class",
+			"color": "Orange",
+			"year": 1992,
+			"price": 3748.04,
+			"available": false
+		},
+		{
+			"brand": "Chevrolet",
+			"model": "Suburban",
+			"color": "Turquoise",
+			"year": 2009,
+			"price": 2827.48,
+			"available": false
+		},
+		{
+			"brand": "Buick",
+			"model": "Somerset",
+			"color": "Turquoise",
+			"year": 1987,
+			"price": 2691.3,
+			"available": false
+		},
+		{
+			"brand": "Mazda",
+			"model": "Mazdaspeed6",
+			"color": "Aquamarine",
+			"year": 2007,
+			"price": 3213.47,
+			"available": true
+		},
+		{
+			"brand": "Dodge",
+			"model": "Ram 2500",
+			"color": "Red",
+			"year": 2007,
+			"price": 1311.67,
+			"available": true
+		},
+		{
+			"brand": "Infiniti",
+			"model": "QX",
+			"color": "Mauv",
+			"year": 2007,
+			"price": 3080.42,
+			"available": false
+		},
+		{
+			"brand": "Mercedes-Benz",
+			"model": "CLK-Class",
+			"color": "Maroon",
+			"year": 2005,
+			"price": 1085.72,
+			"available": true
+		},
+		{
+			"brand": "Oldsmobile",
+			"model": "Bravada",
+			"color": "Puce",
+			"year": 1992,
+			"price": 3290.13,
+			"available": false
+		},
+		{
+			"brand": "Porsche",
+			"model": "968",
+			"color": "Red",
+			"year": 1994,
+			"price": 1595.18,
+			"available": true
+		},
+		{
+			"brand": "Audi",
+			"model": "A6",
+			"color": "Puce",
+			"year": 1999,
+			"price": 2561.31,
+			"available": false
+		},
+		{
+			"brand": "Mercedes-Benz",
+			"model": "W201",
+			"color": "Orange",
+			"year": 1991,
+			"price": 2322.73,
+			"available": true
+		},
+		{
+			"brand": "Dodge",
+			"model": "Ram 2500",
+			"color": "Turquoise",
+			"year": 2000,
+			"price": 3779.33,
+			"available": true
+		},
+		{
+			"brand": "Dodge",
+			"model": "Ram 1500",
+			"color": "Puce",
+			"year": 2006,
+			"price": 1273.96,
+			"available": false
+		},
+		{
+			"brand": "Pontiac",
+			"model": "Grand Prix",
+			"color": "Violet",
+			"year": 2003,
+			"price": 3874.65,
+			"available": true
+		},
+		{
+			"brand": "Ford",
+			"model": "Expedition EL",
+			"color": "Puce",
+			"year": 2011,
+			"price": 1879.59,
+			"available": true
+		},
+		{
+			"brand": "Ford",
+			"model": "Taurus",
+			"color": "Aquamarine",
+			"year": 2012,
+			"price": 2132.02,
+			"available": true
+		},
+		{
+			"brand": "Mercedes-Benz",
+			"model": "CL-Class",
+			"color": "Violet",
+			"year": 2002,
+			"price": 3242.07,
+			"available": false
+		},
+		{
+			"brand": "GMC",
+			"model": "Envoy",
+			"color": "Puce",
+			"year": 2006,
+			"price": 1184.98,
+			"available": false
+		},
+		{
+			"brand": "Honda",
+			"model": "Crosstour",
+			"color": "Red",
+			"year": 2012,
+			"price": 2224.35,
+			"available": true
+		},
+		{
+			"brand": "Porsche",
+			"model": "928",
+			"color": "Crimson",
+			"year": 1988,
+			"price": 2614.8,
+			"available": false
+		},
+		{
+			"brand": "Cadillac",
+			"model": "Escalade EXT",
+			"color": "Puce",
+			"year": 2007,
+			"price": 2462.1,
+			"available": true
+		},
+		{
+			"brand": "Pontiac",
+			"model": "Grand Prix",
+			"color": "Goldenrod",
+			"year": 1995,
+			"price": 1966.8,
+			"available": true
+		},
+		{
+			"brand": "Mazda",
+			"model": "Millenia",
+			"color": "Yellow",
+			"year": 2000,
+			"price": 3187.99,
+			"available": false
+		},
+		{
+			"brand": "Infiniti",
+			"model": "G",
+			"color": "Yellow",
+			"year": 1994,
+			"price": 1403.23,
+			"available": false
+		},
+		{
+			"brand": "Mitsubishi",
+			"model": "RVR",
+			"color": "Red",
+			"year": 1992,
+			"price": 2003.75,
+			"available": false
+		},
+		{
+			"brand": "Suzuki",
+			"model": "Aerio",
+			"color": "Yellow",
+			"year": 2006,
+			"price": 3856.61,
+			"available": false
+		},
+		{
+			"brand": "Audi",
+			"model": "Q5",
+			"color": "Maroon",
+			"year": 2012,
+			"price": 3952.84,
+			"available": false
+		},
+		{
+			"brand": "Mercury",
+			"model": "Lynx",
+			"color": "Khaki",
+			"year": 1987,
+			"price": 3207.01,
+			"available": true
+		},
+		{
+			"brand": "Audi",
+			"model": "R8",
+			"color": "Purple",
+			"year": 2012,
+			"price": 1013.27,
+			"available": true
+		},
+		{
+			"brand": "Volkswagen",
+			"model": "Jetta",
+			"color": "Maroon",
+			"year": 2011,
+			"price": 1808.46,
+			"available": true
+		},
+		{
+			"brand": "Toyota",
+			"model": "4Runner",
+			"color": "Violet",
+			"year": 1999,
+			"price": 1033.4,
+			"available": true
+		},
+		{
+			"brand": "Oldsmobile",
+			"model": "Regency",
+			"color": "Fuscia",
+			"year": 1998,
+			"price": 2206.53,
+			"available": true
+		},
+		{
+			"brand": "Mercedes-Benz",
+			"model": "E-Class",
+			"color": "Violet",
+			"year": 2001,
+			"price": 2104.02,
+			"available": false
+		},
+		{
+			"brand": "Volvo",
+			"model": "C70",
+			"color": "Maroon",
+			"year": 2003,
+			"price": 1544.2,
+			"available": true
+		},
+		{
+			"brand": "Chevrolet",
+			"model": "Camaro",
+			"color": "Orange",
+			"year": 1999,
+			"price": 2347.95,
+			"available": false
+		},
+		{
+			"brand": "Mercury",
+			"model": "Mystique",
+			"color": "Violet",
+			"year": 1995,
+			"price": 1564.08,
+			"available": false
+		},
+		{
+			"brand": "Kia",
+			"model": "Optima",
+			"color": "Violet",
+			"year": 2010,
+			"price": 2000.06,
+			"available": true
+		},
+		{
+			"brand": "Mercedes-Benz",
+			"model": "C-Class",
+			"color": "Turquoise",
+			"year": 1996,
+			"price": 1458.05,
+			"available": true
+		},
+		{
+			"brand": "Volkswagen",
+			"model": "Passat",
+			"color": "Puce",
+			"year": 1987,
+			"price": 1448.39,
+			"available": true
+		},
+		{
+			"brand": "Ford",
+			"model": "Crown Victoria",
+			"color": "Puce",
+			"year": 1996,
+			"price": 3503.57,
+			"available": false
+		},
+		{
+			"brand": "Mercedes-Benz",
+			"model": "SL-Class",
+			"color": "Orange",
+			"year": 2004,
+			"price": 1050.51,
+			"available": true
+		},
+		{
+			"brand": "Volvo",
+			"model": "V70",
+			"color": "Crimson",
+			"year": 2000,
+			"price": 2867.28,
+			"available": true
+		},
+		{
+			"brand": "Mercedes-Benz",
+			"model": "CL-Class",
+			"color": "Green",
+			"year": 2010,
+			"price": 2769.87,
+			"available": false
+		},
+		{
+			"brand": "Chevrolet",
+			"model": "S10",
+			"color": "Orange",
+			"year": 1999,
+			"price": 1559.48,
+			"available": true
+		},
+		{
+			"brand": "Dodge",
+			"model": "Ram",
+			"color": "Crimson",
+			"year": 2007,
+			"price": 3103.26,
+			"available": false
+		},
+		{
+			"brand": "Kia",
+			"model": "Sedona",
+			"color": "Purple",
+			"year": 2006,
+			"price": 2145.87,
+			"available": true
+		},
+		{
+			"brand": "Acura",
+			"model": "TSX",
+			"color": "Red",
+			"year": 2008,
+			"price": 1843.5,
+			"available": true
+		},
+		{
+			"brand": "Mazda",
+			"model": "929",
+			"color": "Yellow",
+			"year": 1993,
+			"price": 1913.97,
+			"available": true
+		},
+		{
+			"brand": "Scion",
+			"model": "xA",
+			"color": "Aquamarine",
+			"year": 2004,
+			"price": 1682.57,
+			"available": false
+		},
+		{
+			"brand": "Nissan",
+			"model": "Versa",
+			"color": "Pink",
+			"year": 2011,
+			"price": 3555.75,
+			"available": false
+		},
+		{
+			"brand": "Suzuki",
+			"model": "Reno",
+			"color": "Khaki",
+			"year": 2007,
+			"price": 2209.07,
+			"available": true
+		},
+		{
+			"brand": "Cadillac",
+			"model": "Catera",
+			"color": "Aquamarine",
+			"year": 1998,
+			"price": 2689.13,
+			"available": true
+		},
+		{
+			"brand": "Lexus",
+			"model": "LX",
+			"color": "Green",
+			"year": 1997,
+			"price": 3753.67,
+			"available": true
+		},
+		{
+			"brand": "Chevrolet",
+			"model": "S10 Blazer",
+			"color": "Aquamarine",
+			"year": 1993,
+			"price": 2273.23,
+			"available": false
+		},
+		{
+			"brand": "Nissan",
+			"model": "Armada",
+			"color": "Maroon",
+			"year": 2008,
+			"price": 1096.53,
+			"available": false
+		},
+		{
+			"brand": "Lexus",
+			"model": "ES",
+			"color": "Aquamarine",
+			"year": 2008,
+			"price": 3948.23,
+			"available": false
+		},
+		{
+			"brand": "Ford",
+			"model": "Taurus",
+			"color": "Red",
+			"year": 2010,
+			"price": 3726.62,
+			"available": false
+		},
+		{
+			"brand": "Toyota",
+			"model": "Corolla",
+			"color": "Purple",
+			"year": 1993,
+			"price": 1742.24,
+			"available": true
+		},
+		{
+			"brand": "Kia",
+			"model": "Rio",
+			"color": "Aquamarine",
+			"year": 2013,
+			"price": 1171.66,
+			"available": false
+		},
+		{
+			"brand": "Mercedes-Benz",
+			"model": "M-Class",
+			"color": "Crimson",
+			"year": 2006,
+			"price": 3051.61,
+			"available": false
+		},
+		{
+			"brand": "Audi",
+			"model": "100",
+			"color": "Crimson",
+			"year": 1994,
+			"price": 2458.88,
+			"available": false
+		},
+		{
+			"brand": "Mitsubishi",
+			"model": "Galant",
+			"color": "Mauv",
+			"year": 2001,
+			"price": 3388.18,
+			"available": true
+		},
+		{
+			"brand": "Audi",
+			"model": "S5",
+			"color": "Blue",
+			"year": 2010,
+			"price": 3360.96,
+			"available": true
+		},
+		{
+			"brand": "GMC",
+			"model": "Savana 1500",
+			"color": "Mauv",
+			"year": 2012,
+			"price": 1963.54,
+			"available": false
+		},
+		{
+			"brand": "Saab",
+			"model": "9-7X",
+			"color": "Goldenrod",
+			"year": 2006,
+			"price": 3438,
+			"available": true
+		},
+		{
+			"brand": "Chevrolet",
+			"model": "Tahoe",
+			"color": "Pink",
+			"year": 2013,
+			"price": 2120.23,
+			"available": true
+		},
+		{
+			"brand": "Chevrolet",
+			"model": "Lumina",
+			"color": "Green",
+			"year": 1998,
+			"price": 3575.78,
+			"available": false
+		},
+		{
+			"brand": "Land Rover",
+			"model": "Discovery",
+			"color": "Turquoise",
+			"year": 2005,
+			"price": 2047.56,
+			"available": true
+		},
+		{
+			"brand": "Ford",
+			"model": "Laser",
+			"color": "Yellow",
+			"year": 1987,
+			"price": 3403.88,
+			"available": true
+		},
+		{
+			"brand": "Land Rover",
+			"model": "Discovery",
+			"color": "Orange",
+			"year": 2011,
+			"price": 1170.32,
+			"available": true
+		},
+		{
+			"brand": "Ford",
+			"model": "Escape",
+			"color": "Indigo",
+			"year": 2001,
+			"price": 1279.96,
+			"available": false
+		},
+		{
+			"brand": "Dodge",
+			"model": "Neon",
+			"color": "Pink",
+			"year": 2001,
+			"price": 3640.32,
+			"available": false
+		},
+		{
+			"brand": "Mercedes-Benz",
+			"model": "S-Class",
+			"color": "Puce",
+			"year": 2006,
+			"price": 3473.31,
+			"available": true
+		},
+		{
+			"brand": "Ford",
+			"model": "Flex",
+			"color": "Turquoise",
+			"year": 2013,
+			"price": 3403.62,
+			"available": true
+		},
+		{
+			"brand": "Toyota",
+			"model": "RAV4",
+			"color": "Crimson",
+			"year": 2012,
+			"price": 3542.16,
+			"available": false
+		},
+		{
+			"brand": "Audi",
+			"model": "A6",
+			"color": "Orange",
+			"year": 2005,
+			"price": 2277.69,
+			"available": false
+		},
+		{
+			"brand": "Lexus",
+			"model": "LS Hybrid",
+			"color": "Violet",
+			"year": 2012,
+			"price": 3298.59,
+			"available": false
+		},
+		{
+			"brand": "Chrysler",
+			"model": "Town & Country",
+			"color": "Crimson",
+			"year": 2002,
+			"price": 1774.54,
+			"available": false
+		},
+		{
+			"brand": "Ford",
+			"model": "Mustang",
+			"color": "Turquoise",
+			"year": 2003,
+			"price": 3731.56,
+			"available": true
+		},
+		{
+			"brand": "Chevrolet",
+			"model": "Corvette",
+			"color": "Purple",
+			"year": 1957,
+			"price": 2098.97,
+			"available": true
+		},
+		{
+			"brand": "Dodge",
+			"model": "Avenger",
+			"color": "Indigo",
+			"year": 1998,
+			"price": 1685.25,
+			"available": true
+		},
+		{
+			"brand": "Ford",
+			"model": "E-Series",
+			"color": "Goldenrod",
+			"year": 1994,
+			"price": 2123.27,
+			"available": false
+		},
+		{
+			"brand": "Lincoln",
+			"model": "Mark LT",
+			"color": "Aquamarine",
+			"year": 2008,
+			"price": 1181.68,
+			"available": false
+		},
+		{
+			"brand": "Maserati",
+			"model": "Gran Sport",
+			"color": "Crimson",
+			"year": 2005,
+			"price": 2517.76,
+			"available": false
+		},
+		{
+			"brand": "Lincoln",
+			"model": "Navigator",
+			"color": "Pink",
+			"year": 2012,
+			"price": 2166.95,
+			"available": false
+		},
+		{
+			"brand": "Chevrolet",
+			"model": "Express 3500",
+			"color": "Mauv",
+			"year": 1996,
+			"price": 2485.13,
+			"available": false
+		},
+		{
+			"brand": "Buick",
+			"model": "Rendezvous",
+			"color": "Violet",
+			"year": 2004,
+			"price": 2449.81,
+			"available": true
+		},
+		{
+			"brand": "Smart",
+			"model": "Fortwo",
+			"color": "Pink",
+			"year": 2011,
+			"price": 2787.04,
+			"available": true
+		},
+		{
+			"brand": "Nissan",
+			"model": "Titan",
+			"color": "Crimson",
+			"year": 2011,
+			"price": 1928.74,
+			"available": false
+		},
+		{
+			"brand": "Hyundai",
+			"model": "Sonata",
+			"color": "Green",
+			"year": 1995,
+			"price": 3821.62,
+			"available": false
+		},
+		{
+			"brand": "Lotus",
+			"model": "Evora",
+			"color": "Green",
+			"year": 2011,
+			"price": 3271.64,
+			"available": false
+		},
+		{
+			"brand": "BMW",
+			"model": "5 Series",
+			"color": "Goldenrod",
+			"year": 2001,
+			"price": 2677.37,
+			"available": true
+		},
+		{
+			"brand": "Ford",
+			"model": "Escort",
+			"color": "Pink",
+			"year": 1984,
+			"price": 3489.41,
+			"available": true
+		},
+		{
+			"brand": "Daewoo",
+			"model": "Leganza",
+			"color": "Blue",
+			"year": 2000,
+			"price": 1555.96,
+			"available": true
+		},
+		{
+			"brand": "Volkswagen",
+			"model": "Jetta",
+			"color": "Red",
+			"year": 1986,
+			"price": 2838.09,
+			"available": false
+		},
+		{
+			"brand": "Subaru",
+			"model": "Impreza",
+			"color": "Khaki",
+			"year": 1993,
+			"price": 3410.04,
+			"available": false
+		},
+		{
+			"brand": "Porsche",
+			"model": "Carrera GT",
+			"color": "Orange",
+			"year": 2004,
+			"price": 1701.57,
+			"available": true
+		},
+		{
+			"brand": "Lotus",
+			"model": "Esprit",
+			"color": "Crimson",
+			"year": 1990,
+			"price": 1921.94,
+			"available": true
+		},
+		{
+			"brand": "Volkswagen",
+			"model": "Jetta",
+			"color": "Khaki",
+			"year": 2012,
+			"price": 3982.24,
+			"available": false
+		},
+		{
+			"brand": "Chevrolet",
+			"model": "Caprice Classic",
+			"color": "Khaki",
+			"year": 1993,
+			"price": 2436.68,
+			"available": true
+		},
+		{
+			"brand": "MINI",
+			"model": "Cooper Clubman",
+			"color": "Maroon",
+			"year": 2011,
+			"price": 2496.9,
+			"available": true
+		},
+		{
+			"brand": "Chevrolet",
+			"model": "Suburban 1500",
+			"color": "Turquoise",
+			"year": 2006,
+			"price": 3205.89,
+			"available": false
+		},
+		{
+			"brand": "Suzuki",
+			"model": "SJ",
+			"color": "Fuscia",
+			"year": 1993,
+			"price": 1246.99,
+			"available": false
+		},
+		{
+			"brand": "Oldsmobile",
+			"model": "Bravada",
+			"color": "Aquamarine",
+			"year": 1999,
+			"price": 1243.46,
+			"available": false
+		},
+		{
+			"brand": "Audi",
+			"model": "A4",
+			"color": "Turquoise",
+			"year": 2005,
+			"price": 3645.86,
+			"available": true
+		},
+		{
+			"brand": "Hyundai",
+			"model": "Accent",
+			"color": "Pink",
+			"year": 2009,
+			"price": 3159.62,
+			"available": true
+		},
+		{
+			"brand": "Mercedes-Benz",
+			"model": "R-Class",
+			"color": "Violet",
+			"year": 2008,
+			"price": 1321.25,
+			"available": true
+		},
+		{
+			"brand": "Land Rover",
+			"model": "Discovery",
+			"color": "Khaki",
+			"year": 1997,
+			"price": 2536.84,
+			"available": false
+		},
+		{
+			"brand": "Lincoln",
+			"model": "Navigator",
+			"color": "Orange",
+			"year": 2012,
+			"price": 1155.33,
+			"available": false
+		},
+		{
+			"brand": "Alfa Romeo",
+			"model": "164",
+			"color": "Aquamarine",
+			"year": 1993,
+			"price": 1610.94,
+			"available": false
+		},
+		{
+			"brand": "Chrysler",
+			"model": "Town & Country",
+			"color": "Turquoise",
+			"year": 2001,
+			"price": 1910.64,
+			"available": false
+		},
+		{
+			"brand": "Dodge",
+			"model": "Caravan",
+			"color": "Blue",
+			"year": 2011,
+			"price": 2126.13,
+			"available": true
+		},
+		{
+			"brand": "Mercury",
+			"model": "Mountaineer",
+			"color": "Khaki",
+			"year": 2002,
+			"price": 2990.73,
+			"available": true
+		},
+		{
+			"brand": "Mitsubishi",
+			"model": "Raider",
+			"color": "Pink",
+			"year": 2006,
+			"price": 2991.56,
+			"available": false
+		},
+		{
+			"brand": "Toyota",
+			"model": "FJ Cruiser",
+			"color": "Puce",
+			"year": 2011,
+			"price": 2519.25,
+			"available": true
+		},
+		{
+			"brand": "Mazda",
+			"model": "RX-8",
+			"color": "Khaki",
+			"year": 2008,
+			"price": 2823.98,
+			"available": true
+		},
+		{
+			"brand": "Hummer",
+			"model": "H2",
+			"color": "Khaki",
+			"year": 2003,
+			"price": 3616.18,
+			"available": false
+		},
+		{
+			"brand": "Chevrolet",
+			"model": "Cavalier",
+			"color": "Purple",
+			"year": 1998,
+			"price": 3265.1,
+			"available": false
+		},
+		{
+			"brand": "Ford",
+			"model": "Thunderbird",
+			"color": "Khaki",
+			"year": 2004,
+			"price": 1012.63,
+			"available": true
+		},
+		{
+			"brand": "BMW",
+			"model": "6 Series",
+			"color": "Goldenrod",
+			"year": 2008,
+			"price": 1283.24,
+			"available": true
+		},
+		{
+			"brand": "Acura",
+			"model": "Legend",
+			"color": "Teal",
+			"year": 1995,
+			"price": 3203.72,
+			"available": true
+		},
+		{
+			"brand": "Nissan",
+			"model": "GT-R",
+			"color": "Fuscia",
+			"year": 2011,
+			"price": 1379.56,
+			"available": false
+		},
+		{
+			"brand": "Infiniti",
+			"model": "G37",
+			"color": "Puce",
+			"year": 2009,
+			"price": 3110.87,
+			"available": false
+		},
+		{
+			"brand": "Chevrolet",
+			"model": "Camaro",
+			"color": "Aquamarine",
+			"year": 1996,
+			"price": 3635.62,
+			"available": true
+		},
+		{
+			"brand": "Toyota",
+			"model": "Camry",
+			"color": "Indigo",
+			"year": 2005,
+			"price": 1225.62,
+			"available": true
+		},
+		{
+			"brand": "Honda",
+			"model": "CR-V",
+			"color": "Orange",
+			"year": 2005,
+			"price": 2314.61,
+			"available": false
+		},
+		{
+			"brand": "Pontiac",
+			"model": "Sunfire",
+			"color": "Red",
+			"year": 2004,
+			"price": 2551.39,
+			"available": true
+		},
+		{
+			"brand": "Pontiac",
+			"model": "Firefly",
+			"color": "Mauv",
+			"year": 1989,
+			"price": 1780.31,
+			"available": true
+		},
+		{
+			"brand": "Mercury",
+			"model": "Grand Marquis",
+			"color": "Orange",
+			"year": 1999,
+			"price": 3118.86,
+			"available": true
+		},
+		{
+			"brand": "Mazda",
+			"model": "Mazda6",
+			"color": "Puce",
+			"year": 2005,
+			"price": 3275.11,
+			"available": false
+		},
+		{
+			"brand": "Plymouth",
+			"model": "Voyager",
+			"color": "Yellow",
+			"year": 2000,
+			"price": 1289.59,
+			"available": true
+		},
+		{
+			"brand": "Dodge",
+			"model": "Ram 2500",
+			"color": "Mauv",
+			"year": 2003,
+			"price": 3140.94,
+			"available": false
+		},
+		{
+			"brand": "Mazda",
+			"model": "RX-7",
+			"color": "Orange",
+			"year": 1984,
+			"price": 1616.75,
+			"available": true
+		},
+		{
+			"brand": "Buick",
+			"model": "Coachbuilder",
+			"color": "Red",
+			"year": 1994,
+			"price": 1212.1,
+			"available": false
+		},
+		{
+			"brand": "BMW",
+			"model": "Z4",
+			"color": "Khaki",
+			"year": 2008,
+			"price": 3786.39,
+			"available": false
+		},
+		{
+			"brand": "Audi",
+			"model": "Cabriolet",
+			"color": "Puce",
+			"year": 1998,
+			"price": 3927.95,
+			"available": true
+		},
+		{
+			"brand": "Jeep",
+			"model": "Compass",
+			"color": "Orange",
+			"year": 2007,
+			"price": 3451.01,
+			"available": false
+		},
+		{
+			"brand": "Chevrolet",
+			"model": "Lumina",
+			"color": "Crimson",
+			"year": 1996,
+			"price": 1798.53,
+			"available": true
+		},
+		{
+			"brand": "Nissan",
+			"model": "Xterra",
+			"color": "Blue",
+			"year": 2012,
+			"price": 1120.89,
+			"available": true
+		},
+		{
+			"brand": "Honda",
+			"model": "Pilot",
+			"color": "Fuscia",
+			"year": 2002,
+			"price": 1747.23,
+			"available": false
+		},
+		{
+			"brand": "Dodge",
+			"model": "Ram 3500",
+			"color": "Yellow",
+			"year": 2004,
+			"price": 3044.97,
+			"available": false
+		},
+		{
+			"brand": "Lexus",
+			"model": "LS",
+			"color": "Aquamarine",
+			"year": 1995,
+			"price": 2557.27,
+			"available": false
+		},
+		{
+			"brand": "Ford",
+			"model": "F-Series",
+			"color": "Puce",
+			"year": 2009,
+			"price": 2196.49,
+			"available": false
+		},
+		{
+			"brand": "Infiniti",
+			"model": "G",
+			"color": "Aquamarine",
+			"year": 2011,
+			"price": 1993.09,
+			"available": false
+		},
+		{
+			"brand": "Volvo",
+			"model": "S40",
+			"color": "Pink",
+			"year": 2011,
+			"price": 3883,
+			"available": false
+		},
+		{
+			"brand": "Lexus",
+			"model": "GS",
+			"color": "Red",
+			"year": 2003,
+			"price": 2288.49,
+			"available": true
+		},
+		{
+			"brand": "Dodge",
+			"model": "Ram Van 2500",
+			"color": "Crimson",
+			"year": 2002,
+			"price": 1917.02,
+			"available": true
+		},
+		{
+			"brand": "Nissan",
+			"model": "Pathfinder",
+			"color": "Khaki",
+			"year": 2006,
+			"price": 2819.81,
+			"available": false
+		},
+		{
+			"brand": "Audi",
+			"model": "100",
+			"color": "Orange",
+			"year": 1994,
+			"price": 2949.99,
+			"available": false
+		},
+		{
+			"brand": "Porsche",
+			"model": "968",
+			"color": "Mauv",
+			"year": 1993,
+			"price": 3582.22,
+			"available": false
+		},
+		{
+			"brand": "Ford",
+			"model": "Courier",
+			"color": "Violet",
+			"year": 1989,
+			"price": 1580.43,
+			"available": true
+		},
+		{
+			"brand": "BMW",
+			"model": "5 Series",
+			"color": "Crimson",
+			"year": 2005,
+			"price": 2829.61,
+			"available": false
+		},
+		{
+			"brand": "Hyundai",
+			"model": "Santa Fe",
+			"color": "Green",
+			"year": 2010,
+			"price": 1392.36,
+			"available": false
+		},
+		{
+			"brand": "Pontiac",
+			"model": "Grand Prix",
+			"color": "Puce",
+			"year": 2006,
+			"price": 3488.86,
+			"available": false
+		},
+		{
+			"brand": "Mercedes-Benz",
+			"model": "500E",
+			"color": "Yellow",
+			"year": 1992,
+			"price": 2542.41,
+			"available": true
+		},
+		{
+			"brand": "Toyota",
+			"model": "Paseo",
+			"color": "Crimson",
+			"year": 1992,
+			"price": 1947.99,
+			"available": false
+		},
+		{
+			"brand": "GMC",
+			"model": "2500",
+			"color": "Purple",
+			"year": 1999,
+			"price": 3923.75,
+			"available": true
+		},
+		{
+			"brand": "Toyota",
+			"model": "T100",
+			"color": "Indigo",
+			"year": 1995,
+			"price": 2875.88,
+			"available": true
+		},
+		{
+			"brand": "BMW",
+			"model": "3 Series",
+			"color": "Crimson",
+			"year": 2003,
+			"price": 1440.42,
+			"available": true
+		},
+		{
+			"brand": "Toyota",
+			"model": "Echo",
+			"color": "Goldenrod",
+			"year": 2001,
+			"price": 1667.66,
+			"available": true
+		},
+		{
+			"brand": "Chevrolet",
+			"model": "Astro",
+			"color": "Teal",
+			"year": 2000,
+			"price": 2678.6,
+			"available": true
+		},
+		{
+			"brand": "Subaru",
+			"model": "Alcyone SVX",
+			"color": "Puce",
+			"year": 1997,
+			"price": 2710.41,
+			"available": true
+		},
+		{
+			"brand": "Lexus",
+			"model": "GS",
+			"color": "Fuscia",
+			"year": 2004,
+			"price": 1305.3,
+			"available": false
+		},
+		{
+			"brand": "Chevrolet",
+			"model": "Silverado 3500",
+			"color": "Pink",
+			"year": 2007,
+			"price": 1382.45,
+			"available": false
+		},
+		{
+			"brand": "Mercedes-Benz",
+			"model": "S-Class",
+			"color": "Puce",
+			"year": 2006,
+			"price": 1720.71,
+			"available": false
+		},
+		{
+			"brand": "Land Rover",
+			"model": "Range Rover",
+			"color": "Red",
+			"year": 1999,
+			"price": 1395.33,
+			"available": false
+		},
+		{
+			"brand": "Acura",
+			"model": "CL",
+			"color": "Yellow",
+			"year": 2002,
+			"price": 2536.1,
+			"available": false
+		},
+		{
+			"brand": "Buick",
+			"model": "Roadmaster",
+			"color": "Indigo",
+			"year": 1996,
+			"price": 2808.18,
+			"available": false
+		},
+		{
+			"brand": "Mercedes-Benz",
+			"model": "W201",
+			"color": "Teal",
+			"year": 1987,
+			"price": 1361.21,
+			"available": false
+		},
+		{
+			"brand": "Oldsmobile",
+			"model": "Aurora",
+			"color": "Red",
+			"year": 1999,
+			"price": 1997.38,
+			"available": true
+		},
+		{
+			"brand": "Ford",
+			"model": "Ranger",
+			"color": "Purple",
+			"year": 1998,
+			"price": 3915.13,
+			"available": false
+		},
+		{
+			"brand": "Pontiac",
+			"model": "G3",
+			"color": "Orange",
+			"year": 2009,
+			"price": 2157.75,
+			"available": false
+		},
+		{
+			"brand": "Acura",
+			"model": "MDX",
+			"color": "Mauv",
+			"year": 2001,
+			"price": 3814.24,
+			"available": true
+		},
+		{
+			"brand": "Kia",
+			"model": "Optima",
+			"color": "Khaki",
+			"year": 2012,
+			"price": 1477.45,
+			"available": false
+		},
+		{
+			"brand": "Mercury",
+			"model": "Cougar",
+			"color": "Red",
+			"year": 1995,
+			"price": 3178.69,
+			"available": true
+		},
+		{
+			"brand": "Honda",
+			"model": "Civic",
+			"color": "Aquamarine",
+			"year": 1994,
+			"price": 3252.16,
+			"available": false
+		},
+		{
+			"brand": "Lexus",
+			"model": "CT",
+			"color": "Blue",
+			"year": 2011,
+			"price": 1384.93,
+			"available": true
+		},
+		{
+			"brand": "Chevrolet",
+			"model": "G-Series G30",
+			"color": "Violet",
+			"year": 1995,
+			"price": 3029.97,
+			"available": false
+		},
+		{
+			"brand": "Infiniti",
+			"model": "FX",
+			"color": "Turquoise",
+			"year": 2005,
+			"price": 1237.3,
+			"available": false
+		},
+		{
+			"brand": "Dodge",
+			"model": "Avenger",
+			"color": "Goldenrod",
+			"year": 2009,
+			"price": 2040.62,
+			"available": true
+		},
+		{
+			"brand": "Volvo",
+			"model": "XC60",
+			"color": "Red",
+			"year": 2009,
+			"price": 2836.72,
+			"available": true
+		},
+		{
+			"brand": "Mercury",
+			"model": "Mountaineer",
+			"color": "Violet",
+			"year": 2002,
+			"price": 3180.46,
+			"available": true
+		},
+		{
+			"brand": "Dodge",
+			"model": "Ram 3500",
+			"color": "Orange",
+			"year": 1994,
+			"price": 1222.24,
+			"available": false
+		},
+		{
+			"brand": "GMC",
+			"model": "Savana 3500",
+			"color": "Goldenrod",
+			"year": 1996,
+			"price": 3379.53,
+			"available": false
+		},
+		{
+			"brand": "Scion",
+			"model": "xD",
+			"color": "Indigo",
+			"year": 2012,
+			"price": 1880.08,
+			"available": false
+		},
+		{
+			"brand": "Pontiac",
+			"model": "G8",
+			"color": "Purple",
+			"year": 2008,
+			"price": 1354.6,
+			"available": false
+		},
+		{
+			"brand": "Volkswagen",
+			"model": "rio",
+			"color": "Blue",
+			"year": 1999,
+			"price": 3997.37,
+			"available": false
+		},
+		{
+			"brand": "Geo",
+			"model": "Storm",
+			"color": "Teal",
+			"year": 1992,
+			"price": 1929.78,
+			"available": false
+		},
+		{
+			"brand": "Honda",
+			"model": "CR-Z",
+			"color": "Khaki",
+			"year": 2011,
+			"price": 1638.69,
+			"available": false
+		},
+		{
+			"brand": "Dodge",
+			"model": "Durango",
+			"color": "Indigo",
+			"year": 2008,
+			"price": 3281.7,
+			"available": false
+		},
+		{
+			"brand": "Suzuki",
+			"model": "Swift",
+			"color": "Purple",
+			"year": 1990,
+			"price": 3052.89,
+			"available": false
+		},
+		{
+			"brand": "Alfa Romeo",
+			"model": "Spider",
+			"color": "Teal",
+			"year": 1994,
+			"price": 1358.35,
+			"available": true
+		},
+		{
+			"brand": "Pontiac",
+			"model": "Grand Am",
+			"color": "Khaki",
+			"year": 1990,
+			"price": 3317.68,
+			"available": false
+		},
+		{
+			"brand": "Volkswagen",
+			"model": "Jetta",
+			"color": "Goldenrod",
+			"year": 1994,
+			"price": 2281.6,
+			"available": false
+		},
+		{
+			"brand": "Subaru",
+			"model": "Impreza",
+			"color": "Red",
+			"year": 1995,
+			"price": 2406.91,
+			"available": false
+		},
+		{
+			"brand": "Hyundai",
+			"model": "Elantra",
+			"color": "Turquoise",
+			"year": 2012,
+			"price": 3466.76,
+			"available": true
+		},
+		{
+			"brand": "Saab",
+			"model": "900",
+			"color": "Yellow",
+			"year": 1990,
+			"price": 3959.64,
+			"available": false
+		},
+		{
+			"brand": "Chevrolet",
+			"model": "Silverado 3500",
+			"color": "Pink",
+			"year": 2011,
+			"price": 1814.49,
+			"available": true
+		},
+		{
+			"brand": "Ford",
+			"model": "Mustang",
+			"color": "Indigo",
+			"year": 2010,
+			"price": 3401.25,
+			"available": false
+		},
+		{
+			"brand": "Volkswagen",
+			"model": "R32",
+			"color": "Goldenrod",
+			"year": 2009,
+			"price": 1843.18,
+			"available": false
+		},
+		{
+			"brand": "Infiniti",
+			"model": "FX",
+			"color": "Fuscia",
+			"year": 2005,
+			"price": 1330.7,
+			"available": true
+		},
+		{
+			"brand": "Dodge",
+			"model": "Charger",
+			"color": "Fuscia",
+			"year": 2007,
+			"price": 1195.33,
+			"available": false
+		},
+		{
+			"brand": "Pontiac",
+			"model": "Grand Prix",
+			"color": "Puce",
+			"year": 1980,
+			"price": 1422.88,
+			"available": false
+		},
+		{
+			"brand": "Infiniti",
+			"model": "QX",
+			"color": "Orange",
+			"year": 2001,
+			"price": 2287.88,
+			"available": true
+		},
+		{
+			"brand": "Cadillac",
+			"model": "Fleetwood",
+			"color": "Indigo",
+			"year": 1996,
+			"price": 3585.15,
+			"available": false
+		},
+		{
+			"brand": "Ford",
+			"model": "Taurus",
+			"color": "Crimson",
+			"year": 1996,
+			"price": 1919.95,
+			"available": false
+		},
+		{
+			"brand": "Volkswagen",
+			"model": "Cabriolet",
+			"color": "Turquoise",
+			"year": 1999,
+			"price": 3977.53,
+			"available": true
+		},
+		{
+			"brand": "Audi",
+			"model": "TT",
+			"color": "Aquamarine",
+			"year": 2006,
+			"price": 3828.27,
+			"available": false
+		},
+		{
+			"brand": "BMW",
+			"model": "530",
+			"color": "Purple",
+			"year": 2002,
+			"price": 1053.08,
+			"available": true
+		},
+		{
+			"brand": "Lamborghini",
+			"model": "Gallardo",
+			"color": "Indigo",
+			"year": 2006,
+			"price": 3600.41,
+			"available": false
+		},
+		{
+			"brand": "Audi",
+			"model": "Q5",
+			"color": "Fuscia",
+			"year": 2009,
+			"price": 3532.87,
+			"available": false
+		},
+		{
+			"brand": "Chevrolet",
+			"model": "Corvette",
+			"color": "Yellow",
+			"year": 1969,
+			"price": 1690.94,
+			"available": true
+		},
+		{
+			"brand": "Buick",
+			"model": "Electra",
+			"color": "Violet",
+			"year": 1988,
+			"price": 1942.92,
+			"available": true
+		},
+		{
+			"brand": "Nissan",
+			"model": "Sentra",
+			"color": "Fuscia",
+			"year": 1993,
+			"price": 1607.15,
+			"available": false
+		},
+		{
+			"brand": "Volvo",
+			"model": "C70",
+			"color": "Aquamarine",
+			"year": 1999,
+			"price": 3165.1,
+			"available": false
+		},
+		{
+			"brand": "Dodge",
+			"model": "Ram Van 1500",
+			"color": "Mauv",
+			"year": 1995,
+			"price": 1271.12,
+			"available": true
+		},
+		{
+			"brand": "Pontiac",
+			"model": "Bonneville",
+			"color": "Turquoise",
+			"year": 1992,
+			"price": 3372.91,
+			"available": false
+		},
+		{
+			"brand": "Honda",
+			"model": "Accord",
+			"color": "Goldenrod",
+			"year": 1995,
+			"price": 3501.55,
+			"available": false
+		},
+		{
+			"brand": "Mazda",
+			"model": "B-Series Plus",
+			"color": "Pink",
+			"year": 1997,
+			"price": 3397.32,
+			"available": false
+		},
+		{
+			"brand": "GMC",
+			"model": "Sierra 3500",
+			"color": "Goldenrod",
+			"year": 2003,
+			"price": 1299.09,
+			"available": false
+		},
+		{
+			"brand": "Geo",
+			"model": "Metro",
+			"color": "Indigo",
+			"year": 1993,
+			"price": 1834.33,
+			"available": true
+		},
+		{
+			"brand": "Mercury",
+			"model": "Villager",
+			"color": "Red",
+			"year": 1999,
+			"price": 2004.66,
+			"available": true
+		},
+		{
+			"brand": "Ford",
+			"model": "E350",
+			"color": "Khaki",
+			"year": 2011,
+			"price": 2636.44,
+			"available": false
+		},
+		{
+			"brand": "Cadillac",
+			"model": "Eldorado",
+			"color": "Violet",
+			"year": 1996,
+			"price": 1907.8,
+			"available": true
+		},
+		{
+			"brand": "Ford",
+			"model": "Escort",
+			"color": "Turquoise",
+			"year": 2002,
+			"price": 3451.26,
+			"available": false
+		},
+		{
+			"brand": "Lexus",
+			"model": "LS",
+			"color": "Goldenrod",
+			"year": 2002,
+			"price": 1037.46,
+			"available": true
+		},
+		{
+			"brand": "Jeep",
+			"model": "Patriot",
+			"color": "Red",
+			"year": 2012,
+			"price": 2142.52,
+			"available": false
+		},
+		{
+			"brand": "Lexus",
+			"model": "HS",
+			"color": "Turquoise",
+			"year": 2010,
+			"price": 1562.47,
+			"available": false
+		},
+		{
+			"brand": "Mercedes-Benz",
+			"model": "SLS AMG",
+			"color": "Maroon",
+			"year": 2012,
+			"price": 3620.28,
+			"available": false
+		},
+		{
+			"brand": "Aston Martin",
+			"model": "DB9",
+			"color": "Crimson",
+			"year": 2007,
+			"price": 3591.29,
+			"available": false
+		},
+		{
+			"brand": "Corbin",
+			"model": "Sparrow",
+			"color": "Orange",
+			"year": 1999,
+			"price": 1968.59,
+			"available": false
+		},
+		{
+			"brand": "Chevrolet",
+			"model": "1500",
+			"color": "Yellow",
+			"year": 1996,
+			"price": 2568.86,
+			"available": true
+		},
+		{
+			"brand": "Ford",
+			"model": "ZX2",
+			"color": "Pink",
+			"year": 2003,
+			"price": 3424.37,
+			"available": true
+		},
+		{
+			"brand": "Mazda",
+			"model": "Mazda5",
+			"color": "Maroon",
+			"year": 2010,
+			"price": 2677.07,
+			"available": true
+		},
+		{
+			"brand": "BMW",
+			"model": "M5",
+			"color": "Blue",
+			"year": 2007,
+			"price": 2606.57,
+			"available": true
+		},
+		{
+			"brand": "Mitsubishi",
+			"model": "Truck",
+			"color": "Teal",
+			"year": 1986,
+			"price": 2309.19,
+			"available": false
+		},
+		{
+			"brand": "Mazda",
+			"model": "B-Series",
+			"color": "Teal",
+			"year": 2002,
+			"price": 1409.23,
+			"available": true
+		},
+		{
+			"brand": "BMW",
+			"model": "M3",
+			"color": "Indigo",
+			"year": 2008,
+			"price": 1625.67,
+			"available": false
+		},
+		{
+			"brand": "Kia",
+			"model": "Sportage",
+			"color": "Green",
+			"year": 1995,
+			"price": 1816,
+			"available": true
+		},
+		{
+			"brand": "Saab",
+			"model": "9-5",
+			"color": "Red",
+			"year": 2006,
+			"price": 3012.06,
+			"available": false
+		},
+		{
+			"brand": "Mercedes-Benz",
+			"model": "S-Class",
+			"color": "Red",
+			"year": 1993,
+			"price": 1039.01,
+			"available": true
+		},
+		{
+			"brand": "Volvo",
+			"model": "S80",
+			"color": "Fuscia",
+			"year": 1999,
+			"price": 2431.7,
+			"available": true
+		},
+		{
+			"brand": "Volkswagen",
+			"model": "CC",
+			"color": "Orange",
+			"year": 2012,
+			"price": 2221.31,
+			"available": true
+		},
+		{
+			"brand": "Ford",
+			"model": "Escape",
+			"color": "Puce",
+			"year": 2013,
+			"price": 2752.43,
+			"available": false
+		},
+		{
+			"brand": "Ford",
+			"model": "Flex",
+			"color": "Violet",
+			"year": 2009,
+			"price": 2532.84,
+			"available": false
+		},
+		{
+			"brand": "Land Rover",
+			"model": "Range Rover",
+			"color": "Purple",
+			"year": 2012,
+			"price": 1900.4,
+			"available": true
+		},
+		{
+			"brand": "Pontiac",
+			"model": "GTO",
+			"color": "Purple",
+			"year": 1966,
+			"price": 1756.57,
+			"available": true
+		},
+		{
+			"brand": "BMW",
+			"model": "6 Series",
+			"color": "Red",
+			"year": 2009,
+			"price": 1740.48,
+			"available": true
+		},
+		{
+			"brand": "Honda",
+			"model": "Civic",
+			"color": "Crimson",
+			"year": 1999,
+			"price": 1260.17,
+			"available": false
+		},
+		{
+			"brand": "Ford",
+			"model": "F-Series",
+			"color": "Puce",
+			"year": 2009,
+			"price": 2147.64,
+			"available": true
+		},
+		{
+			"brand": "Ford",
+			"model": "Thunderbird",
+			"color": "Maroon",
+			"year": 1986,
+			"price": 3179.81,
+			"available": false
+		},
+		{
+			"brand": "Panoz",
+			"model": "Esperante",
+			"color": "Aquamarine",
+			"year": 2007,
+			"price": 3354.51,
+			"available": true
+		},
+		{
+			"brand": "Volvo",
+			"model": "V70",
+			"color": "Puce",
+			"year": 2008,
+			"price": 1173.21,
+			"available": true
+		},
+		{
+			"brand": "Nissan",
+			"model": "Maxima",
+			"color": "Maroon",
+			"year": 1995,
+			"price": 2869.77,
+			"available": true
+		},
+		{
+			"brand": "Audi",
+			"model": "100",
+			"color": "Crimson",
+			"year": 1989,
+			"price": 1067.86,
+			"available": false
+		},
+		{
+			"brand": "Ford",
+			"model": "F-Series",
+			"color": "Puce",
+			"year": 2004,
+			"price": 1071.52,
+			"available": false
+		},
+		{
+			"brand": "Ford",
+			"model": "Probe",
+			"color": "Puce",
+			"year": 1994,
+			"price": 2204.11,
+			"available": true
+		},
+		{
+			"brand": "Acura",
+			"model": "Integra",
+			"color": "Blue",
+			"year": 1998,
+			"price": 2648.77,
+			"available": false
+		},
+		{
+			"brand": "Chrysler",
+			"model": "300",
+			"color": "Khaki",
+			"year": 1999,
+			"price": 2370.63,
+			"available": false
+		},
+		{
+			"brand": "Cadillac",
+			"model": "XLR",
+			"color": "Crimson",
+			"year": 2007,
+			"price": 1903.03,
+			"available": true
+		},
+		{
+			"brand": "BMW",
+			"model": "645",
+			"color": "Green",
+			"year": 2005,
+			"price": 3325.11,
+			"available": true
+		},
+		{
+			"brand": "Plymouth",
+			"model": "Voyager",
+			"color": "Red",
+			"year": 1995,
+			"price": 1384.37,
+			"available": true
+		},
+		{
+			"brand": "Pontiac",
+			"model": "Bonneville",
+			"color": "Green",
+			"year": 1996,
+			"price": 1160.01,
+			"available": true
+		},
+		{
+			"brand": "Ford",
+			"model": "Freestar",
+			"color": "Goldenrod",
+			"year": 2007,
+			"price": 1510.16,
+			"available": false
+		},
+		{
+			"brand": "Suzuki",
+			"model": "Aerio",
+			"color": "Pink",
+			"year": 2003,
+			"price": 3835.76,
+			"available": true
+		},
+		{
+			"brand": "Porsche",
+			"model": "924 S",
+			"color": "Crimson",
+			"year": 1987,
+			"price": 1635.86,
+			"available": false
+		},
+		{
+			"brand": "Toyota",
+			"model": "Tercel",
+			"color": "Crimson",
+			"year": 1996,
+			"price": 1685.72,
+			"available": false
+		},
+		{
+			"brand": "GMC",
+			"model": "Vandura 3500",
+			"color": "Aquamarine",
+			"year": 1992,
+			"price": 2481.72,
+			"available": false
+		},
+		{
+			"brand": "Mazda",
+			"model": "CX-9",
+			"color": "Turquoise",
+			"year": 2008,
+			"price": 1167.09,
+			"available": false
+		},
+		{
+			"brand": "Lincoln",
+			"model": "Town Car",
+			"color": "Goldenrod",
+			"year": 2004,
+			"price": 2151.59,
+			"available": false
+		},
+		{
+			"brand": "Suzuki",
+			"model": "Sidekick",
+			"color": "Red",
+			"year": 1989,
+			"price": 2191.49,
+			"available": true
+		},
+		{
+			"brand": "Subaru",
+			"model": "Leone",
+			"color": "Pink",
+			"year": 1985,
+			"price": 2398.58,
+			"available": true
+		},
+		{
+			"brand": "Ford",
+			"model": "E150",
+			"color": "Mauv",
+			"year": 2004,
+			"price": 3196.49,
+			"available": true
+		},
+		{
+			"brand": "Toyota",
+			"model": "Avalon",
+			"color": "Teal",
+			"year": 2010,
+			"price": 1374.9,
+			"available": false
+		},
+		{
+			"brand": "Nissan",
+			"model": "240SX",
+			"color": "Indigo",
+			"year": 1994,
+			"price": 3181.63,
+			"available": true
+		},
+		{
+			"brand": "Mercury",
+			"model": "Sable",
+			"color": "Aquamarine",
+			"year": 1993,
+			"price": 2225.19,
+			"available": true
+		},
+		{
+			"brand": "Chevrolet",
+			"model": "TrailBlazer",
+			"color": "Pink",
+			"year": 2008,
+			"price": 2370.71,
+			"available": false
+		},
+		{
+			"brand": "Oldsmobile",
+			"model": "LSS",
+			"color": "Green",
+			"year": 1998,
+			"price": 1870.32,
+			"available": true
+		},
+		{
+			"brand": "Mercury",
+			"model": "Sable",
+			"color": "Crimson",
+			"year": 1995,
+			"price": 1480.82,
+			"available": false
+		},
+		{
+			"brand": "Mercedes-Benz",
+			"model": "SLK-Class",
+			"color": "Aquamarine",
+			"year": 1997,
+			"price": 3752.06,
+			"available": true
+		},
+		{
+			"brand": "Kia",
+			"model": "Rondo",
+			"color": "Blue",
+			"year": 2010,
+			"price": 3024,
+			"available": true
+		},
+		{
+			"brand": "Ford",
+			"model": "Taurus X",
+			"color": "Pink",
+			"year": 2008,
+			"price": 3087.8,
+			"available": false
+		},
+		{
+			"brand": "Volkswagen",
+			"model": "Corrado",
+			"color": "Maroon",
+			"year": 1992,
+			"price": 3877.27,
+			"available": true
+		},
+		{
+			"brand": "Mazda",
+			"model": "RX-8",
+			"color": "Blue",
+			"year": 2011,
+			"price": 1641.6,
+			"available": false
+		},
+		{
+			"brand": "Mercedes-Benz",
+			"model": "GL-Class",
+			"color": "Purple",
+			"year": 2009,
+			"price": 2448.83,
+			"available": false
+		},
+		{
+			"brand": "Mitsubishi",
+			"model": "Challenger",
+			"color": "Teal",
+			"year": 2002,
+			"price": 2386.69,
+			"available": false
+		},
+		{
+			"brand": "Cadillac",
+			"model": "CTS",
+			"color": "Orange",
+			"year": 2005,
+			"price": 2792.36,
+			"available": true
+		},
+		{
+			"brand": "Buick",
+			"model": "Electra",
+			"color": "Teal",
+			"year": 1984,
+			"price": 2334.63,
+			"available": true
+		},
+		{
+			"brand": "Scion",
+			"model": "tC",
+			"color": "Crimson",
+			"year": 2011,
+			"price": 2152.29,
+			"available": false
+		},
+		{
+			"brand": "Ford",
+			"model": "Windstar",
+			"color": "Orange",
+			"year": 1995,
+			"price": 3583.83,
+			"available": false
+		},
+		{
+			"brand": "Aston Martin",
+			"model": "DBS",
+			"color": "Mauv",
+			"year": 2008,
+			"price": 3518.87,
+			"available": true
+		},
+		{
+			"brand": "Mitsubishi",
+			"model": "3000GT",
+			"color": "Maroon",
+			"year": 1999,
+			"price": 3854.61,
+			"available": false
+		},
+		{
+			"brand": "Nissan",
+			"model": "Murano",
+			"color": "Mauv",
+			"year": 2012,
+			"price": 2873.38,
+			"available": true
+		},
+		{
+			"brand": "Acura",
+			"model": "NSX",
+			"color": "Green",
+			"year": 1994,
+			"price": 1845.17,
+			"available": true
+		},
+		{
+			"brand": "Pontiac",
+			"model": "Turbo Firefly",
+			"color": "Khaki",
+			"year": 1990,
+			"price": 3016.74,
+			"available": false
+		},
+		{
+			"brand": "Mercedes-Benz",
+			"model": "CLS-Class",
+			"color": "Goldenrod",
+			"year": 2008,
+			"price": 3371.67,
+			"available": true
+		},
+		{
+			"brand": "Ferrari",
+			"model": "612 Scaglietti",
+			"color": "Goldenrod",
+			"year": 2006,
+			"price": 2965.79,
+			"available": true
+		},
+		{
+			"brand": "Honda",
+			"model": "Prelude",
+			"color": "Khaki",
+			"year": 1986,
+			"price": 1903.49,
+			"available": false
+		},
+		{
+			"brand": "Subaru",
+			"model": "Leone",
+			"color": "Teal",
+			"year": 1988,
+			"price": 1536.82,
+			"available": false
+		},
+		{
+			"brand": "Toyota",
+			"model": "Supra",
+			"color": "Mauv",
+			"year": 1993,
+			"price": 2023.64,
+			"available": true
+		},
+		{
+			"brand": "Audi",
+			"model": "V8",
+			"color": "Puce",
+			"year": 1990,
+			"price": 2752.27,
+			"available": true
+		},
+		{
+			"brand": "Mercedes-Benz",
+			"model": "C-Class",
+			"color": "Red",
+			"year": 2006,
+			"price": 1403.1,
+			"available": false
+		},
+		{
+			"brand": "GMC",
+			"model": "Yukon XL 2500",
+			"color": "Purple",
+			"year": 2007,
+			"price": 1880.52,
+			"available": true
+		},
+		{
+			"brand": "Toyota",
+			"model": "Tercel",
+			"color": "Puce",
+			"year": 1998,
+			"price": 2677.43,
+			"available": false
+		},
+		{
+			"brand": "Mercedes-Benz",
+			"model": "500SL",
+			"color": "Crimson",
+			"year": 1993,
+			"price": 2801.32,
+			"available": false
+		},
+		{
+			"brand": "Subaru",
+			"model": "Legacy",
+			"color": "Khaki",
+			"year": 1991,
+			"price": 2030.81,
+			"available": true
+		},
+		{
+			"brand": "Lexus",
+			"model": "SC",
+			"color": "Green",
+			"year": 2000,
+			"price": 3745.9,
+			"available": true
+		},
+		{
+			"brand": "Hyundai",
+			"model": "Elantra",
+			"color": "Yellow",
+			"year": 1995,
+			"price": 3350.14,
+			"available": false
+		},
+		{
+			"brand": "Scion",
+			"model": "xD",
+			"color": "Aquamarine",
+			"year": 2012,
+			"price": 1821.16,
+			"available": true
+		},
+		{
+			"brand": "Chevrolet",
+			"model": "Express 1500",
+			"color": "Aquamarine",
+			"year": 2005,
+			"price": 3641.52,
+			"available": true
+		},
+		{
+			"brand": "Volkswagen",
+			"model": "Touareg",
+			"color": "Khaki",
+			"year": 2006,
+			"price": 1308.4,
+			"available": true
+		},
+		{
+			"brand": "Lexus",
+			"model": "ES",
+			"color": "Fuscia",
+			"year": 2007,
+			"price": 1503.6,
+			"available": false
+		},
+		{
+			"brand": "BMW",
+			"model": "6 Series",
+			"color": "Teal",
+			"year": 2008,
+			"price": 3333.74,
+			"available": false
+		},
+		{
+			"brand": "GMC",
+			"model": "Vandura 3500",
+			"color": "Turquoise",
+			"year": 1993,
+			"price": 2497.56,
+			"available": false
+		},
+		{
+			"brand": "Mercedes-Benz",
+			"model": "CLS-Class",
+			"color": "Teal",
+			"year": 2008,
+			"price": 3423.83,
+			"available": false
+		},
+		{
+			"brand": "Ford",
+			"model": "F150",
+			"color": "Pink",
+			"year": 2011,
+			"price": 2775.44,
+			"available": false
+		},
+		{
+			"brand": "Dodge",
+			"model": "Ram 1500 Club",
+			"color": "Violet",
+			"year": 1998,
+			"price": 3366.03,
+			"available": true
+		},
+		{
+			"brand": "Ford",
+			"model": "Aerostar",
+			"color": "Violet",
+			"year": 1994,
+			"price": 2784.51,
+			"available": true
+		},
+		{
+			"brand": "Volkswagen",
+			"model": "Touareg",
+			"color": "Purple",
+			"year": 2007,
+			"price": 1353.04,
+			"available": false
+		},
+		{
+			"brand": "Mitsubishi",
+			"model": "Chariot",
+			"color": "Fuscia",
+			"year": 1991,
+			"price": 3860.54,
+			"available": true
+		},
+		{
+			"brand": "Hyundai",
+			"model": "Tucson",
+			"color": "Puce",
+			"year": 2012,
+			"price": 3614.36,
+			"available": false
+		},
+		{
+			"brand": "Ford",
+			"model": "Escape",
+			"color": "Green",
+			"year": 2000,
+			"price": 3832.02,
+			"available": true
+		},
+		{
+			"brand": "GMC",
+			"model": "1500",
+			"color": "Red",
+			"year": 1995,
+			"price": 1711.28,
+			"available": true
+		},
+		{
+			"brand": "Volvo",
+			"model": "V50",
+			"color": "Pink",
+			"year": 2005,
+			"price": 3252.51,
+			"available": false
+		},
+		{
+			"brand": "Infiniti",
+			"model": "M",
+			"color": "Purple",
+			"year": 1992,
+			"price": 2627.95,
+			"available": false
+		},
+		{
+			"brand": "Toyota",
+			"model": "Camry Hybrid",
+			"color": "Goldenrod",
+			"year": 2010,
+			"price": 1366.66,
+			"available": false
+		},
+		{
+			"brand": "Mercury",
+			"model": "Grand Marquis",
+			"color": "Teal",
+			"year": 1985,
+			"price": 1127.24,
+			"available": true
+		},
+		{
+			"brand": "Volvo",
+			"model": "C70",
+			"color": "Pink",
+			"year": 2000,
+			"price": 2000.91,
+			"available": true
+		},
+		{
+			"brand": "Mercedes-Benz",
+			"model": "CLK-Class",
+			"color": "Goldenrod",
+			"year": 2006,
+			"price": 3147.03,
+			"available": false
+		},
+		{
+			"brand": "Ford",
+			"model": "Ranger",
+			"color": "Pink",
+			"year": 1994,
+			"price": 3644.54,
+			"available": false
+		},
+		{
+			"brand": "Lotus",
+			"model": "Esprit",
+			"color": "Violet",
+			"year": 2004,
+			"price": 1627.08,
+			"available": false
+		},
+		{
+			"brand": "Toyota",
+			"model": "Celica",
+			"color": "Fuscia",
+			"year": 2000,
+			"price": 1173.47,
+			"available": true
+		},
+		{
+			"brand": "Mercedes-Benz",
+			"model": "E-Class",
+			"color": "Blue",
+			"year": 1991,
+			"price": 2196.05,
+			"available": false
+		},
+		{
+			"brand": "Land Rover",
+			"model": "LR2",
+			"color": "Goldenrod",
+			"year": 2009,
+			"price": 3329,
+			"available": true
+		},
+		{
+			"brand": "Pontiac",
+			"model": "6000",
+			"color": "Green",
+			"year": 1991,
+			"price": 2015.37,
+			"available": false
+		},
+		{
+			"brand": "Maserati",
+			"model": "Spyder",
+			"color": "Orange",
+			"year": 1991,
+			"price": 1530.1,
+			"available": true
+		},
+		{
+			"brand": "Chevrolet",
+			"model": "Caprice",
+			"color": "Goldenrod",
+			"year": 1996,
+			"price": 3816.55,
+			"available": true
+		},
+		{
+			"brand": "Dodge",
+			"model": "Ram 1500 Club",
+			"color": "Indigo",
+			"year": 1996,
+			"price": 3597.15,
+			"available": true
+		},
+		{
+			"brand": "Ford",
+			"model": "Mustang",
+			"color": "Purple",
+			"year": 1983,
+			"price": 3942.04,
+			"available": true
+		},
+		{
+			"brand": "Ford",
+			"model": "Galaxie",
+			"color": "Green",
+			"year": 1964,
+			"price": 2075.91,
+			"available": true
+		},
+		{
+			"brand": "Audi",
+			"model": "4000s",
+			"color": "Purple",
+			"year": 1986,
+			"price": 2106.91,
+			"available": true
+		},
+		{
+			"brand": "Toyota",
+			"model": "TundraMax",
+			"color": "Crimson",
+			"year": 2007,
+			"price": 1487.08,
+			"available": true
+		},
+		{
+			"brand": "Lincoln",
+			"model": "Continental Mark VII",
+			"color": "Goldenrod",
+			"year": 1990,
+			"price": 3423.87,
+			"available": true
+		},
+		{
+			"brand": "Nissan",
+			"model": "300ZX",
+			"color": "Maroon",
+			"year": 1995,
+			"price": 2440.66,
+			"available": true
+		},
+		{
+			"brand": "Mazda",
+			"model": "MPV",
+			"color": "Aquamarine",
+			"year": 2004,
+			"price": 3011.1,
+			"available": true
+		},
+		{
+			"brand": "Kia",
+			"model": "Sephia",
+			"color": "Green",
+			"year": 1994,
+			"price": 2510.28,
+			"available": false
+		},
+		{
+			"brand": "Toyota",
+			"model": "Corolla",
+			"color": "Yellow",
+			"year": 2007,
+			"price": 1336.28,
+			"available": true
+		},
+		{
+			"brand": "Pontiac",
+			"model": "6000",
+			"color": "Fuscia",
+			"year": 1985,
+			"price": 3144.07,
+			"available": true
+		},
+		{
+			"brand": "Scion",
+			"model": "xB",
+			"color": "Blue",
+			"year": 2008,
+			"price": 1084.28,
+			"available": true
+		},
+		{
+			"brand": "Morgan",
+			"model": "Aero 8",
+			"color": "Violet",
+			"year": 2007,
+			"price": 3564.39,
+			"available": true
+		},
+		{
+			"brand": "Chevrolet",
+			"model": "Malibu",
+			"color": "Crimson",
+			"year": 2005,
+			"price": 2585.27,
+			"available": true
+		},
+		{
+			"brand": "Infiniti",
+			"model": "I",
+			"color": "Orange",
+			"year": 1998,
+			"price": 1959.98,
+			"available": true
+		},
+		{
+			"brand": "Pontiac",
+			"model": "LeMans",
+			"color": "Khaki",
+			"year": 1964,
+			"price": 3570.57,
+			"available": true
+		},
+		{
+			"brand": "Lexus",
+			"model": "SC",
+			"color": "Teal",
+			"year": 1995,
+			"price": 1934.74,
+			"available": true
+		},
+		{
+			"brand": "Land Rover",
+			"model": "Range Rover",
+			"color": "Blue",
+			"year": 1988,
+			"price": 2319.98,
+			"available": true
+		},
+		{
+			"brand": "Chevrolet",
+			"model": "Express 2500",
+			"color": "Purple",
+			"year": 2005,
+			"price": 1635.08,
+			"available": true
+		},
+		{
+			"brand": "Mazda",
+			"model": "B-Series",
+			"color": "Teal",
+			"year": 2004,
+			"price": 3615.44,
+			"available": false
+		},
+		{
+			"brand": "Buick",
+			"model": "Regal",
+			"color": "Maroon",
+			"year": 1986,
+			"price": 2902.7,
+			"available": false
+		},
+		{
+			"brand": "Dodge",
+			"model": "Ram 1500",
+			"color": "Maroon",
+			"year": 2000,
+			"price": 1271.5,
+			"available": true
+		},
+		{
+			"brand": "Mercedes-Benz",
+			"model": "CLS-Class",
+			"color": "Teal",
+			"year": 2008,
+			"price": 2314.93,
+			"available": true
+		},
+		{
+			"brand": "Volkswagen",
+			"model": "GTI",
+			"color": "Puce",
+			"year": 1996,
+			"price": 3675.69,
+			"available": true
+		},
+		{
+			"brand": "Pontiac",
+			"model": "Parisienne",
+			"color": "Blue",
+			"year": 1984,
+			"price": 1288.53,
+			"available": false
+		},
+		{
+			"brand": "Dodge",
+			"model": "Avenger",
+			"color": "Fuscia",
+			"year": 1997,
+			"price": 1983.25,
+			"available": false
+		},
+		{
+			"brand": "Nissan",
+			"model": "Quest",
+			"color": "Aquamarine",
+			"year": 2007,
+			"price": 3075.39,
+			"available": false
+		},
+		{
+			"brand": "Kia",
+			"model": "Optima",
+			"color": "Indigo",
+			"year": 2007,
+			"price": 2349.97,
+			"available": true
+		},
+		{
+			"brand": "Chevrolet",
+			"model": "Caprice",
+			"color": "Yellow",
+			"year": 1983,
+			"price": 2290.91,
+			"available": true
+		},
+		{
+			"brand": "Dodge",
+			"model": "Durango",
+			"color": "Fuscia",
+			"year": 2004,
+			"price": 2847.9,
+			"available": false
+		},
+		{
+			"brand": "Buick",
+			"model": "LaCrosse",
+			"color": "Red",
+			"year": 2011,
+			"price": 3954.66,
+			"available": false
+		},
+		{
+			"brand": "Honda",
+			"model": "Insight",
+			"color": "Red",
+			"year": 2012,
+			"price": 1593.26,
+			"available": true
+		},
+		{
+			"brand": "Peugeot",
+			"model": "207",
+			"color": "Mauv",
+			"year": 2006,
+			"price": 3915.29,
+			"available": false
+		},
+		{
+			"brand": "GMC",
+			"model": "Savana 2500",
+			"color": "Blue",
+			"year": 2007,
+			"price": 2619.62,
+			"available": false
+		},
+		{
+			"brand": "Toyota",
+			"model": "Camry",
+			"color": "Violet",
+			"year": 1999,
+			"price": 3498.96,
+			"available": false
+		},
+		{
+			"brand": "Suzuki",
+			"model": "Aerio",
+			"color": "Puce",
+			"year": 2004,
+			"price": 3555.74,
+			"available": false
+		},
+		{
+			"brand": "GMC",
+			"model": "Sierra 1500",
+			"color": "Maroon",
+			"year": 2013,
+			"price": 1768.13,
+			"available": true
+		},
+		{
+			"brand": "Volvo",
+			"model": "V50",
+			"color": "Maroon",
+			"year": 2005,
+			"price": 3385.42,
+			"available": false
+		},
+		{
+			"brand": "Honda",
+			"model": "Element",
+			"color": "Mauv",
+			"year": 2008,
+			"price": 1170.23,
+			"available": false
+		},
+		{
+			"brand": "Ford",
+			"model": "Excursion",
+			"color": "Teal",
+			"year": 2002,
+			"price": 3005.31,
+			"available": true
+		},
+		{
+			"brand": "Dodge",
+			"model": "Grand Caravan",
+			"color": "Khaki",
+			"year": 2005,
+			"price": 2206.71,
+			"available": true
+		},
+		{
+			"brand": "Suzuki",
+			"model": "Sidekick",
+			"color": "Crimson",
+			"year": 1996,
+			"price": 3921.95,
+			"available": true
+		},
+		{
+			"brand": "Volkswagen",
+			"model": "Corrado",
+			"color": "Crimson",
+			"year": 1992,
+			"price": 2442.62,
+			"available": true
+		},
+		{
+			"brand": "Subaru",
+			"model": "Brat",
+			"color": "Red",
+			"year": 1986,
+			"price": 1968.66,
+			"available": true
+		},
+		{
+			"brand": "Mitsubishi",
+			"model": "Galant",
+			"color": "Yellow",
+			"year": 1987,
+			"price": 2149.09,
+			"available": false
+		},
+		{
+			"brand": "Toyota",
+			"model": "Tacoma",
+			"color": "Goldenrod",
+			"year": 2007,
+			"price": 1012.37,
+			"available": false
+		},
+		{
+			"brand": "Kia",
+			"model": "Rio",
+			"color": "Blue",
+			"year": 2009,
+			"price": 1972.58,
+			"available": true
+		},
+		{
+			"brand": "Jaguar",
+			"model": "S-Type",
+			"color": "Maroon",
+			"year": 2003,
+			"price": 1859.8,
+			"available": false
+		},
+		{
+			"brand": "Honda",
+			"model": "Civic Si",
+			"color": "Puce",
+			"year": 2003,
+			"price": 1324.15,
+			"available": true
+		},
+		{
+			"brand": "Acura",
+			"model": "TL",
+			"color": "Crimson",
+			"year": 2006,
+			"price": 1471.09,
+			"available": false
+		},
+		{
+			"brand": "Lexus",
+			"model": "LS",
+			"color": "Khaki",
+			"year": 2007,
+			"price": 2099.98,
+			"available": true
+		},
+		{
+			"brand": "Pontiac",
+			"model": "Bonneville",
+			"color": "Orange",
+			"year": 1989,
+			"price": 1124.38,
+			"available": false
+		},
+		{
+			"brand": "Ford",
+			"model": "LTD Crown Victoria",
+			"color": "Crimson",
+			"year": 1984,
+			"price": 1395,
+			"available": false
+		},
+		{
+			"brand": "Ford",
+			"model": "Econoline E350",
+			"color": "Mauv",
+			"year": 1995,
+			"price": 1356.63,
+			"available": true
+		},
+		{
+			"brand": "Ford",
+			"model": "Bronco",
+			"color": "Orange",
+			"year": 1986,
+			"price": 2477.93,
+			"available": false
+		},
+		{
+			"brand": "Ford",
+			"model": "Econoline E250",
+			"color": "Teal",
+			"year": 1994,
+			"price": 1256.48,
+			"available": false
+		},
+		{
+			"brand": "Porsche",
+			"model": "924 S",
+			"color": "Yellow",
+			"year": 1987,
+			"price": 1493.75,
+			"available": true
+		},
+		{
+			"brand": "Hyundai",
+			"model": "Sonata",
+			"color": "Khaki",
+			"year": 1999,
+			"price": 2335.83,
+			"available": false
+		},
+		{
+			"brand": "Kia",
+			"model": "Sephia",
+			"color": "Pink",
+			"year": 1998,
+			"price": 2990.73,
+			"available": true
+		},
+		{
+			"brand": "Dodge",
+			"model": "D150 Club",
+			"color": "Fuscia",
+			"year": 1992,
+			"price": 2688.99,
+			"available": false
+		},
+		{
+			"brand": "Mercedes-Benz",
+			"model": "CL65 AMG",
+			"color": "Turquoise",
+			"year": 2009,
+			"price": 2582.89,
+			"available": true
+		},
+		{
+			"brand": "Chevrolet",
+			"model": "G-Series G30",
+			"color": "Aquamarine",
+			"year": 1994,
+			"price": 1386.41,
+			"available": true
+		},
+		{
+			"brand": "Mitsubishi",
+			"model": "Lancer Evolution",
+			"color": "Crimson",
+			"year": 2008,
+			"price": 2146.08,
+			"available": false
+		},
+		{
+			"brand": "Ford",
+			"model": "Expedition",
+			"color": "Yellow",
+			"year": 2007,
+			"price": 3627.78,
+			"available": false
+		},
+		{
+			"brand": "Mercury",
+			"model": "Cougar",
+			"color": "Turquoise",
+			"year": 1992,
+			"price": 2666.01,
+			"available": false
+		},
+		{
+			"brand": "Ford",
+			"model": "Ranger",
+			"color": "Pink",
+			"year": 2009,
+			"price": 2442.46,
+			"available": false
+		},
+		{
+			"brand": "Mazda",
+			"model": "B-Series Plus",
+			"color": "Turquoise",
+			"year": 2003,
+			"price": 2794.49,
+			"available": true
+		},
+		{
+			"brand": "Ford",
+			"model": "Econoline E250",
+			"color": "Purple",
+			"year": 1998,
+			"price": 3290.71,
+			"available": false
+		},
+		{
+			"brand": "Cadillac",
+			"model": "Seville",
+			"color": "Red",
+			"year": 2003,
+			"price": 3258.97,
+			"available": false
+		},
+		{
+			"brand": "Volvo",
+			"model": "S70",
+			"color": "Maroon",
+			"year": 1998,
+			"price": 2430.16,
+			"available": false
+		},
+		{
+			"brand": "Chrysler",
+			"model": "Voyager",
+			"color": "Teal",
+			"year": 2000,
+			"price": 3081.39,
+			"available": true
+		},
+		{
+			"brand": "Mazda",
+			"model": "RX-8",
+			"color": "Violet",
+			"year": 2011,
+			"price": 1275.25,
+			"available": true
+		},
+		{
+			"brand": "Suzuki",
+			"model": "Esteem",
+			"color": "Yellow",
+			"year": 1997,
+			"price": 2888.01,
+			"available": true
+		},
+		{
+			"brand": "Mitsubishi",
+			"model": "RVR",
+			"color": "Goldenrod",
+			"year": 1992,
+			"price": 3369.67,
+			"available": true
+		},
+		{
+			"brand": "Maybach",
+			"model": "57",
+			"color": "Orange",
+			"year": 2010,
+			"price": 3329.26,
+			"available": false
+		},
+		{
+			"brand": "Mercedes-Benz",
+			"model": "W126",
+			"color": "Turquoise",
+			"year": 1981,
+			"price": 2140,
+			"available": true
+		},
+		{
+			"brand": "GMC",
+			"model": "Canyon",
+			"color": "Green",
+			"year": 2005,
+			"price": 2950.39,
+			"available": false
+		},
+		{
+			"brand": "Volkswagen",
+			"model": "Cabriolet",
+			"color": "Violet",
+			"year": 1996,
+			"price": 3456.62,
+			"available": true
+		},
+		{
+			"brand": "Alfa Romeo",
+			"model": "164",
+			"color": "Blue",
+			"year": 1993,
+			"price": 3420,
+			"available": false
+		},
+		{
+			"brand": "GMC",
+			"model": "Sierra 2500",
+			"color": "Mauv",
+			"year": 1999,
+			"price": 3230.99,
+			"available": false
+		},
+		{
+			"brand": "Lamborghini",
+			"model": "Murciélago LP640",
+			"color": "Teal",
+			"year": 2008,
+			"price": 2354.62,
+			"available": false
+		},
+		{
+			"brand": "Volvo",
+			"model": "C70",
+			"color": "Red",
+			"year": 2009,
+			"price": 3969.48,
+			"available": false
+		},
+		{
+			"brand": "Cadillac",
+			"model": "Escalade",
+			"color": "Pink",
+			"year": 2003,
+			"price": 3890.21,
+			"available": true
+		},
+		{
+			"brand": "Nissan",
+			"model": "Altima",
+			"color": "Green",
+			"year": 1993,
+			"price": 1867.44,
+			"available": false
+		},
+		{
+			"brand": "Ford",
+			"model": "Fiesta",
+			"color": "Khaki",
+			"year": 2011,
+			"price": 1434.86,
+			"available": true
+		},
+		{
+			"brand": "Lincoln",
+			"model": "Town Car",
+			"color": "Crimson",
+			"year": 2006,
+			"price": 3791.29,
+			"available": false
+		},
+		{
+			"brand": "Plymouth",
+			"model": "Laser",
+			"color": "Orange",
+			"year": 1992,
+			"price": 2822.28,
+			"available": true
+		},
+		{
+			"brand": "Lincoln",
+			"model": "Navigator",
+			"color": "Aquamarine",
+			"year": 2007,
+			"price": 2576.2,
+			"available": true
+		},
+		{
+			"brand": "Chevrolet",
+			"model": "Sportvan G20",
+			"color": "Green",
+			"year": 1995,
+			"price": 3442.37,
+			"available": true
+		},
+		{
+			"brand": "Buick",
+			"model": "Century",
+			"color": "Indigo",
+			"year": 1987,
+			"price": 1688.38,
+			"available": true
+		},
+		{
+			"brand": "Suzuki",
+			"model": "SJ 410",
+			"color": "Goldenrod",
+			"year": 1986,
+			"price": 1121.93,
+			"available": false
+		},
+		{
+			"brand": "Hummer",
+			"model": "H2",
+			"color": "Turquoise",
+			"year": 2004,
+			"price": 3063.99,
+			"available": false
+		},
+		{
+			"brand": "Infiniti",
+			"model": "M",
+			"color": "Puce",
+			"year": 1992,
+			"price": 2483.97,
+			"available": false
+		},
+		{
+			"brand": "Rolls-Royce",
+			"model": "Phantom",
+			"color": "Pink",
+			"year": 2011,
+			"price": 3027.78,
+			"available": false
+		},
+		{
+			"brand": "Volvo",
+			"model": "S40",
+			"color": "Goldenrod",
+			"year": 2006,
+			"price": 2538.87,
+			"available": true
+		},
+		{
+			"brand": "Eagle",
+			"model": "Vision",
+			"color": "Indigo",
+			"year": 1995,
+			"price": 2929.51,
+			"available": true
+		},
+		{
+			"brand": "Lexus",
+			"model": "CT",
+			"color": "Teal",
+			"year": 2011,
+			"price": 3196.07,
+			"available": false
+		},
+		{
+			"brand": "Audi",
+			"model": "riolet",
+			"color": "Teal",
+			"year": 1997,
+			"price": 1944.26,
+			"available": false
+		},
+		{
+			"brand": "Dodge",
+			"model": "Colt",
+			"color": "Orange",
+			"year": 1994,
+			"price": 1801.78,
+			"available": false
+		},
+		{
+			"brand": "Subaru",
+			"model": "Impreza",
+			"color": "Green",
+			"year": 2005,
+			"price": 3817.3,
+			"available": false
+		},
+		{
+			"brand": "Ford",
+			"model": "Taurus",
+			"color": "Fuscia",
+			"year": 1992,
+			"price": 2390.41,
+			"available": true
+		},
+		{
+			"brand": "Oldsmobile",
+			"model": "Silhouette",
+			"color": "Khaki",
+			"year": 1999,
+			"price": 1648.49,
+			"available": false
+		},
+		{
+			"brand": "Ford",
+			"model": "E-350 Super Duty Van",
+			"color": "Fuscia",
+			"year": 2006,
+			"price": 3213.16,
+			"available": true
+		},
+		{
+			"brand": "Chevrolet",
+			"model": "Camaro",
+			"color": "Khaki",
+			"year": 1973,
+			"price": 3369.55,
+			"available": true
+		},
+		{
+			"brand": "Geo",
+			"model": "Prizm",
+			"color": "Purple",
+			"year": 1995,
+			"price": 3251.78,
+			"available": true
+		},
+		{
+			"brand": "BMW",
+			"model": "Alpina B7",
+			"color": "Pink",
+			"year": 2008,
+			"price": 2024.93,
+			"available": true
+		},
+		{
+			"brand": "Ferrari",
+			"model": "F430 Spider",
+			"color": "Khaki",
+			"year": 2006,
+			"price": 1112.78,
+			"available": false
+		},
+		{
+			"brand": "Ford",
+			"model": "Escort",
+			"color": "Puce",
+			"year": 1999,
+			"price": 2192.53,
+			"available": false
+		},
+		{
+			"brand": "Hyundai",
+			"model": "Veracruz",
+			"color": "Aquamarine",
+			"year": 2008,
+			"price": 3574.83,
+			"available": true
+		},
+		{
+			"brand": "Pontiac",
+			"model": "Torrent",
+			"color": "Khaki",
+			"year": 2009,
+			"price": 3766.69,
+			"available": false
+		},
+		{
+			"brand": "Chevrolet",
+			"model": "Express 1500",
+			"color": "Blue",
+			"year": 2010,
+			"price": 2436.82,
+			"available": true
+		},
+		{
+			"brand": "Ford",
+			"model": "Econoline E350",
+			"color": "Mauv",
+			"year": 1993,
+			"price": 3263.23,
+			"available": false
+		},
+		{
+			"brand": "Buick",
+			"model": "Riviera",
+			"color": "Violet",
+			"year": 1985,
+			"price": 2922.36,
+			"available": false
+		},
+		{
+			"brand": "Mercury",
+			"model": "Montego",
+			"color": "Turquoise",
+			"year": 2007,
+			"price": 1565.09,
+			"available": true
+		},
+		{
+			"brand": "Suzuki",
+			"model": "SJ",
+			"color": "Crimson",
+			"year": 1988,
+			"price": 3836.34,
+			"available": false
+		},
+		{
+			"brand": "Eagle",
+			"model": "Vision",
+			"color": "Aquamarine",
+			"year": 1997,
+			"price": 3150.03,
+			"available": false
+		},
+		{
+			"brand": "Mercury",
+			"model": "Topaz",
+			"color": "Goldenrod",
+			"year": 1988,
+			"price": 2143.01,
+			"available": true
+		},
+		{
+			"brand": "Hyundai",
+			"model": "Sonata",
+			"color": "Turquoise",
+			"year": 1992,
+			"price": 3808.57,
+			"available": false
+		},
+		{
+			"brand": "Mazda",
+			"model": "929",
+			"color": "Fuscia",
+			"year": 1989,
+			"price": 1208.15,
+			"available": true
+		},
+		{
+			"brand": "Geo",
+			"model": "Prizm",
+			"color": "Goldenrod",
+			"year": 1995,
+			"price": 3663,
+			"available": false
+		},
+		{
+			"brand": "Porsche",
+			"model": "Boxster",
+			"color": "Violet",
+			"year": 2013,
+			"price": 1013.87,
+			"available": false
+		},
+		{
+			"brand": "Pontiac",
+			"model": "Grand Am",
+			"color": "Fuscia",
+			"year": 2001,
+			"price": 3793.39,
+			"available": false
+		},
+		{
+			"brand": "Subaru",
+			"model": "Impreza",
+			"color": "Violet",
+			"year": 2012,
+			"price": 2645.76,
+			"available": true
+		},
+		{
+			"brand": "Suzuki",
+			"model": "Swift",
+			"color": "Teal",
+			"year": 1989,
+			"price": 3597.99,
+			"available": false
+		},
+		{
+			"brand": "Acura",
+			"model": "Integra",
+			"color": "Turquoise",
+			"year": 1996,
+			"price": 1346.37,
+			"available": false
+		},
+		{
+			"brand": "BMW",
+			"model": "X6",
+			"color": "Goldenrod",
+			"year": 2011,
+			"price": 1555.02,
+			"available": false
+		},
+		{
+			"brand": "Toyota",
+			"model": "Tercel",
+			"color": "Pink",
+			"year": 1992,
+			"price": 2014.17,
+			"available": false
+		},
+		{
+			"brand": "Mazda",
+			"model": "RX-7",
+			"color": "Crimson",
+			"year": 1988,
+			"price": 2038.56,
+			"available": false
+		},
+		{
+			"brand": "Volkswagen",
+			"model": "Passat",
+			"color": "Fuscia",
+			"year": 2008,
+			"price": 1921.87,
+			"available": false
+		},
+		{
+			"brand": "Honda",
+			"model": "Accord",
+			"color": "Teal",
+			"year": 1992,
+			"price": 2082.13,
+			"available": true
+		},
+		{
+			"brand": "Nissan",
+			"model": "Maxima",
+			"color": "Fuscia",
+			"year": 2012,
+			"price": 2006.5,
+			"available": false
+		},
+		{
+			"brand": "Buick",
+			"model": "Regal",
+			"color": "Teal",
+			"year": 1994,
+			"price": 3411.89,
+			"available": true
+		},
+		{
+			"brand": "Dodge",
+			"model": "D150",
+			"color": "Fuscia",
+			"year": 1992,
+			"price": 3224.88,
+			"available": true
+		},
+		{
+			"brand": "Audi",
+			"model": "TT",
+			"color": "Blue",
+			"year": 2003,
+			"price": 1825.88,
+			"available": true
+		},
+		{
+			"brand": "Cadillac",
+			"model": "Eldorado",
+			"color": "Mauv",
+			"year": 1996,
+			"price": 3324.67,
+			"available": false
+		},
+		{
+			"brand": "Dodge",
+			"model": "Viper",
+			"color": "Maroon",
+			"year": 2002,
+			"price": 1336.15,
+			"available": false
+		},
+		{
+			"brand": "Ford",
+			"model": "E-Series",
+			"color": "Aquamarine",
+			"year": 2010,
+			"price": 3180.29,
+			"available": true
+		},
+		{
+			"brand": "Mitsubishi",
+			"model": "Tredia",
+			"color": "Crimson",
+			"year": 1987,
+			"price": 2122.82,
+			"available": true
+		},
+		{
+			"brand": "Toyota",
+			"model": "Camry",
+			"color": "Maroon",
+			"year": 1994,
+			"price": 3907.33,
+			"available": false
+		},
+		{
+			"brand": "Toyota",
+			"model": "Avalon",
+			"color": "Red",
+			"year": 2006,
+			"price": 3468.05,
+			"available": true
+		},
+		{
+			"brand": "Honda",
+			"model": "Insight",
+			"color": "Khaki",
+			"year": 2004,
+			"price": 2660.41,
+			"available": false
+		},
+		{
+			"brand": "Cadillac",
+			"model": "Seville",
+			"color": "Teal",
+			"year": 1997,
+			"price": 1242.79,
+			"available": true
+		},
+		{
+			"brand": "Dodge",
+			"model": "Ram Wagon B150",
+			"color": "Mauv",
+			"year": 1994,
+			"price": 3238.57,
+			"available": false
+		},
+		{
+			"brand": "Lotus",
+			"model": "Elan",
+			"color": "Yellow",
+			"year": 1994,
+			"price": 2529.25,
+			"available": false
+		},
+		{
+			"brand": "Pontiac",
+			"model": "Tempest",
+			"color": "Crimson",
+			"year": 1961,
+			"price": 3665.64,
+			"available": false
+		},
+		{
+			"brand": "Audi",
+			"model": "S4",
+			"color": "Goldenrod",
+			"year": 2013,
+			"price": 1966.24,
+			"available": true
+		},
+		{
+			"brand": "Chevrolet",
+			"model": "Malibu",
+			"color": "Teal",
+			"year": 2006,
+			"price": 2795.63,
+			"available": false
+		},
+		{
+			"brand": "Lincoln",
+			"model": "Navigator",
+			"color": "Blue",
+			"year": 2003,
+			"price": 1565.56,
+			"available": false
+		},
+		{
+			"brand": "Subaru",
+			"model": "SVX",
+			"color": "Fuscia",
+			"year": 1993,
+			"price": 1458.28,
+			"available": false
+		},
+		{
+			"brand": "Lexus",
+			"model": "SC",
+			"color": "Aquamarine",
+			"year": 1994,
+			"price": 3961.36,
+			"available": false
+		},
+		{
+			"brand": "Ford",
+			"model": "Bronco II",
+			"color": "Aquamarine",
+			"year": 1989,
+			"price": 1033.5,
+			"available": true
+		},
+		{
+			"brand": "GMC",
+			"model": "1500 Club Coupe",
+			"color": "Pink",
+			"year": 1998,
+			"price": 1180.3,
+			"available": true
+		},
+		{
+			"brand": "Mitsubishi",
+			"model": "Pajero",
+			"color": "Maroon",
+			"year": 1998,
+			"price": 1897.19,
+			"available": false
+		},
+		{
+			"brand": "Subaru",
+			"model": "Forester",
+			"color": "Violet",
+			"year": 2011,
+			"price": 3097.38,
+			"available": true
+		},
+		{
+			"brand": "Mercury",
+			"model": "Grand Marquis",
+			"color": "Puce",
+			"year": 2005,
+			"price": 1372.16,
+			"available": true
+		},
+		{
+			"brand": "Land Rover",
+			"model": "Range Rover",
+			"color": "Indigo",
+			"year": 2001,
+			"price": 2438.84,
+			"available": false
+		},
+		{
+			"brand": "Scion",
+			"model": "tC",
+			"color": "Indigo",
+			"year": 2007,
+			"price": 2095.62,
+			"available": true
+		},
+		{
+			"brand": "Volkswagen",
+			"model": "Jetta III",
+			"color": "Purple",
+			"year": 1995,
+			"price": 2210.03,
+			"available": true
+		},
+		{
+			"brand": "Chevrolet",
+			"model": "Tahoe",
+			"color": "Teal",
+			"year": 2006,
+			"price": 3833.89,
+			"available": false
+		},
+		{
+			"brand": "Audi",
+			"model": "TT",
+			"color": "Puce",
+			"year": 2004,
+			"price": 1557.41,
+			"available": true
+		},
+		{
+			"brand": "Audi",
+			"model": "A7",
+			"color": "Puce",
+			"year": 2012,
+			"price": 2505.86,
+			"available": false
+		},
+		{
+			"brand": "Volvo",
+			"model": "V70",
+			"color": "Teal",
+			"year": 2005,
+			"price": 2309.5,
+			"available": true
+		},
+		{
+			"brand": "Volkswagen",
+			"model": "New Beetle",
+			"color": "Orange",
+			"year": 2007,
+			"price": 3213.45,
+			"available": false
+		},
+		{
+			"brand": "Land Rover",
+			"model": "Range Rover",
+			"color": "Purple",
+			"year": 2006,
+			"price": 1665.36,
+			"available": true
+		},
+		{
+			"brand": "Aston Martin",
+			"model": "DB9",
+			"color": "Goldenrod",
+			"year": 2010,
+			"price": 2003.51,
+			"available": true
+		},
+		{
+			"brand": "Ford",
+			"model": "F250",
+			"color": "Blue",
+			"year": 2010,
+			"price": 1921.3,
+			"available": true
+		},
+		{
+			"brand": "Pontiac",
+			"model": "LeMans",
+			"color": "Goldenrod",
+			"year": 1990,
+			"price": 3210.25,
+			"available": true
+		},
+		{
+			"brand": "Mitsubishi",
+			"model": "Cordia",
+			"color": "Goldenrod",
+			"year": 1987,
+			"price": 3141.29,
+			"available": false
+		},
+		{
+			"brand": "Ford",
+			"model": "Ranger",
+			"color": "Aquamarine",
+			"year": 2003,
+			"price": 3001.27,
+			"available": false
+		},
+		{
+			"brand": "Mitsubishi",
+			"model": "Expo",
+			"color": "Turquoise",
+			"year": 1995,
+			"price": 1702.7,
+			"available": false
+		},
+		{
+			"brand": "Suzuki",
+			"model": "SX4",
+			"color": "Aquamarine",
+			"year": 2010,
+			"price": 1914.19,
+			"available": false
+		},
+		{
+			"brand": "Volvo",
+			"model": "C70",
+			"color": "Goldenrod",
+			"year": 2012,
+			"price": 3481.86,
+			"available": false
+		},
+		{
+			"brand": "Dodge",
+			"model": "Viper",
+			"color": "Pink",
+			"year": 2001,
+			"price": 1336.47,
+			"available": true
+		},
+		{
+			"brand": "Scion",
+			"model": "tC",
+			"color": "Aquamarine",
+			"year": 2011,
+			"price": 2307.09,
+			"available": false
+		},
+		{
+			"brand": "Ford",
+			"model": "Crown Victoria",
+			"color": "Orange",
+			"year": 1994,
+			"price": 3048.71,
+			"available": true
+		},
+		{
+			"brand": "Kia",
+			"model": "Sportage",
+			"color": "Purple",
+			"year": 1996,
+			"price": 1928.12,
+			"available": true
+		},
+		{
+			"brand": "Acura",
+			"model": "CL",
+			"color": "Maroon",
+			"year": 2003,
+			"price": 3012.74,
+			"available": true
+		},
+		{
+			"brand": "Porsche",
+			"model": "911",
+			"color": "Khaki",
+			"year": 2006,
+			"price": 1161.21,
+			"available": true
+		},
+		{
+			"brand": "Holden",
+			"model": "Monaro",
+			"color": "Red",
+			"year": 2004,
+			"price": 1041.23,
+			"available": false
+		},
+		{
+			"brand": "Ford",
+			"model": "F250",
+			"color": "Red",
+			"year": 2010,
+			"price": 1059.47,
+			"available": true
+		},
+		{
+			"brand": "Volvo",
+			"model": "C70",
+			"color": "Aquamarine",
+			"year": 2007,
+			"price": 3905.04,
+			"available": false
+		},
+		{
+			"brand": "Saturn",
+			"model": "L-Series",
+			"color": "Blue",
+			"year": 2003,
+			"price": 1711.09,
+			"available": false
+		},
+		{
+			"brand": "Chevrolet",
+			"model": "Malibu",
+			"color": "Turquoise",
+			"year": 2001,
+			"price": 1986.53,
+			"available": false
+		},
+		{
+			"brand": "Mitsubishi",
+			"model": "Galant",
+			"color": "Aquamarine",
+			"year": 1998,
+			"price": 1114.22,
+			"available": false
+		},
+		{
+			"brand": "Lincoln",
+			"model": "Navigator",
+			"color": "Teal",
+			"year": 2010,
+			"price": 3453.24,
+			"available": true
+		},
+		{
+			"brand": "Porsche",
+			"model": "928",
+			"color": "Puce",
+			"year": 1994,
+			"price": 1234.09,
+			"available": true
+		},
+		{
+			"brand": "Subaru",
+			"model": "Brat",
+			"color": "Puce",
+			"year": 1984,
+			"price": 1939.46,
+			"available": true
+		},
+		{
+			"brand": "Ford",
+			"model": "Excursion",
+			"color": "Violet",
+			"year": 2004,
+			"price": 3477.44,
+			"available": true
+		},
+		{
+			"brand": "Porsche",
+			"model": "Cayman",
+			"color": "Maroon",
+			"year": 2011,
+			"price": 1909.09,
+			"available": false
+		},
+		{
+			"brand": "Cadillac",
+			"model": "Escalade ESV",
+			"color": "Purple",
+			"year": 2012,
+			"price": 1682.19,
+			"available": false
+		},
+		{
+			"brand": "Volvo",
+			"model": "S60",
+			"color": "Maroon",
+			"year": 2008,
+			"price": 2469.69,
+			"available": false
+		},
+		{
+			"brand": "Bentley",
+			"model": "Azure",
+			"color": "Orange",
+			"year": 2006,
+			"price": 2485.26,
+			"available": true
+		},
+		{
+			"brand": "Ford",
+			"model": "F250",
+			"color": "Khaki",
+			"year": 2005,
+			"price": 1136.49,
+			"available": false
+		},
+		{
+			"brand": "Ford",
+			"model": "Crown Victoria",
+			"color": "Maroon",
+			"year": 2001,
+			"price": 1313.79,
+			"available": true
+		},
+		{
+			"brand": "Aston Martin",
+			"model": "DB9",
+			"color": "Indigo",
+			"year": 2008,
+			"price": 3890.17,
+			"available": true
+		},
+		{
+			"brand": "Lincoln",
+			"model": "Mark VIII",
+			"color": "Yellow",
+			"year": 1994,
+			"price": 3061.31,
+			"available": false
+		},
+		{
+			"brand": "Chevrolet",
+			"model": "G-Series G10",
+			"color": "Puce",
+			"year": 1993,
+			"price": 1904.85,
+			"available": true
+		},
+		{
+			"brand": "Volkswagen",
+			"model": "Type 2",
+			"color": "Red",
+			"year": 1990,
+			"price": 3801.1,
+			"available": false
+		},
+		{
+			"brand": "Mercury",
+			"model": "Sable",
+			"color": "Aquamarine",
+			"year": 2003,
+			"price": 2976.48,
+			"available": true
+		},
+		{
+			"brand": "Ford",
+			"model": "Club Wagon",
+			"color": "Violet",
+			"year": 1994,
+			"price": 1102.66,
+			"available": true
+		},
+		{
+			"brand": "Mitsubishi",
+			"model": "Galant",
+			"color": "Fuscia",
+			"year": 2011,
+			"price": 2730.33,
+			"available": false
+		},
+		{
+			"brand": "MINI",
+			"model": "Clubman",
+			"color": "Crimson",
+			"year": 2011,
+			"price": 1426.31,
+			"available": true
+		},
+		{
+			"brand": "Chevrolet",
+			"model": "Monte Carlo",
+			"color": "Aquamarine",
+			"year": 2005,
+			"price": 3700.1,
+			"available": true
+		},
+		{
+			"brand": "Lamborghini",
+			"model": "Gallardo",
+			"color": "Teal",
+			"year": 2010,
+			"price": 2840.45,
+			"available": true
+		},
+		{
+			"brand": "Chevrolet",
+			"model": "Silverado",
+			"color": "Maroon",
+			"year": 2010,
+			"price": 2857.99,
+			"available": false
+		},
+		{
+			"brand": "Audi",
+			"model": "riolet",
+			"color": "Mauv",
+			"year": 1995,
+			"price": 3536.63,
+			"available": false
+		},
+		{
+			"brand": "Toyota",
+			"model": "Prius v",
+			"color": "Purple",
+			"year": 2012,
+			"price": 3281.94,
+			"available": false
+		},
+		{
+			"brand": "Volkswagen",
+			"model": "Phaeton",
+			"color": "Khaki",
+			"year": 2006,
+			"price": 3536.63,
+			"available": true
+		},
+		{
+			"brand": "Ford",
+			"model": "Mustang",
+			"color": "Goldenrod",
+			"year": 2007,
+			"price": 1435.66,
+			"available": true
+		},
+		{
+			"brand": "Toyota",
+			"model": "T100",
+			"color": "Indigo",
+			"year": 1996,
+			"price": 2405.37,
+			"available": true
+		},
+		{
+			"brand": "Audi",
+			"model": "A6",
+			"color": "Mauv",
+			"year": 1995,
+			"price": 3010.43,
+			"available": false
+		},
+		{
+			"brand": "Nissan",
+			"model": "Xterra",
+			"color": "Maroon",
+			"year": 2006,
+			"price": 3129.72,
+			"available": true
+		},
+		{
+			"brand": "Saab",
+			"model": "9-2X",
+			"color": "Green",
+			"year": 2005,
+			"price": 2431.21,
+			"available": false
+		},
+		{
+			"brand": "Ford",
+			"model": "F-Series Super Duty",
+			"color": "Fuscia",
+			"year": 2010,
+			"price": 1825.24,
+			"available": true
+		},
+		{
+			"brand": "Chevrolet",
+			"model": "Impala",
+			"color": "Maroon",
+			"year": 2009,
+			"price": 2087.51,
+			"available": false
+		},
+		{
+			"brand": "Mazda",
+			"model": "MPV",
+			"color": "Fuscia",
+			"year": 1990,
+			"price": 2975.11,
+			"available": false
+		},
+		{
+			"brand": "Jeep",
+			"model": "Commander",
+			"color": "Green",
+			"year": 2006,
+			"price": 1166.75,
+			"available": true
+		},
+		{
+			"brand": "Kia",
+			"model": "Mohave/Borrego",
+			"color": "Indigo",
+			"year": 2009,
+			"price": 1169.73,
+			"available": true
+		},
+		{
+			"brand": "Ford",
+			"model": "Club Wagon",
+			"color": "Goldenrod",
+			"year": 1993,
+			"price": 3127.86,
+			"available": false
+		},
+		{
+			"brand": "Ford",
+			"model": "Escort",
+			"color": "Purple",
+			"year": 1985,
+			"price": 1897.07,
+			"available": true
+		},
+		{
+			"brand": "Audi",
+			"model": "riolet",
+			"color": "Indigo",
+			"year": 1998,
+			"price": 1852.29,
+			"available": false
+		},
+		{
+			"brand": "Audi",
+			"model": "A3",
+			"color": "Crimson",
+			"year": 2009,
+			"price": 2222.88,
+			"available": true
+		},
+		{
+			"brand": "Honda",
+			"model": "Civic",
+			"color": "Khaki",
+			"year": 2005,
+			"price": 3503.95,
+			"available": false
+		},
+		{
+			"brand": "Mazda",
+			"model": "929",
+			"color": "Orange",
+			"year": 1991,
+			"price": 3547.13,
+			"available": false
+		},
+		{
+			"brand": "Ford",
+			"model": "Escort",
+			"color": "Maroon",
+			"year": 1984,
+			"price": 3283.6,
+			"available": true
+		},
+		{
+			"brand": "Pontiac",
+			"model": "Firebird",
+			"color": "Mauv",
+			"year": 1967,
+			"price": 1903.98,
+			"available": false
+		},
+		{
+			"brand": "Pontiac",
+			"model": "Sunbird",
+			"color": "Indigo",
+			"year": 1990,
+			"price": 1700.67,
+			"available": false
+		},
+		{
+			"brand": "Ford",
+			"model": "Escort",
+			"color": "Violet",
+			"year": 1996,
+			"price": 1464.34,
+			"available": false
+		},
+		{
+			"brand": "Infiniti",
+			"model": "I",
+			"color": "Teal",
+			"year": 2004,
+			"price": 2744.03,
+			"available": false
+		},
+		{
+			"brand": "BMW",
+			"model": "3 Series",
+			"color": "Aquamarine",
+			"year": 2004,
+			"price": 1305,
+			"available": false
+		},
+		{
+			"brand": "Kia",
+			"model": "Sportage",
+			"color": "Teal",
+			"year": 2005,
+			"price": 2566.24,
+			"available": false
+		},
+		{
+			"brand": "BMW",
+			"model": "530",
+			"color": "Yellow",
+			"year": 2004,
+			"price": 1146.56,
+			"available": true
+		},
+		{
+			"brand": "Ford",
+			"model": "Thunderbird",
+			"color": "Yellow",
+			"year": 1983,
+			"price": 1236.78,
+			"available": true
+		},
+		{
+			"brand": "Chevrolet",
+			"model": "Sportvan G20",
+			"color": "Khaki",
+			"year": 1992,
+			"price": 1805.31,
+			"available": false
+		},
+		{
+			"brand": "Chevrolet",
+			"model": "Astro",
+			"color": "Violet",
+			"year": 2001,
+			"price": 3637.99,
+			"available": false
+		},
+		{
+			"brand": "Lincoln",
+			"model": "MKZ",
+			"color": "Purple",
+			"year": 2012,
+			"price": 2182.78,
+			"available": true
+		},
+		{
+			"brand": "Chevrolet",
+			"model": "Malibu Maxx",
+			"color": "Purple",
+			"year": 2006,
+			"price": 3118.4,
+			"available": false
+		},
+		{
+			"brand": "Chevrolet",
+			"model": "Blazer",
+			"color": "Crimson",
+			"year": 1993,
+			"price": 2455.62,
+			"available": true
+		},
+		{
+			"brand": "Honda",
+			"model": "Civic",
+			"color": "Crimson",
+			"year": 2003,
+			"price": 2121.17,
+			"available": false
+		},
+		{
+			"brand": "Jeep",
+			"model": "Comanche",
+			"color": "Mauv",
+			"year": 1992,
+			"price": 2937.32,
+			"available": false
+		},
+		{
+			"brand": "Lincoln",
+			"model": "Town Car",
+			"color": "Indigo",
+			"year": 1988,
+			"price": 2409.83,
+			"available": false
+		},
+		{
+			"brand": "Subaru",
+			"model": "Justy",
+			"color": "Fuscia",
+			"year": 1992,
+			"price": 2018.62,
+			"available": true
+		},
+		{
+			"brand": "Mercedes-Benz",
+			"model": "CL-Class",
+			"color": "Puce",
+			"year": 2004,
+			"price": 1018.1,
+			"available": false
+		},
+		{
+			"brand": "Bentley",
+			"model": "Continental GT",
+			"color": "Blue",
+			"year": 2010,
+			"price": 1971.62,
+			"available": true
+		},
+		{
+			"brand": "Honda",
+			"model": "Odyssey",
+			"color": "Aquamarine",
+			"year": 1995,
+			"price": 1332.95,
+			"available": true
+		},
+		{
+			"brand": "Maserati",
+			"model": "430",
+			"color": "Fuscia",
+			"year": 1991,
+			"price": 2222.99,
+			"available": true
+		},
+		{
+			"brand": "Mercedes-Benz",
+			"model": "SLK-Class",
+			"color": "Goldenrod",
+			"year": 1999,
+			"price": 2342.35,
+			"available": true
+		},
+		{
+			"brand": "Acura",
+			"model": "TL",
+			"color": "Blue",
+			"year": 2002,
+			"price": 1891.14,
+			"available": false
+		},
+		{
+			"brand": "Isuzu",
+			"model": "Trooper",
+			"color": "Pink",
+			"year": 1993,
+			"price": 1658.78,
+			"available": false
+		},
+		{
+			"brand": "Dodge",
+			"model": "Viper RT/10",
+			"color": "Teal",
+			"year": 1993,
+			"price": 1203.82,
+			"available": true
+		},
+		{
+			"brand": "Ford",
+			"model": "Taurus",
+			"color": "Goldenrod",
+			"year": 1991,
+			"price": 1974.61,
+			"available": false
+		},
+		{
+			"brand": "Nissan",
+			"model": "Frontier",
+			"color": "Yellow",
+			"year": 2005,
+			"price": 3565.44,
+			"available": false
+		},
+		{
+			"brand": "Mercedes-Benz",
+			"model": "SLK-Class",
+			"color": "Red",
+			"year": 1997,
+			"price": 2700.95,
+			"available": true
+		},
+		{
+			"brand": "Hyundai",
+			"model": "Tucson",
+			"color": "Aquamarine",
+			"year": 2008,
+			"price": 3788.17,
+			"available": false
+		},
+		{
+			"brand": "Dodge",
+			"model": "Avenger",
+			"color": "Fuscia",
+			"year": 2009,
+			"price": 1251.06,
+			"available": false
+		},
+		{
+			"brand": "Subaru",
+			"model": "Legacy",
+			"color": "Indigo",
+			"year": 2012,
+			"price": 2463.86,
+			"available": true
+		},
+		{
+			"brand": "Pontiac",
+			"model": "LeMans",
+			"color": "Green",
+			"year": 1966,
+			"price": 2885.35,
+			"available": false
+		},
+		{
+			"brand": "Kia",
+			"model": "Rio",
+			"color": "Aquamarine",
+			"year": 2010,
+			"price": 2302,
+			"available": false
+		},
+		{
+			"brand": "Lincoln",
+			"model": "MKZ",
+			"color": "Turquoise",
+			"year": 2010,
+			"price": 2901.94,
+			"available": true
+		},
+		{
+			"brand": "Rolls-Royce",
+			"model": "Phantom",
+			"color": "Indigo",
+			"year": 2005,
+			"price": 3856.75,
+			"available": false
+		},
+		{
+			"brand": "Lexus",
+			"model": "LFA",
+			"color": "Pink",
+			"year": 2012,
+			"price": 2910.55,
+			"available": true
+		},
+		{
+			"brand": "Mitsubishi",
+			"model": "GTO",
+			"color": "Khaki",
+			"year": 1999,
+			"price": 2152.15,
+			"available": true
+		},
+		{
+			"brand": "Plymouth",
+			"model": "Acclaim",
+			"color": "Crimson",
+			"year": 1994,
+			"price": 3922.48,
+			"available": false
+		},
+		{
+			"brand": "Hummer",
+			"model": "H1",
+			"color": "Crimson",
+			"year": 1999,
+			"price": 1188.88,
+			"available": false
+		},
+		{
+			"brand": "Chrysler",
+			"model": "Town & Country",
+			"color": "Crimson",
+			"year": 2007,
+			"price": 2942.57,
+			"available": true
+		},
+		{
+			"brand": "GMC",
+			"model": "Yukon",
+			"color": "Mauv",
+			"year": 2005,
+			"price": 1129.35,
+			"available": true
+		},
+		{
+			"brand": "Lamborghini",
+			"model": "Murciélago",
+			"color": "Orange",
+			"year": 2008,
+			"price": 2101.33,
+			"available": true
+		},
+		{
+			"brand": "Maybach",
+			"model": "Landaulet",
+			"color": "Orange",
+			"year": 2011,
+			"price": 1311.71,
+			"available": true
+		},
+		{
+			"brand": "Jaguar",
+			"model": "XJ Series",
+			"color": "Maroon",
+			"year": 2000,
+			"price": 1661.77,
+			"available": false
+		},
+		{
+			"brand": "Ford",
+			"model": "F-Series",
+			"color": "Aquamarine",
+			"year": 1987,
+			"price": 2287.91,
+			"available": true
+		},
+		{
+			"brand": "Toyota",
+			"model": "Land Cruiser",
+			"color": "Green",
+			"year": 2002,
+			"price": 2424.1,
+			"available": true
+		},
+		{
+			"brand": "Mercedes-Benz",
+			"model": "SLR McLaren",
+			"color": "Blue",
+			"year": 2005,
+			"price": 3311.23,
+			"available": false
+		},
+		{
+			"brand": "Pontiac",
+			"model": "Sunfire",
+			"color": "Khaki",
+			"year": 1997,
+			"price": 1155.06,
+			"available": false
+		},
+		{
+			"brand": "Buick",
+			"model": "Park Avenue",
+			"color": "Khaki",
+			"year": 1998,
+			"price": 3840.19,
+			"available": true
+		},
+		{
+			"brand": "Honda",
+			"model": "Civic",
+			"color": "Violet",
+			"year": 2007,
+			"price": 3680.35,
+			"available": false
+		},
+		{
+			"brand": "Chevrolet",
+			"model": "Suburban 2500",
+			"color": "Teal",
+			"year": 1998,
+			"price": 2348,
+			"available": true
+		},
+		{
+			"brand": "Ford",
+			"model": "Explorer",
+			"color": "Pink",
+			"year": 2004,
+			"price": 3011.96,
+			"available": true
+		},
+		{
+			"brand": "Chevrolet",
+			"model": "Malibu",
+			"color": "Pink",
+			"year": 2001,
+			"price": 2321.34,
+			"available": false
+		},
+		{
+			"brand": "Jeep",
+			"model": "Cherokee",
+			"color": "Pink",
+			"year": 1994,
+			"price": 2792.84,
+			"available": false
+		},
+		{
+			"brand": "Ford",
+			"model": "LTD",
+			"color": "Maroon",
+			"year": 1986,
+			"price": 2685.09,
+			"available": true
+		},
+		{
+			"brand": "Ford",
+			"model": "GT500",
+			"color": "Purple",
+			"year": 2009,
+			"price": 3484.2,
+			"available": true
+		},
+		{
+			"brand": "Chrysler",
+			"model": "Town & Country",
+			"color": "Red",
+			"year": 1995,
+			"price": 2218.77,
+			"available": true
+		},
+		{
+			"brand": "Chrysler",
+			"model": "300",
+			"color": "Puce",
+			"year": 1999,
+			"price": 3470.87,
+			"available": true
+		},
+		{
+			"brand": "Acura",
+			"model": "CL",
+			"color": "Violet",
+			"year": 1998,
+			"price": 2735.49,
+			"available": false
+		},
+		{
+			"brand": "Tesla",
+			"model": "Model S",
+			"color": "Khaki",
+			"year": 2012,
+			"price": 1735.92,
+			"available": false
+		},
+		{
+			"brand": "Land Rover",
+			"model": "Discovery Series II",
+			"color": "Purple",
+			"year": 2002,
+			"price": 2568.77,
+			"available": false
+		},
+		{
+			"brand": "Hyundai",
+			"model": "Tiburon",
+			"color": "Purple",
+			"year": 2006,
+			"price": 1291.9,
+			"available": false
+		},
+		{
+			"brand": "Infiniti",
+			"model": "G35",
+			"color": "Puce",
+			"year": 2006,
+			"price": 2937.02,
+			"available": true
+		},
+		{
+			"brand": "GMC",
+			"model": "Savana 2500",
+			"color": "Orange",
+			"year": 2001,
+			"price": 2348.74,
+			"available": true
+		},
+		{
+			"brand": "Jaguar",
+			"model": "XJ Series",
+			"color": "Orange",
+			"year": 1998,
+			"price": 1590.81,
+			"available": false
+		},
+		{
+			"brand": "Toyota",
+			"model": "Highlander",
+			"color": "Pink",
+			"year": 2012,
+			"price": 1046,
+			"available": false
+		},
+		{
+			"brand": "Acura",
+			"model": "CL",
+			"color": "Purple",
+			"year": 1999,
+			"price": 1433.54,
+			"available": false
+		},
+		{
+			"brand": "Mercedes-Benz",
+			"model": "300TE",
+			"color": "Indigo",
+			"year": 1993,
+			"price": 2233.38,
+			"available": false
+		},
+		{
+			"brand": "Hyundai",
+			"model": "Santa Fe",
+			"color": "Teal",
+			"year": 2011,
+			"price": 2173.28,
+			"available": true
+		},
+		{
+			"brand": "BMW",
+			"model": "X3",
+			"color": "Turquoise",
+			"year": 2006,
+			"price": 1980.39,
+			"available": true
+		},
+		{
+			"brand": "Nissan",
+			"model": "Titan",
+			"color": "Fuscia",
+			"year": 2010,
+			"price": 1415.93,
+			"available": true
+		},
+		{
+			"brand": "Porsche",
+			"model": "Cayman",
+			"color": "Pink",
+			"year": 2006,
+			"price": 1242.49,
+			"available": false
+		},
+		{
+			"brand": "Nissan",
+			"model": "Sentra",
+			"color": "Khaki",
+			"year": 1998,
+			"price": 1676.38,
+			"available": false
+		},
+		{
+			"brand": "Hyundai",
+			"model": "Santa Fe",
+			"color": "Purple",
+			"year": 2006,
+			"price": 3254.61,
+			"available": true
+		},
+		{
+			"brand": "Toyota",
+			"model": "Sienna",
+			"color": "Violet",
+			"year": 2009,
+			"price": 3285.8,
+			"available": false
+		},
+		{
+			"brand": "Pontiac",
+			"model": "LeMans",
+			"color": "Crimson",
+			"year": 1992,
+			"price": 1252.41,
+			"available": true
+		},
+		{
+			"brand": "Mercedes-Benz",
+			"model": "300E",
+			"color": "Goldenrod",
+			"year": 1993,
+			"price": 1805.89,
+			"available": true
+		},
+		{
+			"brand": "Chevrolet",
+			"model": "Caprice",
+			"color": "Orange",
+			"year": 1983,
+			"price": 3777.23,
+			"available": false
+		},
+		{
+			"brand": "Pontiac",
+			"model": "Firefly",
+			"color": "Crimson",
+			"year": 1988,
+			"price": 1123.48,
+			"available": false
+		},
+		{
+			"brand": "Audi",
+			"model": "V8",
+			"color": "Fuscia",
+			"year": 1992,
+			"price": 2964.48,
+			"available": true
+		},
+		{
+			"brand": "Acura",
+			"model": "ZDX",
+			"color": "Turquoise",
+			"year": 2011,
+			"price": 3821.55,
+			"available": false
+		},
+		{
+			"brand": "Mercury",
+			"model": "Mystique",
+			"color": "Khaki",
+			"year": 1999,
+			"price": 3757.1,
+			"available": true
+		},
+		{
+			"brand": "Volvo",
+			"model": "C30",
+			"color": "Green",
+			"year": 2012,
+			"price": 3584.35,
+			"available": true
+		},
+		{
+			"brand": "Audi",
+			"model": "TT",
+			"color": "Aquamarine",
+			"year": 2006,
+			"price": 3173.39,
+			"available": true
+		},
+		{
+			"brand": "Subaru",
+			"model": "Legacy",
+			"color": "Goldenrod",
+			"year": 1989,
+			"price": 1359.92,
+			"available": false
+		},
+		{
+			"brand": "Cadillac",
+			"model": "DeVille",
+			"color": "Maroon",
+			"year": 2002,
+			"price": 2434.3,
+			"available": false
+		},
+		{
+			"brand": "Infiniti",
+			"model": "G37",
+			"color": "Orange",
+			"year": 2011,
+			"price": 1644.86,
+			"available": false
+		},
+		{
+			"brand": "Saturn",
+			"model": "L-Series",
+			"color": "Puce",
+			"year": 2005,
+			"price": 3561.78,
+			"available": true
+		},
+		{
+			"brand": "Audi",
+			"model": "4000",
+			"color": "Puce",
+			"year": 1987,
+			"price": 1524.14,
+			"available": true
+		},
+		{
+			"brand": "GMC",
+			"model": "Sierra 2500",
+			"color": "Pink",
+			"year": 2000,
+			"price": 3342.8,
+			"available": false
+		},
+		{
+			"brand": "Nissan",
+			"model": "Sentra",
+			"color": "Goldenrod",
+			"year": 1997,
+			"price": 3214.55,
+			"available": true
+		},
+		{
+			"brand": "Lotus",
+			"model": "Esprit",
+			"color": "Turquoise",
+			"year": 1989,
+			"price": 3509.4,
+			"available": false
+		},
+		{
+			"brand": "Volvo",
+			"model": "C30",
+			"color": "Indigo",
+			"year": 2010,
+			"price": 2835.4,
+			"available": true
+		},
+		{
+			"brand": "Ford",
+			"model": "F-Series",
+			"color": "Green",
+			"year": 1991,
+			"price": 3059.05,
+			"available": false
+		},
+		{
+			"brand": "Plymouth",
+			"model": "Breeze",
+			"color": "Aquamarine",
+			"year": 2000,
+			"price": 3521.51,
+			"available": true
+		},
+		{
+			"brand": "Chevrolet",
+			"model": "S10",
+			"color": "Green",
+			"year": 1994,
+			"price": 1800.44,
+			"available": false
+		},
+		{
+			"brand": "BMW",
+			"model": "X5",
+			"color": "Puce",
+			"year": 2013,
+			"price": 1423.02,
+			"available": true
+		},
+		{
+			"brand": "Nissan",
+			"model": "Altima",
+			"color": "Purple",
+			"year": 2004,
+			"price": 2329.2,
+			"available": false
+		},
+		{
+			"brand": "Porsche",
+			"model": "Boxster",
+			"color": "Aquamarine",
+			"year": 2009,
+			"price": 1999.5,
+			"available": true
+		},
+		{
+			"brand": "Jeep",
+			"model": "Cherokee",
+			"color": "Orange",
+			"year": 1995,
+			"price": 1974.97,
+			"available": false
+		},
+		{
+			"brand": "Chevrolet",
+			"model": "Venture",
+			"color": "Orange",
+			"year": 1997,
+			"price": 2025.98,
+			"available": false
+		},
+		{
+			"brand": "Ford",
+			"model": "E-Series",
+			"color": "Aquamarine",
+			"year": 2006,
+			"price": 1749.03,
+			"available": false
+		},
+		{
+			"brand": "Pontiac",
+			"model": "6000",
+			"color": "Puce",
+			"year": 1988,
+			"price": 2555.46,
+			"available": true
+		},
+		{
+			"brand": "Ford",
+			"model": "E150",
+			"color": "Mauv",
+			"year": 2007,
+			"price": 1987.9,
+			"available": true
+		},
+		{
+			"brand": "Nissan",
+			"model": "Altima",
+			"color": "Maroon",
+			"year": 2009,
+			"price": 3299.41,
+			"available": true
+		},
+		{
+			"brand": "Subaru",
+			"model": "Impreza",
+			"color": "Aquamarine",
+			"year": 2004,
+			"price": 1889.43,
+			"available": false
+		},
+		{
+			"brand": "Maybach",
+			"model": "62",
+			"color": "Purple",
+			"year": 2004,
+			"price": 3314.47,
+			"available": false
+		},
+		{
+			"brand": "Chevrolet",
+			"model": "Cavalier",
+			"color": "Mauv",
+			"year": 2002,
+			"price": 2074.45,
+			"available": false
+		},
+		{
+			"brand": "Jeep",
+			"model": "Wrangler",
+			"color": "Turquoise",
+			"year": 1999,
+			"price": 3671.95,
+			"available": true
+		},
+		{
+			"brand": "Dodge",
+			"model": "Neon",
+			"color": "Pink",
+			"year": 1997,
+			"price": 1001.58,
+			"available": true
+		},
+		{
+			"brand": "Toyota",
+			"model": "Matrix",
+			"color": "Crimson",
+			"year": 2005,
+			"price": 3253.9,
+			"available": true
+		},
+		{
+			"brand": "Toyota",
+			"model": "Yaris",
+			"color": "Crimson",
+			"year": 2009,
+			"price": 1512.65,
+			"available": false
+		},
+		{
+			"brand": "GMC",
+			"model": "Yukon XL 2500",
+			"color": "Turquoise",
+			"year": 2008,
+			"price": 2846.09,
+			"available": false
+		},
+		{
+			"brand": "Dodge",
+			"model": "Dakota",
+			"color": "Pink",
+			"year": 1998,
+			"price": 1316.06,
+			"available": false
+		},
+		{
+			"brand": "Nissan",
+			"model": "Altima",
+			"color": "Maroon",
+			"year": 1994,
+			"price": 3645.01,
+			"available": true
+		},
+		{
+			"brand": "Dodge",
+			"model": "Avenger",
+			"color": "Turquoise",
+			"year": 1999,
+			"price": 1643.21,
+			"available": true
+		},
+		{
+			"brand": "Mercedes-Benz",
+			"model": "E-Class",
+			"color": "Mauv",
+			"year": 2001,
+			"price": 1478.97,
+			"available": false
+		},
+		{
+			"brand": "Volvo",
+			"model": "XC60",
+			"color": "Khaki",
+			"year": 2009,
+			"price": 1707.09,
+			"available": true
+		},
+		{
+			"brand": "Chevrolet",
+			"model": "Prizm",
+			"color": "Turquoise",
+			"year": 1998,
+			"price": 3434.11,
+			"available": true
+		},
+		{
+			"brand": "Audi",
+			"model": "S6",
+			"color": "Teal",
+			"year": 2011,
+			"price": 2324.33,
+			"available": false
+		},
+		{
+			"brand": "Ford",
+			"model": "LTD Crown Victoria",
+			"color": "Orange",
+			"year": 1989,
+			"price": 3645.99,
+			"available": true
+		},
+		{
+			"brand": "Chevrolet",
+			"model": "Uplander",
+			"color": "Goldenrod",
+			"year": 2007,
+			"price": 3061.38,
+			"available": true
+		},
+		{
+			"brand": "Mitsubishi",
+			"model": "Tredia",
+			"color": "Red",
+			"year": 1984,
+			"price": 3198.06,
+			"available": true
+		},
+		{
+			"brand": "Volvo",
+			"model": "960",
+			"color": "Fuscia",
+			"year": 1994,
+			"price": 1112.25,
+			"available": false
+		},
+		{
+			"brand": "BMW",
+			"model": "M6",
+			"color": "Teal",
+			"year": 2008,
+			"price": 3760.36,
+			"available": false
+		},
+		{
+			"brand": "Ford",
+			"model": "Escape",
+			"color": "Khaki",
+			"year": 2004,
+			"price": 2502.49,
+			"available": true
+		},
+		{
+			"brand": "Honda",
+			"model": "CR-V",
+			"color": "Goldenrod",
+			"year": 2005,
+			"price": 2151.43,
+			"available": true
+		},
+		{
+			"brand": "Scion",
+			"model": "xB",
+			"color": "Goldenrod",
+			"year": 2010,
+			"price": 1337.15,
+			"available": true
+		},
+		{
+			"brand": "Volvo",
+			"model": "C70",
+			"color": "Puce",
+			"year": 2004,
+			"price": 2563.75,
+			"available": false
+		},
+		{
+			"brand": "Subaru",
+			"model": "Tribeca",
+			"color": "Violet",
+			"year": 2010,
+			"price": 1962.26,
+			"available": false
+		},
+		{
+			"brand": "Jeep",
+			"model": "Liberty",
+			"color": "Crimson",
+			"year": 2005,
+			"price": 2120.15,
+			"available": true
+		},
+		{
+			"brand": "Chevrolet",
+			"model": "G-Series 1500",
+			"color": "Crimson",
+			"year": 1997,
+			"price": 1993.32,
+			"available": false
+		},
+		{
+			"brand": "Chevrolet",
+			"model": "Tracker",
+			"color": "Orange",
+			"year": 2000,
+			"price": 3471.84,
+			"available": true
+		},
+		{
+			"brand": "Chevrolet",
+			"model": "Lumina",
+			"color": "Indigo",
+			"year": 2001,
+			"price": 3216.39,
+			"available": false
+		},
+		{
+			"brand": "GMC",
+			"model": "2500",
+			"color": "Purple",
+			"year": 1993,
+			"price": 1780.66,
+			"available": false
+		},
+		{
+			"brand": "Lamborghini",
+			"model": "Murciélago",
+			"color": "Red",
+			"year": 2004,
+			"price": 3387.09,
+			"available": false
+		},
+		{
+			"brand": "Honda",
+			"model": "Prelude",
+			"color": "Violet",
+			"year": 1992,
+			"price": 3018,
+			"available": true
+		},
+		{
+			"brand": "Mercury",
+			"model": "Grand Marquis",
+			"color": "Orange",
+			"year": 2004,
+			"price": 1176.86,
+			"available": true
+		},
+		{
+			"brand": "Ford",
+			"model": "Fiesta",
+			"color": "Yellow",
+			"year": 2001,
+			"price": 2578.06,
+			"available": true
+		},
+		{
+			"brand": "GMC",
+			"model": "Savana Cargo Van",
+			"color": "Crimson",
+			"year": 2006,
+			"price": 1371.97,
+			"available": true
+		},
+		{
+			"brand": "Chevrolet",
+			"model": "1500",
+			"color": "Turquoise",
+			"year": 1996,
+			"price": 3995.06,
+			"available": true
+		},
+		{
+			"brand": "Lexus",
+			"model": "LS",
+			"color": "Goldenrod",
+			"year": 2001,
+			"price": 1694.07,
+			"available": false
+		},
+		{
+			"brand": "Infiniti",
+			"model": "FX",
+			"color": "Turquoise",
+			"year": 2011,
+			"price": 2385.76,
+			"available": false
+		},
+		{
+			"brand": "Cadillac",
+			"model": "Escalade ESV",
+			"color": "Teal",
+			"year": 2003,
+			"price": 3865.18,
+			"available": false
+		},
+		{
+			"brand": "Oldsmobile",
+			"model": "LSS",
+			"color": "Red",
+			"year": 1999,
+			"price": 2324.73,
+			"available": true
+		},
+		{
+			"brand": "Ford",
+			"model": "E-Series",
+			"color": "Teal",
+			"year": 1996,
+			"price": 2770.82,
+			"available": false
+		},
+		{
+			"brand": "Lexus",
+			"model": "RX",
+			"color": "Aquamarine",
+			"year": 2007,
+			"price": 1766.14,
+			"available": false
+		},
+		{
+			"brand": "Porsche",
+			"model": "911",
+			"color": "Violet",
+			"year": 1997,
+			"price": 2147.22,
+			"available": false
+		}
+	]
+}
