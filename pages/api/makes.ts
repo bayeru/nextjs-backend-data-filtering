@@ -1,4 +1,3 @@
-// Next.js API route support: https://nextjs.org/docs/api-routes/introduction
 import errorHandler from "@/errors/error-handler";
 import dbConnect from "@/lib/dbConnect";
 import type { NextApiRequest, NextApiResponse } from "next";
@@ -57,8 +56,8 @@ const filter = async (req: NextApiRequest, res: NextApiResponse) => {
 		// } });
 		// aggregate.push({ $limit: 10});
 
-		const brands = await Car.distinct("brand");
-		res.status(200).json(brands);
+		const makes = await Car.distinct("make");
+		res.status(200).json(makes);
 
 	} catch (err) {
 		errorHandler(err, res);

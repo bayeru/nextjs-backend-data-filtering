@@ -24,11 +24,22 @@ export const useCars = (filter: string = '') => {
 	};
 };
 
-export const useBrands = () => {
-	const { data, error, mutate } = useSWR<string[]>('/api/brands/', fetcher);
+export const useMakes = () => {
+	const { data, error, mutate } = useSWR<string[]>('/api/makes', fetcher);
 
 	return {
-		brands: data,
+		makes: data,
+		loading: !error && !data,
+		error,
+		mutate,
+	};
+};
+
+export const useModels = (make: string | undefined) => {
+	const { data, error, mutate } = useSWR<string[]>(!make ? '/api/models' : `/api/models?make=${make}`, fetcher);
+
+	return {
+		models: data,
 		loading: !error && !data,
 		error,
 		mutate,

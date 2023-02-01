@@ -1,95 +1,142 @@
-"use client";
-
+import { useModels } from "@/hooks/swr-hooks";
 import { shallowEqual } from "@/util/Util";
 import { useRouter } from "next/router";
-import React, { useTransition } from "react";
+import React from "react";
 import { useEffect, useState } from "react";
 import DropdownFilter, { DropdownFilterState } from "./DropdownFilter";
+import SelectMenu from "./SelectMenu";
 
 interface Filter {
 	[key: string]: string[];
 }
 
 interface FiltersProps {
-	brandOptions: DropdownFilterState | null;
+	makeOptions: string[] | null;
 }
 
 export default function Filters(props: FiltersProps) {
-
 	const router = useRouter();
-	const [brandState, setBrandState] = React.useState<DropdownFilterState>({});
+	const [model, setModel] = React.useState<DropdownFilterState>({});
+	const [make, setMake] = React.useState<string>();
+	const { models } = useModels(make);
 	const [dirty, setDirty] = useState(false);
 
-	useEffect(() => {
-		if (props.brandOptions) {
-			setBrandState(props.brandOptions);
+	// useEffect(() => {
+	// 	if (props.brandOptions) {
+	// 		setBrandState(props.brandOptions);
+	// 	}
+	// }, [props.brandOptions]);
+
+	// useEffect(() => {
+
+	// 	if (router.isReady && props.brandOptions && router.query.brand) {
+
+	// 		const brand = router.query.brand as string;
+
+	// 		if (brand.length > 0) {
+	// 			const brands = brand.split("-");
+	// 			const newState = { ...props.brandOptions };
+
+	// 			brands.map((brand) => {
+	// 				newState[brand].value = true;
+	// 			});
+
+	// 			setBrandState(newState);
+	// 		}
+	// 	}
+
+	// }, [router.isReady, props.brandOptions]);
+
+	const parseModelQuery = () => {		
+
+		if (router.query.model) {
+			const result: string[] = [];
+			const model = router.query.model as string;
+			return model.split("-");
 		}
-	}, [props.brandOptions]);
+
+		return [];
+
+	};
 
 	useEffect(() => {
+		if (models && router.isReady) {
+			let modelQuery: string[] = parseModelQuery();
+			let modelOptions: DropdownFilterState = {};
 
-		if (router.isReady && props.brandOptions && router.query.brand) {
+			models.map((model) => {
+				modelOptions[model] = {
+					label: model,
+					value: modelQuery.includes(model),
+				};
+			});
 
-			const brand = router.query.brand as string;
+			setModel(modelOptions);
+		}
+	}, [make, models, router.isReady]);
 
-			if (brand.length > 0) {
-				const brands = brand.split("-");
-				const newState = { ...props.brandOptions };
+	useEffect(() => {
+		if (router.isReady && props.makeOptions && router.query.make) {
+			const make = router.query.make as string;
 
-				brands.map((brand) => {
-					newState[brand].value = true;
-				});
-
-				setBrandState(newState);
+			if (make.length > 0) {
+				setMake(make);
 			}
 		}
-
-	}, [router.isReady, props.brandOptions]);
+	}, [router.isReady, props.makeOptions]);
 
 	useEffect(() => {
-
 		if (dirty) {
 			setDirty(false);
 			updateQuery();
 		}
-
 	}, [dirty]);
 
-	const onBrandChange = (key: string, value: boolean) => {
-
-		setBrandState((prevState) => {
+	const onModelChange = (key: string, value: boolean) => {
+		console.log("onModelChange", key, value);
+		setModel((prevState) => {
 			const newState = {
 				...prevState,
 				[key]: {
 					...prevState[key],
 					value: value,
 				},
-			};			
+			};
 
 			return newState;
 		});
 
 		setDirty(true);
+	};
 
+	const onMakeChange = (value: string | undefined) => {
+		setMake(value);
+		setDirty(true);
 	};
 
 	const updateQuery = () => {
 		let query = router.query;
-		
-		const brand = [];
+
+		if (make !== undefined) {
+			query["make"] = make;
+		} else {
+			delete query["make"];
+		}
+
+		const modelArr = [];
 
 		// Push all selected brands into an array
-		for (const key in brandState) {
-			if (brandState[key].value === true) {
-				brand.push(brandState[key].label);
+		for (const key in model) {
+			if (model[key].value === true) {
+				modelArr.push(model[key].label);
 			}
 		}
 
 		// Set the brand query parameter to the array of selected brands
-		if (brand.length > 0) {
-			query["brand"] = brand.join("-");
+		if (modelArr.length > 0) {
+			query["model"] = modelArr.join("-");
 		} else {
-			delete query["brand"];
+			delete query["model"];
 		}
 
 		console.log("Updating query", query);
@@ -102,14 +149,25 @@ export default function Filters(props: FiltersProps) {
 			undefined,
 			{ shallow: true }
 		);
-
 	};
 
-	console.log("Rendering filters", brandState);
+	console.log("model", model);
 
 	return (
 		<>
-			<DropdownFilter title={"Brand"} options={brandState} onValueChange={onBrandChange} />
+			<SelectMenu
+				default={"Make (All)"}
+				value={make}
+				options={props.makeOptions}
+				onValueChange={onMakeChange}
+			/>
+			<DropdownFilter
+				title={"Model"}
+				options={model}
+				onValueChange={onModelChange}
+				className="ml-2"
+				disabled={make === undefined}
+			/>
 			{/* <DropdownFilter title={"Model"} className="ml-2" />
 			<DropdownFilter title={"Color"} className="ml-2" />
 			<DropdownFilter title={"Year"} className="ml-2" />

@@ -42,16 +42,17 @@ const seed = async () => {
 // 		const newCars = [];
 		
 // 		for (let car of cars.cars) {
-// 			console.log(Number(car.price));
 
 // 			const newCar = {
-// 				brand: car.car,
-// 				model: car.car_model,
-// 				color: car.car_color,
-// 				year: car.car_model_year,
-// 				price: Number(car.price.replace(/[$]+/g, "")),
-// 				available: car.availability
+// 				make: car.brand,
+// 				model: car.model,
+// 				color: car.color,
+// 				year: car.year,
+// 				price: car.price,
+// 				available: car.available
 // 			};
+
+// 			console.log(newCar);
 
 // 			newCars.push(newCar);
 

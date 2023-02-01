@@ -1,16 +1,12 @@
-"use client";
-
 import React, { useEffect } from "react";
 import { useRouter } from "next/router";
 import { Menu, Popover } from "@headlessui/react";
 
 export interface DropdownFilterState {
-
 	[key: string]: {
 		label: string;
 		value: boolean;
-	}
-	
+	};
 }
 
 interface DropdownFilterParams {
@@ -18,6 +14,7 @@ interface DropdownFilterParams {
 	className?: string;
 	// property: string;
 	// initialValue: string;
+	disabled?: boolean;
 	initialize?: boolean;
 	align?: "start" | "end";
 	options: {
@@ -25,13 +22,11 @@ interface DropdownFilterParams {
 			label: string;
 			value: boolean;
 		};
-	};
-	onValueChange: (key:string, value:boolean) => void;
+	} | null;
+	onValueChange: (key: string, value: boolean) => void;
 }
 
 export default function DropdownFilter(props: DropdownFilterParams) {
-
-
 	//const [state, setState] = React.useState<DropdownFilterState>({});
 	// const router = useRouter();
 	// const isValid = props.options[props.initialValue] !== undefined;
@@ -47,15 +42,17 @@ export default function DropdownFilter(props: DropdownFilterParams) {
 	for (const key in props.options) {
 		if (props.options.hasOwnProperty(key)) {
 			options.push(
-				<label key={key} htmlFor={key} className="flex items-center hover:bg-slate-100 px-4 cursor-pointer">
+				<label
+					key={key}
+					htmlFor={key}
+					className="flex items-center hover:bg-slate-100 px-4 cursor-pointer"
+				>
 					<input
 						id={key}
 						type="checkbox"
 						checked={props.options[key].value || false}
 						className="rounded h-4 w-4 shadow-sm border-slate-300 cursor-pointer"
 						onChange={(event) => {
-							
-							
 							console.log("==>", event.target.checked);
 							props.onValueChange(key, event.target.checked);
 							//setState({ ...state, [key]: event.target.checked });
@@ -69,7 +66,9 @@ export default function DropdownFilter(props: DropdownFilterParams) {
 							*/
 						}}
 					/>
-					<span className="whitespace-nowrap py-2 px-3 text-sm pr-8">{props.options[key].label}</span>
+					<span className="whitespace-nowrap py-2 px-3 text-sm pr-8">
+						{props.options[key].label}
+					</span>
 				</label>
 			);
 		}
@@ -78,7 +77,10 @@ export default function DropdownFilter(props: DropdownFilterParams) {
 	return (
 		<div className={props.className + ` text-left text-sm`}>
 			<Popover className="relative">
-				<Popover.Button className="inline-flex rounded bg-white px-3 py-2 font-medium text-slate-600 hover:bg-slate-50 border border-slate-200 shadow-sm justify-center items-center">
+				<Popover.Button
+					disabled={props.disabled}
+					className={`inline-flex rounded bg-white px-3 py-2 font-medium text-slate-600  border border-slate-200 shadow-sm justify-center items-center ${props.disabled ? "opacity-60" : "hover:bg-slate-50"}`}
+				>
 					{props.title}
 					<span className="rounded-full bg-slate-100 text-slate-600 py-0.5 px-3 ml-2 text-sm inline-flex justify-center items-center">
 						3
@@ -100,4 +102,4 @@ export default function DropdownFilter(props: DropdownFilterParams) {
 			</Popover>
 		</div>
 	);
-};
+}

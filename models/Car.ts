@@ -1,7 +1,7 @@
 import mongoose from "mongoose";
 
 const carSchema = new mongoose.Schema({
-	brand: {
+	make: {
 		type: String,
 	},
 
@@ -26,5 +26,5 @@ const carSchema = new mongoose.Schema({
 	}
 });
 
-carSchema.index({ brand: 1, model: 1, color: 1, year: 1, price: 1, available: 1 });
+carSchema.index({ make: 1, model: 1, color: 1, year: 1, price: 1, available: 1 });
 export default mongoose.models.Car || mongoose.model("Car", carSchema);

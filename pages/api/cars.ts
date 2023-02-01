@@ -1,4 +1,3 @@
-// Next.js API route support: https://nextjs.org/docs/api-routes/introduction
 import errorHandler from "@/errors/error-handler";
 import dbConnect from "@/lib/dbConnect";
 import type { NextApiRequest, NextApiResponse } from "next";
@@ -19,7 +18,7 @@ const filter = async (req: NextApiRequest, res: NextApiResponse) => {
 		await dbConnect();
 
 		// Get the query params
-		let { page, brand } = req.query;
+		let { page, make, model } = req.query;
 
 		// Page as a number
 		let pageNum = 1;
@@ -33,21 +32,46 @@ const filter = async (req: NextApiRequest, res: NextApiResponse) => {
 			}
 		}
 
-		console.log("brand", brand);
+		// console.log("brand", brand);
 
 		
+		// // Build the match filter
+		// const matchFilter: {
+		// 	brand?: { $in: string[] };
+		// } = {};
+
+		// if (brand && brand.length > 0) {
+
+		// 	// Split the brand string into an array
+		// 	brand = (brand as string).split("-");
+
+		// 	// Matches any of the brands in the brand array
+		// 	matchFilter["brand"] = { $in: brand };
+		// }
+
 		// Build the match filter
 		const matchFilter: {
-			brand?: { $in: string[] };
+			make?: string
+			model?: { $in: string[] };
 		} = {};
 
-		if (brand && brand.length > 0) {
-
-			// Split the brand string into an array
-			brand = (brand as string).split("-");
+		// Make
+		if (make && make.length > 0) {
 
 			// Matches any of the brands in the brand array
-			matchFilter["brand"] = { $in: brand };
+			matchFilter["make"] = make as string;
+
+		}
+
+		// Model
+		if (model && model.length > 0) {
+
+			// Split the brand string into an array
+			model = (model as string).split("-");
+
+			// Matches any of the brands in the brand array
+			matchFilter["model"] = { $in: model };
+
 		}
 
 		const aggregate: PipelineStage[] = [];

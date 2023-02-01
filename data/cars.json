@@ -1,7 +1,7 @@
 {
 	"cars": [
 		{
-			"brand": "Mitsubishi",
+			"make": "Mitsubishi",
 			"model": "Montero",
 			"color": "Yellow",
 			"year": 2002,
@@ -9,7 +9,7 @@
 			"available": false
 		},
 		{
-			"brand": "Volkswagen",
+			"make": "Volkswagen",
 			"model": "Passat",
 			"color": "Maroon",
 			"year": 2008,
@@ -17,7 +17,7 @@
 			"available": false
 		},
 		{
-			"brand": "Saturn",
+			"make": "Saturn",
 			"model": "L-Series",
 			"color": "Red",
 			"year": 2003,
@@ -25,7 +25,7 @@
 			"available": true
 		},
 		{
-			"brand": "Jeep",
+			"make": "Jeep",
 			"model": "Compass",
 			"color": "Violet",
 			"year": 2012,
@@ -33,7 +33,7 @@
 			"available": false
 		},
 		{
-			"brand": "Mitsubishi",
+			"make": "Mitsubishi",
 			"model": "Lancer Evolution",
 			"color": "Purple",
 			"year": 2002,
@@ -41,7 +41,7 @@
 			"available": false
 		},
 		{
-			"brand": "Chevrolet",
+			"make": "Chevrolet",
 			"model": "Suburban",
 			"color": "Indigo",
 			"year": 2009,
@@ -49,7 +49,7 @@
 			"available": false
 		},
 		{
-			"brand": "Dodge",
+			"make": "Dodge",
 			"model": "Ram Van B350",
 			"color": "Yellow",
 			"year": 1994,
@@ -57,7 +57,7 @@
 			"available": true
 		},
 		{
-			"brand": "Isuzu",
+			"make": "Isuzu",
 			"model": "Ascender",
 			"color": "Teal",
 			"year": 2004,
@@ -65,7 +65,7 @@
 			"available": true
 		},
 		{
-			"brand": "BMW",
+			"make": "BMW",
 			"model": "6 Series",
 			"color": "Purple",
 			"year": 2008,
@@ -73,7 +73,7 @@
 			"available": true
 		},
 		{
-			"brand": "Mitsubishi",
+			"make": "Mitsubishi",
 			"model": "GTO",
 			"color": "Purple",
 			"year": 1994,
@@ -81,7 +81,7 @@
 			"available": false
 		},
 		{
-			"brand": "Mazda",
+			"make": "Mazda",
 			"model": "Mazda5",
 			"color": "Red",
 			"year": 2010,
@@ -89,7 +89,7 @@
 			"available": true
 		},
 		{
-			"brand": "Audi",
+			"make": "Audi",
 			"model": "Q7",
 			"color": "Pink",
 			"year": 2012,
@@ -97,7 +97,7 @@
 			"available": true
 		},
 		{
-			"brand": "Mercedes-Benz",
+			"make": "Mercedes-Benz",
 			"model": "SL-Class",
 			"color": "Aquamarine",
 			"year": 1989,
@@ -105,7 +105,7 @@
 			"available": true
 		},
 		{
-			"brand": "Volvo",
+			"make": "Volvo",
 			"model": "C70",
 			"color": "Red",
 			"year": 2012,
@@ -113,7 +113,7 @@
 			"available": true
 		},
 		{
-			"brand": "GMC",
+			"make": "GMC",
 			"model": "Envoy XL",
 			"color": "Green",
 			"year": 2006,
@@ -121,7 +121,7 @@
 			"available": false
 		},
 		{
-			"brand": "GMC",
+			"make": "GMC",
 			"model": "Vandura G3500",
 			"color": "Teal",
 			"year": 1996,
@@ -129,7 +129,7 @@
 			"available": true
 		},
 		{
-			"brand": "Cadillac",
+			"make": "Cadillac",
 			"model": "CTS",
 			"color": "Pink",
 			"year": 2003,
@@ -137,7 +137,7 @@
 			"available": true
 		},
 		{
-			"brand": "BMW",
+			"make": "BMW",
 			"model": "X5 M",
 			"color": "Mauv",
 			"year": 2012,
@@ -145,7 +145,7 @@
 			"available": true
 		},
 		{
-			"brand": "Dodge",
+			"make": "Dodge",
 			"model": "Viper",
 			"color": "Turquoise",
 			"year": 1999,
@@ -153,7 +153,7 @@
 			"available": true
 		},
 		{
-			"brand": "Ford",
+			"make": "Ford",
 			"model": "Taurus",
 			"color": "Mauv",
 			"year": 2002,
@@ -161,7 +161,7 @@
 			"available": false
 		},
 		{
-			"brand": "Suzuki",
+			"make": "Suzuki",
 			"model": "Swift",
 			"color": "Green",
 			"year": 1996,
@@ -169,7 +169,7 @@
 			"available": true
 		},
 		{
-			"brand": "Chrysler",
+			"make": "Chrysler",
 			"model": "Town & Country",
 			"color": "Mauv",
 			"year": 2010,
@@ -177,7 +177,7 @@
 			"available": false
 		},
 		{
-			"brand": "Maserati",
+			"make": "Maserati",
 			"model": "430",
 			"color": "Blue",
 			"year": 1991,
@@ -185,7 +185,7 @@
 			"available": false
 		},
 		{
-			"brand": "Toyota",
+			"make": "Toyota",
 			"model": "Tacoma Xtra",
 			"color": "Puce",
 			"year": 1996,
@@ -193,7 +193,7 @@
 			"available": false
 		},
 		{
-			"brand": "Volkswagen",
+			"make": "Volkswagen",
 			"model": "Eurovan",
 			"color": "Pink",
 			"year": 2000,
@@ -201,7 +201,7 @@
 			"available": true
 		},
 		{
-			"brand": "Ford",
+			"make": "Ford",
 			"model": "Econoline E150",
 			"color": "Puce",
 			"year": 2002,
@@ -209,7 +209,7 @@
 			"available": true
 		},
 		{
-			"brand": "GMC",
+			"make": "GMC",
 			"model": "Sierra Denali",
 			"color": "Green",
 			"year": 2006,
@@ -217,7 +217,7 @@
 			"available": false
 		},
 		{
-			"brand": "Lotus",
+			"make": "Lotus",
 			"model": "Esprit",
 			"color": "Purple",
 			"year": 1991,
@@ -225,7 +225,7 @@
 			"available": false
 		},
 		{
-			"brand": "Mitsubishi",
+			"make": "Mitsubishi",
 			"model": "Expo",
 			"color": "Maroon",
 			"year": 1995,
@@ -233,7 +233,7 @@
 			"available": false
 		},
 		{
-			"brand": "Land Rover",
+			"make": "Land Rover",
 			"model": "Discovery Series II",
 			"color": "Orange",
 			"year": 2002,
@@ -241,7 +241,7 @@
 			"available": false
 		},
 		{
-			"brand": "Geo",
+			"make": "Geo",
 			"model": "Tracker",
 			"color": "Khaki",
 			"year": 1997,
@@ -249,7 +249,7 @@
 			"available": true
 		},
 		{
-			"brand": "Mercury",
+			"make": "Mercury",
 			"model": "Monterey",
 			"color": "Violet",
 			"year": 2004,
@@ -257,7 +257,7 @@
 			"available": true
 		},
 		{
-			"brand": "BMW",
+			"make": "BMW",
 			"model": "3 Series",
 			"color": "Violet",
 			"year": 1992,
@@ -265,7 +265,7 @@
 			"available": false
 		},
 		{
-			"brand": "GMC",
+			"make": "GMC",
 			"model": "3500 Club Coupe",
 			"color": "Fuscia",
 			"year": 1998,
@@ -273,7 +273,7 @@
 			"available": true
 		},
 		{
-			"brand": "Volkswagen",
+			"make": "Volkswagen",
 			"model": "Passat",
 			"color": "Puce",
 			"year": 1998,
@@ -281,7 +281,7 @@
 			"available": true
 		},
 		{
-			"brand": "GMC",
+			"make": "GMC",
 			"model": "Yukon",
 			"color": "Indigo",
 			"year": 2007,
@@ -289,7 +289,7 @@
 			"available": false
 		},
 		{
-			"brand": "Volkswagen",
+			"make": "Volkswagen",
 			"model": "Golf",
 			"color": "Khaki",
 			"year": 1991,
@@ -297,7 +297,7 @@
 			"available": false
 		},
 		{
-			"brand": "Mercedes-Benz",
+			"make": "Mercedes-Benz",
 			"model": "SLR McLaren",
 			"color": "Orange",
 			"year": 2008,
@@ -305,7 +305,7 @@
 			"available": false
 		},
 		{
-			"brand": "Land Rover",
+			"make": "Land Rover",
 			"model": "Range Rover",
 			"color": "Khaki",
 			"year": 1993,
@@ -313,7 +313,7 @@
 			"available": true
 		},
 		{
-			"brand": "Lamborghini",
+			"make": "Lamborghini",
 			"model": "Countach",
 			"color": "Goldenrod",
 			"year": 1985,
@@ -321,7 +321,7 @@
 			"available": true
 		},
 		{
-			"brand": "Dodge",
+			"make": "Dodge",
 			"model": "Durango",
 			"color": "Indigo",
 			"year": 2002,
@@ -329,7 +329,7 @@
 			"available": true
 		},
 		{
-			"brand": "Saturn",
+			"make": "Saturn",
 			"model": "VUE",
 			"color": "Violet",
 			"year": 2006,
@@ -337,7 +337,7 @@
 			"available": true
 		},
 		{
-			"brand": "Toyota",
+			"make": "Toyota",
 			"model": "Matrix",
 			"color": "Violet",
 			"year": 2005,
@@ -345,7 +345,7 @@
 			"available": false
 		},
 		{
-			"brand": "Jaguar",
+			"make": "Jaguar",
 			"model": "XJ",
 			"color": "Orange",
 			"year": 2006,
@@ -353,7 +353,7 @@
 			"available": true
 		},
 		{
-			"brand": "Mercedes-Benz",
+			"make": "Mercedes-Benz",
 			"model": "Sprinter 3500",
 			"color": "Maroon",
 			"year": 2011,
@@ -361,7 +361,7 @@
 			"available": true
 		},
 		{
-			"brand": "Mitsubishi",
+			"make": "Mitsubishi",
 			"model": "Montero",
 			"color": "Crimson",
 			"year": 1996,
@@ -369,7 +369,7 @@
 			"available": true
 		},
 		{
-			"brand": "Subaru",
+			"make": "Subaru",
 			"model": "Impreza",
 			"color": "Fuscia",
 			"year": 2006,
@@ -377,7 +377,7 @@
 			"available": false
 		},
 		{
-			"brand": "Audi",
+			"make": "Audi",
 			"model": "A5",
 			"color": "Orange",
 			"year": 2012,
@@ -385,7 +385,7 @@
 			"available": false
 		},
 		{
-			"brand": "Porsche",
+			"make": "Porsche",
 			"model": "928",
 			"color": "Blue",
 			"year": 1994,
@@ -393,7 +393,7 @@
 			"available": false
 		},
 		{
-			"brand": "Acura",
+			"make": "Acura",
 			"model": "TL",
 			"color": "Violet",
 			"year": 2000,
@@ -401,7 +401,7 @@
 			"available": false
 		},
 		{
-			"brand": "Mitsubishi",
+			"make": "Mitsubishi",
 			"model": "Mirage",
 			"color": "Teal",
 			"year": 1992,
@@ -409,7 +409,7 @@
 			"available": true
 		},
 		{
-			"brand": "Kia",
+			"make": "Kia",
 			"model": "Rondo",
 			"color": "Red",
 			"year": 2008,
@@ -417,7 +417,7 @@
 			"available": true
 		},
 		{
-			"brand": "Nissan",
+			"make": "Nissan",
 			"model": "Maxima",
 			"color": "Purple",
 			"year": 2005,
@@ -425,7 +425,7 @@
 			"available": true
 		},
 		{
-			"brand": "Suzuki",
+			"make": "Suzuki",
 			"model": "Samurai",
 			"color": "Fuscia",
 			"year": 1992,
@@ -433,7 +433,7 @@
 			"available": true
 		},
 		{
-			"brand": "Chevrolet",
+			"make": "Chevrolet",
 			"model": "Cobalt",
 			"color": "Pink",
 			"year": 2009,
@@ -441,7 +441,7 @@
 			"available": true
 		},
 		{
-			"brand": "GMC",
+			"make": "GMC",
 			"model": "Acadia",
 			"color": "Pink",
 			"year": 2011,
@@ -449,7 +449,7 @@
 			"available": true
 		},
 		{
-			"brand": "Volkswagen",
+			"make": "Volkswagen",
 			"model": "Golf",
 			"color": "Maroon",
 			"year": 1998,
@@ -457,7 +457,7 @@
 			"available": true
 		},
 		{
-			"brand": "Lexus",
+			"make": "Lexus",
 			"model": "GS",
 			"color": "Violet",
 			"year": 1996,
@@ -465,7 +465,7 @@
 			"available": true
 		},
 		{
-			"brand": "Cadillac",
+			"make": "Cadillac",
 			"model": "Eldorado",
 			"color": "Orange",
 			"year": 2002,
@@ -473,7 +473,7 @@
 			"available": true
 		},
 		{
-			"brand": "Ford",
+			"make": "Ford",
 			"model": "F250",
 			"color": "Teal",
 			"year": 2010,
@@ -481,7 +481,7 @@
 			"available": true
 		},
 		{
-			"brand": "GMC",
+			"make": "GMC",
 			"model": "Savana 2500",
 			"color": "Turquoise",
 			"year": 2005,
@@ -489,7 +489,7 @@
 			"available": false
 		},
 		{
-			"brand": "BMW",
+			"make": "BMW",
 			"model": "645",
 			"color": "Blue",
 			"year": 2005,
@@ -497,7 +497,7 @@
 			"available": true
 		},
 		{
-			"brand": "Chevrolet",
+			"make": "Chevrolet",
 			"model": "1500",
 			"color": "Orange",
 			"year": 1994,
@@ -505,7 +505,7 @@
 			"available": false
 		},
 		{
-			"brand": "Ford",
+			"make": "Ford",
 			"model": "Taurus",
 			"color": "Khaki",
 			"year": 1992,
@@ -513,7 +513,7 @@
 			"available": false
 		},
 		{
-			"brand": "Lexus",
+			"make": "Lexus",
 			"model": "RX",
 			"color": "Maroon",
 			"year": 2007,
@@ -521,7 +521,7 @@
 			"available": false
 		},
 		{
-			"brand": "GMC",
+			"make": "GMC",
 			"model": "Savana",
 			"color": "Goldenrod",
 			"year": 2010,
@@ -529,7 +529,7 @@
 			"available": true
 		},
 		{
-			"brand": "Kia",
+			"make": "Kia",
 			"model": "Spectra",
 			"color": "Khaki",
 			"year": 2007,
@@ -537,7 +537,7 @@
 			"available": false
 		},
 		{
-			"brand": "Bentley",
+			"make": "Bentley",
 			"model": "Continental GT",
 			"color": "Turquoise",
 			"year": 2012,
@@ -545,7 +545,7 @@
 			"available": false
 		},
 		{
-			"brand": "Dodge",
+			"make": "Dodge",
 			"model": "Dakota",
 			"color": "Goldenrod",
 			"year": 2008,
@@ -553,7 +553,7 @@
 			"available": false
 		},
 		{
-			"brand": "Honda",
+			"make": "Honda",
 			"model": "Civic",
 			"color": "Turquoise",
 			"year": 2001,
@@ -561,7 +561,7 @@
 			"available": true
 		},
 		{
-			"brand": "Lexus",
+			"make": "Lexus",
 			"model": "LS",
 			"color": "Violet",
 			"year": 1992,
@@ -569,7 +569,7 @@
 			"available": false
 		},
 		{
-			"brand": "BMW",
+			"make": "BMW",
 			"model": "1 Series",
 			"color": "Fuscia",
 			"year": 2012,
@@ -577,7 +577,7 @@
 			"available": false
 		},
 		{
-			"brand": "Ferrari",
+			"make": "Ferrari",
 			"model": "F430",
 			"color": "Pink",
 			"year": 2007,
@@ -585,7 +585,7 @@
 			"available": false
 		},
 		{
-			"brand": "Pontiac",
+			"make": "Pontiac",
 			"model": "Grand Prix",
 			"color": "Violet",
 			"year": 1996,
@@ -593,7 +593,7 @@
 			"available": true
 		},
 		{
-			"brand": "Suzuki",
+			"make": "Suzuki",
 			"model": "Esteem",
 			"color": "Puce",
 			"year": 1995,
@@ -601,7 +601,7 @@
 			"available": true
 		},
 		{
-			"brand": "Nissan",
+			"make": "Nissan",
 			"model": "Versa",
 			"color": "Crimson",
 			"year": 2012,
@@ -609,7 +609,7 @@
 			"available": false
 		},
 		{
-			"brand": "Suzuki",
+			"make": "Suzuki",
 			"model": "Swift",
 			"color": "Teal",
 			"year": 1995,
@@ -617,7 +617,7 @@
 			"available": true
 		},
 		{
-			"brand": "Mitsubishi",
+			"make": "Mitsubishi",
 			"model": "Diamante",
 			"color": "Turquoise",
 			"year": 2000,
@@ -625,7 +625,7 @@
 			"available": false
 		},
 		{
-			"brand": "Cadillac",
+			"make": "Cadillac",
 			"model": "XLR-V",
 			"color": "Goldenrod",
 			"year": 2007,
@@ -633,7 +633,7 @@
 			"available": false
 		},
 		{
-			"brand": "Honda",
+			"make": "Honda",
 			"model": "Pilot",
 			"color": "Green",
 			"year": 2009,
@@ -641,7 +641,7 @@
 			"available": false
 		},
 		{
-			"brand": "Nissan",
+			"make": "Nissan",
 			"model": "Frontier",
 			"color": "Pink",
 			"year": 2011,
@@ -649,7 +649,7 @@
 			"available": false
 		},
 		{
-			"brand": "Dodge",
+			"make": "Dodge",
 			"model": "Caravan",
 			"color": "Green",
 			"year": 2004,
@@ -657,7 +657,7 @@
 			"available": true
 		},
 		{
-			"brand": "Aston Martin",
+			"make": "Aston Martin",
 			"model": "DB9",
 			"color": "Mauv",
 			"year": 2006,
@@ -665,7 +665,7 @@
 			"available": false
 		},
 		{
-			"brand": "Mercedes-Benz",
+			"make": "Mercedes-Benz",
 			"model": "300E",
 			"color": "Blue",
 			"year": 1992,
@@ -673,7 +673,7 @@
 			"available": true
 		},
 		{
-			"brand": "Subaru",
+			"make": "Subaru",
 			"model": "SVX",
 			"color": "Blue",
 			"year": 1994,
@@ -681,7 +681,7 @@
 			"available": true
 		},
 		{
-			"brand": "Dodge",
+			"make": "Dodge",
 			"model": "Ram Van 2500",
 			"color": "Puce",
 			"year": 1997,
@@ -689,7 +689,7 @@
 			"available": false
 		},
 		{
-			"brand": "Chevrolet",
+			"make": "Chevrolet",
 			"model": "Corvette",
 			"color": "Turquoise",
 			"year": 1961,
@@ -697,7 +697,7 @@
 			"available": true
 		},
 		{
-			"brand": "Mitsubishi",
+			"make": "Mitsubishi",
 			"model": "Diamante",
 			"color": "Indigo",
 			"year": 2000,
@@ -705,7 +705,7 @@
 			"available": true
 		},
 		{
-			"brand": "Mitsubishi",
+			"make": "Mitsubishi",
 			"model": "Expo",
 			"color": "Maroon",
 			"year": 1994,
@@ -713,7 +713,7 @@
 			"available": true
 		},
 		{
-			"brand": "GMC",
+			"make": "GMC",
 			"model": "Safari",
 			"color": "Goldenrod",
 			"year": 1998,
@@ -721,7 +721,7 @@
 			"available": true
 		},
 		{
-			"brand": "BMW",
+			"make": "BMW",
 			"model": "M5",
 			"color": "Crimson",
 			"year": 2009,
@@ -729,7 +729,7 @@
 			"available": false
 		},
 		{
-			"brand": "Dodge",
+			"make": "Dodge",
 			"model": "Ram 3500",
 			"color": "Pink",
 			"year": 1999,
@@ -737,7 +737,7 @@
 			"available": true
 		},
 		{
-			"brand": "Chevrolet",
+			"make": "Chevrolet",
 			"model": "G-Series 1500",
 			"color": "Fuscia",
 			"year": 1998,
@@ -745,7 +745,7 @@
 			"available": false
 		},
 		{
-			"brand": "Toyota",
+			"make": "Toyota",
 			"model": "Camry Hybrid",
 			"color": "Turquoise",
 			"year": 2007,
@@ -753,7 +753,7 @@
 			"available": false
 		},
 		{
-			"brand": "Ford",
+			"make": "Ford",
 			"model": "Contour",
 			"color": "Orange",
 			"year": 1997,
@@ -761,7 +761,7 @@
 			"available": true
 		},
 		{
-			"brand": "Mercedes-Benz",
+			"make": "Mercedes-Benz",
 			"model": "SL-Class",
 			"color": "Khaki",
 			"year": 2006,
@@ -769,7 +769,7 @@
 			"available": false
 		},
 		{
-			"brand": "Subaru",
+			"make": "Subaru",
 			"model": "Outback",
 			"color": "Puce",
 			"year": 2002,
@@ -777,7 +777,7 @@
 			"available": false
 		},
 		{
-			"brand": "Ford",
+			"make": "Ford",
 			"model": "E-Series",
 			"color": "Violet",
 			"year": 2003,
@@ -785,7 +785,7 @@
 			"available": true
 		},
 		{
-			"brand": "Ford",
+			"make": "Ford",
 			"model": "F150",
 			"color": "Pink",
 			"year": 1994,
@@ -793,7 +793,7 @@
 			"available": true
 		},
 		{
-			"brand": "Hyundai",
+			"make": "Hyundai",
 			"model": "Veloster",
 			"color": "Indigo",
 			"year": 2012,
@@ -801,7 +801,7 @@
 			"available": true
 		},
 		{
-			"brand": "Lincoln",
+			"make": "Lincoln",
 			"model": "Mark VIII",
 			"color": "Teal",
 			"year": 1994,
@@ -809,7 +809,7 @@
 			"available": false
 		},
 		{
-			"brand": "Land Rover",
+			"make": "Land Rover",
 			"model": "Range Rover",
 			"color": "Mauv",
 			"year": 1986,
@@ -817,7 +817,7 @@
 			"available": true
 		},
 		{
-			"brand": "Cadillac",
+			"make": "Cadillac",
 			"model": "DeVille",
 			"color": "Turquoise",
 			"year": 1996,
@@ -825,7 +825,7 @@
 			"available": true
 		},
 		{
-			"brand": "Mitsubishi",
+			"make": "Mitsubishi",
 			"model": "Eclipse",
 			"color": "Orange",
 			"year": 2007,
@@ -833,7 +833,7 @@
 			"available": false
 		},
 		{
-			"brand": "Honda",
+			"make": "Honda",
 			"model": "Prelude",
 			"color": "Crimson",
 			"year": 2000,
@@ -841,7 +841,7 @@
 			"available": true
 		},
 		{
-			"brand": "Lincoln",
+			"make": "Lincoln",
 			"model": "Continental",
 			"color": "Puce",
 			"year": 1998,
@@ -849,7 +849,7 @@
 			"available": true
 		},
 		{
-			"brand": "Chevrolet",
+			"make": "Chevrolet",
 			"model": "G-Series 1500",
 			"color": "Yellow",
 			"year": 1998,
@@ -857,7 +857,7 @@
 			"available": false
 		},
 		{
-			"brand": "Buick",
+			"make": "Buick",
 			"model": "Roadmaster",
 			"color": "Pink",
 			"year": 1994,
@@ -865,7 +865,7 @@
 			"available": false
 		},
 		{
-			"brand": "Nissan",
+			"make": "Nissan",
 			"model": "NV1500",
 			"color": "Fuscia",
 			"year": 2012,
@@ -873,7 +873,7 @@
 			"available": false
 		},
 		{
-			"brand": "Jaguar",
+			"make": "Jaguar",
 			"model": "XK Series",
 			"color": "Violet",
 			"year": 2000,
@@ -881,7 +881,7 @@
 			"available": true
 		},
 		{
-			"brand": "Toyota",
+			"make": "Toyota",
 			"model": "Land Cruiser",
 			"color": "Turquoise",
 			"year": 2005,
@@ -889,7 +889,7 @@
 			"available": true
 		},
 		{
-			"brand": "Nissan",
+			"make": "Nissan",
 			"model": "Frontier",
 			"color": "Crimson",
 			"year": 2007,
@@ -897,7 +897,7 @@
 			"available": true
 		},
 		{
-			"brand": "Suzuki",
+			"make": "Suzuki",
 			"model": "X-90",
 			"color": "Green",
 			"year": 1997,
@@ -905,7 +905,7 @@
 			"available": true
 		},
 		{
-			"brand": "MINI",
+			"make": "MINI",
 			"model": "MINI",
 			"color": "Maroon",
 			"year": 2002,
@@ -913,7 +913,7 @@
 			"available": true
 		},
 		{
-			"brand": "GMC",
+			"make": "GMC",
 			"model": "Sierra",
 			"color": "Crimson",
 			"year": 2009,
@@ -921,7 +921,7 @@
 			"available": true
 		},
 		{
-			"brand": "Hyundai",
+			"make": "Hyundai",
 			"model": "Veracruz",
 			"color": "Puce",
 			"year": 2007,
@@ -929,7 +929,7 @@
 			"available": true
 		},
 		{
-			"brand": "Saturn",
+			"make": "Saturn",
 			"model": "S-Series",
 			"color": "Teal",
 			"year": 1993,
@@ -937,7 +937,7 @@
 			"available": false
 		},
 		{
-			"brand": "Volvo",
+			"make": "Volvo",
 			"model": "C70",
 			"color": "Crimson",
 			"year": 2011,
@@ -945,7 +945,7 @@
 			"available": true
 		},
 		{
-			"brand": "GMC",
+			"make": "GMC",
 			"model": "Sierra 3500",
 			"color": "Puce",
 			"year": 2010,
@@ -953,7 +953,7 @@
 			"available": false
 		},
 		{
-			"brand": "GMC",
+			"make": "GMC",
 			"model": "Yukon XL 1500",
 			"color": "Khaki",
 			"year": 2005,
@@ -961,7 +961,7 @@
 			"available": false
 		},
 		{
-			"brand": "BMW",
+			"make": "BMW",
 			"model": "7 Series",
 			"color": "Turquoise",
 			"year": 2009,
@@ -969,7 +969,7 @@
 			"available": false
 		},
 		{
-			"brand": "Chevrolet",
+			"make": "Chevrolet",
 			"model": "Suburban 2500",
 			"color": "Khaki",
 			"year": 2002,
@@ -977,7 +977,7 @@
 			"available": false
 		},
 		{
-			"brand": "Jeep",
+			"make": "Jeep",
 			"model": "Liberty",
 			"color": "Indigo",
 			"year": 2007,
@@ -985,7 +985,7 @@
 			"available": false
 		},
 		{
-			"brand": "Mercedes-Benz",
+			"make": "Mercedes-Benz",
 			"model": "G-Class",
 			"color": "Violet",
 			"year": 2010,
@@ -993,7 +993,7 @@
 			"available": true
 		},
 		{
-			"brand": "Cadillac",
+			"make": "Cadillac",
 			"model": "Escalade ESV",
 			"color": "Red",
 			"year": 2011,
@@ -1001,7 +1001,7 @@
 			"available": true
 		},
 		{
-			"brand": "Chevrolet",
+			"make": "Chevrolet",
 			"model": "Impala",
 			"color": "Goldenrod",
 			"year": 1995,
@@ -1009,7 +1009,7 @@
 			"available": true
 		},
 		{
-			"brand": "Pontiac",
+			"make": "Pontiac",
 			"model": "6000",
 			"color": "Aquamarine",
 			"year": 1986,
@@ -1017,7 +1017,7 @@
 			"available": false
 		},
 		{
-			"brand": "Ford",
+			"make": "Ford",
 			"model": "Festiva",
 			"color": "Purple",
 			"year": 1989,
@@ -1025,7 +1025,7 @@
 			"available": false
 		},
 		{
-			"brand": "Chevrolet",
+			"make": "Chevrolet",
 			"model": "Impala",
 			"color": "Violet",
 			"year": 1996,
@@ -1033,7 +1033,7 @@
 			"available": false
 		},
 		{
-			"brand": "Mazda",
+			"make": "Mazda",
 			"model": "RX-8",
 			"color": "Blue",
 			"year": 2009,
@@ -1041,7 +1041,7 @@
 			"available": true
 		},
 		{
-			"brand": "Toyota",
+			"make": "Toyota",
 			"model": "Avalon",
 			"color": "Purple",
 			"year": 2004,
@@ -1049,7 +1049,7 @@
 			"available": false
 		},
 		{
-			"brand": "Mazda",
+			"make": "Mazda",
 			"model": "MX-6",
 			"color": "Green",
 			"year": 1992,
@@ -1057,7 +1057,7 @@
 			"available": true
 		},
 		{
-			"brand": "Kia",
+			"make": "Kia",
 			"model": "Sephia",
 			"color": "Red",
 			"year": 1997,
@@ -1065,7 +1065,7 @@
 			"available": false
 		},
 		{
-			"brand": "Pontiac",
+			"make": "Pontiac",
 			"model": "Gemini",
 			"color": "Goldenrod",
 			"year": 1989,
@@ -1073,7 +1073,7 @@
 			"available": true
 		},
 		{
-			"brand": "Dodge",
+			"make": "Dodge",
 			"model": "Ram Van B250",
 			"color": "Violet",
 			"year": 1994,
@@ -1081,7 +1081,7 @@
 			"available": false
 		},
 		{
-			"brand": "Plymouth",
+			"make": "Plymouth",
 			"model": "Grand Voyager",
 			"color": "Yellow",
 			"year": 1995,
@@ -1089,7 +1089,7 @@
 			"available": true
 		},
 		{
-			"brand": "Ford",
+			"make": "Ford",
 			"model": "Econoline E350",
 			"color": "Fuscia",
 			"year": 1994,
@@ -1097,7 +1097,7 @@
 			"available": false
 		},
 		{
-			"brand": "GMC",
+			"make": "GMC",
 			"model": "Vandura 2500",
 			"color": "Red",
 			"year": 1992,
@@ -1105,7 +1105,7 @@
 			"available": true
 		},
 		{
-			"brand": "Ford",
+			"make": "Ford",
 			"model": "Explorer",
 			"color": "Blue",
 			"year": 2010,
@@ -1113,7 +1113,7 @@
 			"available": true
 		},
 		{
-			"brand": "Dodge",
+			"make": "Dodge",
 			"model": "Dakota",
 			"color": "Aquamarine",
 			"year": 2001,
@@ -1121,7 +1121,7 @@
 			"available": false
 		},
 		{
-			"brand": "Toyota",
+			"make": "Toyota",
 			"model": "Tacoma Xtra",
 			"color": "Crimson",
 			"year": 1995,
@@ -1129,7 +1129,7 @@
 			"available": false
 		},
 		{
-			"brand": "Dodge",
+			"make": "Dodge",
 			"model": "D150",
 			"color": "Violet",
 			"year": 1992,
@@ -1137,7 +1137,7 @@
 			"available": false
 		},
 		{
-			"brand": "Mazda",
+			"make": "Mazda",
 			"model": "Mazda6",
 			"color": "Blue",
 			"year": 2008,
@@ -1145,7 +1145,7 @@
 			"available": false
 		},
 		{
-			"brand": "Pontiac",
+			"make": "Pontiac",
 			"model": "Grand Prix",
 			"color": "Aquamarine",
 			"year": 2004,
@@ -1153,7 +1153,7 @@
 			"available": true
 		},
 		{
-			"brand": "Chrysler",
+			"make": "Chrysler",
 			"model": "Crossfire",
 			"color": "Khaki",
 			"year": 2004,
@@ -1161,7 +1161,7 @@
 			"available": true
 		},
 		{
-			"brand": "Honda",
+			"make": "Honda",
 			"model": "CR-Z",
 			"color": "Blue",
 			"year": 2011,
@@ -1169,7 +1169,7 @@
 			"available": true
 		},
 		{
-			"brand": "Volkswagen",
+			"make": "Volkswagen",
 			"model": "Cabriolet",
 			"color": "Green",
 			"year": 1989,
@@ -1177,7 +1177,7 @@
 			"available": false
 		},
 		{
-			"brand": "Volkswagen",
+			"make": "Volkswagen",
 			"model": "Jetta",
 			"color": "Maroon",
 			"year": 2004,
@@ -1185,7 +1185,7 @@
 			"available": true
 		},
 		{
-			"brand": "Lexus",
+			"make": "Lexus",
 			"model": "RX",
 			"color": "Maroon",
 			"year": 2008,
@@ -1193,7 +1193,7 @@
 			"available": false
 		},
 		{
-			"brand": "Mitsubishi",
+			"make": "Mitsubishi",
 			"model": "Mirage",
 			"color": "Fuscia",
 			"year": 1996,
@@ -1201,7 +1201,7 @@
 			"available": false
 		},
 		{
-			"brand": "Jaguar",
+			"make": "Jaguar",
 			"model": "XK Series",
 			"color": "Purple",
 			"year": 1999,
@@ -1209,7 +1209,7 @@
 			"available": true
 		},
 		{
-			"brand": "Ford",
+			"make": "Ford",
 			"model": "Fusion",
 			"color": "Blue",
 			"year": 2011,
@@ -1217,7 +1217,7 @@
 			"available": true
 		},
 		{
-			"brand": "Saab",
+			"make": "Saab",
 			"model": "9000",
 			"color": "Crimson",
 			"year": 1997,
@@ -1225,7 +1225,7 @@
 			"available": true
 		},
 		{
-			"brand": "Chevrolet",
+			"make": "Chevrolet",
 			"model": "TrailBlazer",
 			"color": "Violet",
 			"year": 2006,
@@ -1233,7 +1233,7 @@
 			"available": true
 		},
 		{
-			"brand": "Honda",
+			"make": "Honda",
 			"model": "Civic",
 			"color": "Aquamarine",
 			"year": 2010,
@@ -1241,7 +1241,7 @@
 			"available": false
 		},
 		{
-			"brand": "BMW",
+			"make": "BMW",
 			"model": "3 Series",
 			"color": "Green",
 			"year": 2006,
@@ -1249,7 +1249,7 @@
 			"available": true
 		},
 		{
-			"brand": "GMC",
+			"make": "GMC",
 			"model": "Terrain",
 			"color": "Violet",
 			"year": 2011,
@@ -1257,7 +1257,7 @@
 			"available": false
 		},
 		{
-			"brand": "Ford",
+			"make": "Ford",
 			"model": "Aerostar",
 			"color": "Pink",
 			"year": 1996,
@@ -1265,7 +1265,7 @@
 			"available": false
 		},
 		{
-			"brand": "Subaru",
+			"make": "Subaru",
 			"model": "Legacy",
 			"color": "Aquamarine",
 			"year": 1995,
@@ -1273,7 +1273,7 @@
 			"available": false
 		},
 		{
-			"brand": "Dodge",
+			"make": "Dodge",
 			"model": "Ram 50",
 			"color": "Puce",
 			"year": 1993,
@@ -1281,7 +1281,7 @@
 			"available": true
 		},
 		{
-			"brand": "Geo",
+			"make": "Geo",
 			"model": "Metro",
 			"color": "Maroon",
 			"year": 1994,
@@ -1289,7 +1289,7 @@
 			"available": true
 		},
 		{
-			"brand": "Mercury",
+			"make": "Mercury",
 			"model": "Tracer",
 			"color": "Puce",
 			"year": 1991,
@@ -1297,7 +1297,7 @@
 			"available": true
 		},
 		{
-			"brand": "Mazda",
+			"make": "Mazda",
 			"model": "Mazdaspeed 3",
 			"color": "Mauv",
 			"year": 2012,
@@ -1305,7 +1305,7 @@
 			"available": false
 		},
 		{
-			"brand": "Mitsubishi",
+			"make": "Mitsubishi",
 			"model": "Outlander Sport",
 			"color": "Red",
 			"year": 2012,
@@ -1313,7 +1313,7 @@
 			"available": true
 		},
 		{
-			"brand": "Ford",
+			"make": "Ford",
 			"model": "Fusion",
 			"color": "Pink",
 			"year": 2010,
@@ -1321,7 +1321,7 @@
 			"available": true
 		},
 		{
-			"brand": "Volvo",
+			"make": "Volvo",
 			"model": "V70",
 			"color": "Aquamarine",
 			"year": 2008,
@@ -1329,7 +1329,7 @@
 			"available": false
 		},
 		{
-			"brand": "Jeep",
+			"make": "Jeep",
 			"model": "Wrangler",
 			"color": "Violet",
 			"year": 1992,
@@ -1337,7 +1337,7 @@
 			"available": false
 		},
 		{
-			"brand": "Pontiac",
+			"make": "Pontiac",
 			"model": "GTO",
 			"color": "Puce",
 			"year": 1966,
@@ -1345,7 +1345,7 @@
 			"available": true
 		},
 		{
-			"brand": "Maybach",
+			"make": "Maybach",
 			"model": "57",
 			"color": "Turquoise",
 			"year": 2010,
@@ -1353,7 +1353,7 @@
 			"available": false
 		},
 		{
-			"brand": "Porsche",
+			"make": "Porsche",
 			"model": "944",
 			"color": "Teal",
 			"year": 1984,
@@ -1361,7 +1361,7 @@
 			"available": true
 		},
 		{
-			"brand": "Jeep",
+			"make": "Jeep",
 			"model": "Cherokee",
 			"color": "Maroon",
 			"year": 1992,
@@ -1369,7 +1369,7 @@
 			"available": true
 		},
 		{
-			"brand": "Volkswagen",
+			"make": "Volkswagen",
 			"model": "Golf",
 			"color": "Khaki",
 			"year": 2005,
@@ -1377,7 +1377,7 @@
 			"available": false
 		},
 		{
-			"brand": "Honda",
+			"make": "Honda",
 			"model": "Odyssey",
 			"color": "Violet",
 			"year": 2008,
@@ -1385,7 +1385,7 @@
 			"available": false
 		},
 		{
-			"brand": "Chrysler",
+			"make": "Chrysler",
 			"model": "LeBaron",
 			"color": "Purple",
 			"year": 1994,
@@ -1393,7 +1393,7 @@
 			"available": false
 		},
 		{
-			"brand": "Eagle",
+			"make": "Eagle",
 			"model": "Summit",
 			"color": "Violet",
 			"year": 1993,
@@ -1401,7 +1401,7 @@
 			"available": true
 		},
 		{
-			"brand": "GMC",
+			"make": "GMC",
 			"model": "Safari",
 			"color": "Red",
 			"year": 1993,
@@ -1409,7 +1409,7 @@
 			"available": false
 		},
 		{
-			"brand": "Volkswagen",
+			"make": "Volkswagen",
 			"model": "Golf",
 			"color": "Indigo",
 			"year": 2012,
@@ -1417,7 +1417,7 @@
 			"available": true
 		},
 		{
-			"brand": "Mazda",
+			"make": "Mazda",
 			"model": "RX-7",
 			"color": "Mauv",
 			"year": 1995,
@@ -1425,7 +1425,7 @@
 			"available": true
 		},
 		{
-			"brand": "Lamborghini",
+			"make": "Lamborghini",
 			"model": "Diablo",
 			"color": "Purple",
 			"year": 2001,
@@ -1433,7 +1433,7 @@
 			"available": true
 		},
 		{
-			"brand": "Chevrolet",
+			"make": "Chevrolet",
 			"model": "Corvette",
 			"color": "Pink",
 			"year": 1965,
@@ -1441,7 +1441,7 @@
 			"available": true
 		},
 		{
-			"brand": "Oldsmobile",
+			"make": "Oldsmobile",
 			"model": "Achieva",
 			"color": "Goldenrod",
 			"year": 1994,
@@ -1449,7 +1449,7 @@
 			"available": true
 		},
 		{
-			"brand": "Honda",
+			"make": "Honda",
 			"model": "Accord",
 			"color": "Mauv",
 			"year": 1993,
@@ -1457,7 +1457,7 @@
 			"available": true
 		},
 		{
-			"brand": "Chevrolet",
+			"make": "Chevrolet",
 			"model": "Caprice",
 			"color": "Indigo",
 			"year": 1994,
@@ -1465,7 +1465,7 @@
 			"available": true
 		},
 		{
-			"brand": "Hyundai",
+			"make": "Hyundai",
 			"model": "Santa Fe",
 			"color": "Teal",
 			"year": 2005,
@@ -1473,7 +1473,7 @@
 			"available": false
 		},
 		{
-			"brand": "GMC",
+			"make": "GMC",
 			"model": "Sonoma",
 			"color": "Puce",
 			"year": 1997,
@@ -1481,7 +1481,7 @@
 			"available": true
 		},
 		{
-			"brand": "Mercury",
+			"make": "Mercury",
 			"model": "Mountaineer",
 			"color": "Violet",
 			"year": 2005,
@@ -1489,7 +1489,7 @@
 			"available": false
 		},
 		{
-			"brand": "Saab",
+			"make": "Saab",
 			"model": "9-5",
 			"color": "Violet",
 			"year": 2007,
@@ -1497,7 +1497,7 @@
 			"available": true
 		},
 		{
-			"brand": "Chevrolet",
+			"make": "Chevrolet",
 			"model": "2500",
 			"color": "Khaki",
 			"year": 2000,
@@ -1505,7 +1505,7 @@
 			"available": true
 		},
 		{
-			"brand": "Pontiac",
+			"make": "Pontiac",
 			"model": "Grand Prix",
 			"color": "Indigo",
 			"year": 1975,
@@ -1513,7 +1513,7 @@
 			"available": false
 		},
 		{
-			"brand": "Eagle",
+			"make": "Eagle",
 			"model": "Talon",
 			"color": "Goldenrod",
 			"year": 1995,
@@ -1521,7 +1521,7 @@
 			"available": true
 		},
 		{
-			"brand": "Chevrolet",
+			"make": "Chevrolet",
 			"model": "Corvette",
 			"color": "Turquoise",
 			"year": 2003,
@@ -1529,7 +1529,7 @@
 			"available": false
 		},
 		{
-			"brand": "Mercedes-Benz",
+			"make": "Mercedes-Benz",
 			"model": "S-Class",
 			"color": "Blue",
 			"year": 1992,
@@ -1537,7 +1537,7 @@
 			"available": false
 		},
 		{
-			"brand": "Dodge",
+			"make": "Dodge",
 			"model": "Daytona",
 			"color": "Pink",
 			"year": 1993,
@@ -1545,7 +1545,7 @@
 			"available": false
 		},
 		{
-			"brand": "Jaguar",
+			"make": "Jaguar",
 			"model": "XJ",
 			"color": "Indigo",
 			"year": 2012,
@@ -1553,7 +1553,7 @@
 			"available": false
 		},
 		{
-			"brand": "Toyota",
+			"make": "Toyota",
 			"model": "Echo",
 			"color": "Yellow",
 			"year": 2005,
@@ -1561,7 +1561,7 @@
 			"available": false
 		},
 		{
-			"brand": "Saab",
+			"make": "Saab",
 			"model": "9-3",
 			"color": "Purple",
 			"year": 1999,
@@ -1569,7 +1569,7 @@
 			"available": true
 		},
 		{
-			"brand": "Mazda",
+			"make": "Mazda",
 			"model": "B-Series",
 			"color": "Purple",
 			"year": 1988,
@@ -1577,7 +1577,7 @@
 			"available": true
 		},
 		{
-			"brand": "Hyundai",
+			"make": "Hyundai",
 			"model": "Tiburon",
 			"color": "Yellow",
 			"year": 2005,
@@ -1585,7 +1585,7 @@
 			"available": false
 		},
 		{
-			"brand": "Volvo",
+			"make": "Volvo",
 			"model": "XC90",
 			"color": "Aquamarine",
 			"year": 2006,
@@ -1593,7 +1593,7 @@
 			"available": true
 		},
 		{
-			"brand": "Mitsubishi",
+			"make": "Mitsubishi",
 			"model": "Eclipse",
 			"color": "Goldenrod",
 			"year": 2006,
@@ -1601,7 +1601,7 @@
 			"available": true
 		},
 		{
-			"brand": "Bentley",
+			"make": "Bentley",
 			"model": "Azure",
 			"color": "Red",
 			"year": 2008,
@@ -1609,7 +1609,7 @@
 			"available": false
 		},
 		{
-			"brand": "Lexus",
+			"make": "Lexus",
 			"model": "GX",
 			"color": "Fuscia",
 			"year": 2011,
@@ -1617,7 +1617,7 @@
 			"available": false
 		},
 		{
-			"brand": "Mazda",
+			"make": "Mazda",
 			"model": "B2000",
 			"color": "Maroon",
 			"year": 1985,
@@ -1625,7 +1625,7 @@
 			"available": false
 		},
 		{
-			"brand": "Lexus",
+			"make": "Lexus",
 			"model": "LS",
 			"color": "Crimson",
 			"year": 1989,
@@ -1633,7 +1633,7 @@
 			"available": true
 		},
 		{
-			"brand": "MINI",
+			"make": "MINI",
 			"model": "Cooper Countryman",
 			"color": "Pink",
 			"year": 2012,
@@ -1641,7 +1641,7 @@
 			"available": false
 		},
 		{
-			"brand": "GMC",
+			"make": "GMC",
 			"model": "3500",
 			"color": "Red",
 			"year": 1996,
@@ -1649,7 +1649,7 @@
 			"available": true
 		},
 		{
-			"brand": "Chevrolet",
+			"make": "Chevrolet",
 			"model": "Express 2500",
 			"color": "Red",
 			"year": 1998,
@@ -1657,7 +1657,7 @@
 			"available": false
 		},
 		{
-			"brand": "MINI",
+			"make": "MINI",
 			"model": "Cooper",
 			"color": "Purple",
 			"year": 2011,
@@ -1665,7 +1665,7 @@
 			"available": false
 		},
 		{
-			"brand": "Hyundai",
+			"make": "Hyundai",
 			"model": "Santa Fe",
 			"color": "Orange",
 			"year": 2003,
@@ -1673,7 +1673,7 @@
 			"available": false
 		},
 		{
-			"brand": "Ford",
+			"make": "Ford",
 			"model": "E-Series",
 			"color": "Puce",
 			"year": 1963,
@@ -1681,7 +1681,7 @@
 			"available": true
 		},
 		{
-			"brand": "Infiniti",
+			"make": "Infiniti",
 			"model": "J",
 			"color": "Blue",
 			"year": 1993,
@@ -1689,7 +1689,7 @@
 			"available": false
 		},
 		{
-			"brand": "GMC",
+			"make": "GMC",
 			"model": "Suburban 1500",
 			"color": "Khaki",
 			"year": 1997,
@@ -1697,7 +1697,7 @@
 			"available": true
 		},
 		{
-			"brand": "GMC",
+			"make": "GMC",
 			"model": "Sonoma",
 			"color": "Purple",
 			"year": 2002,
@@ -1705,7 +1705,7 @@
 			"available": true
 		},
 		{
-			"brand": "Hyundai",
+			"make": "Hyundai",
 			"model": "Sonata",
 			"color": "Maroon",
 			"year": 2007,
@@ -1713,7 +1713,7 @@
 			"available": false
 		},
 		{
-			"brand": "Chevrolet",
+			"make": "Chevrolet",
 			"model": "Express 1500",
 			"color": "Yellow",
 			"year": 1998,
@@ -1721,7 +1721,7 @@
 			"available": false
 		},
 		{
-			"brand": "Nissan",
+			"make": "Nissan",
 			"model": "Rogue",
 			"color": "Puce",
 			"year": 2012,
@@ -1729,7 +1729,7 @@
 			"available": true
 		},
 		{
-			"brand": "Maserati",
+			"make": "Maserati",
 			"model": "Spyder",
 			"color": "Red",
 			"year": 2004,
@@ -1737,7 +1737,7 @@
 			"available": true
 		},
 		{
-			"brand": "Nissan",
+			"make": "Nissan",
 			"model": "280ZX",
 			"color": "Goldenrod",
 			"year": 1979,
@@ -1745,7 +1745,7 @@
 			"available": true
 		},
 		{
-			"brand": "GMC",
+			"make": "GMC",
 			"model": "Suburban 1500",
 			"color": "Green",
 			"year": 1997,
@@ -1753,7 +1753,7 @@
 			"available": false
 		},
 		{
-			"brand": "Ford",
+			"make": "Ford",
 			"model": "E150",
 			"color": "Aquamarine",
 			"year": 2003,
@@ -1761,7 +1761,7 @@
 			"available": false
 		},
 		{
-			"brand": "Chevrolet",
+			"make": "Chevrolet",
 			"model": "Corvette",
 			"color": "Orange",
 			"year": 1959,
@@ -1769,7 +1769,7 @@
 			"available": true
 		},
 		{
-			"brand": "Dodge",
+			"make": "Dodge",
 			"model": "Neon",
 			"color": "Purple",
 			"year": 2003,
@@ -1777,7 +1777,7 @@
 			"available": false
 		},
 		{
-			"brand": "Honda",
+			"make": "Honda",
 			"model": "Accord",
 			"color": "Fuscia",
 			"year": 1989,
@@ -1785,7 +1785,7 @@
 			"available": true
 		},
 		{
-			"brand": "Volkswagen",
+			"make": "Volkswagen",
 			"model": "rio",
 			"color": "Puce",
 			"year": 1998,
@@ -1793,7 +1793,7 @@
 			"available": true
 		},
 		{
-			"brand": "Kia",
+			"make": "Kia",
 			"model": "Rio",
 			"color": "Indigo",
 			"year": 2006,
@@ -1801,7 +1801,7 @@
 			"available": true
 		},
 		{
-			"brand": "Ford",
+			"make": "Ford",
 			"model": "Thunderbird",
 			"color": "Purple",
 			"year": 2002,
@@ -1809,7 +1809,7 @@
 			"available": false
 		},
 		{
-			"brand": "Mercury",
+			"make": "Mercury",
 			"model": "Capri",
 			"color": "Goldenrod",
 			"year": 1992,
@@ -1817,7 +1817,7 @@
 			"available": true
 		},
 		{
-			"brand": "Dodge",
+			"make": "Dodge",
 			"model": "Ram 3500",
 			"color": "Indigo",
 			"year": 1999,
@@ -1825,7 +1825,7 @@
 			"available": false
 		},
 		{
-			"brand": "Nissan",
+			"make": "Nissan",
 			"model": "Sentra",
 			"color": "Puce",
 			"year": 2001,
@@ -1833,7 +1833,7 @@
 			"available": true
 		},
 		{
-			"brand": "Toyota",
+			"make": "Toyota",
 			"model": "Sienna",
 			"color": "Aquamarine",
 			"year": 2008,
@@ -1841,7 +1841,7 @@
 			"available": false
 		},
 		{
-			"brand": "Mercedes-Benz",
+			"make": "Mercedes-Benz",
 			"model": "E-Class",
 			"color": "Maroon",
 			"year": 1994,
@@ -1849,7 +1849,7 @@
 			"available": false
 		},
 		{
-			"brand": "Audi",
+			"make": "Audi",
 			"model": "riolet",
 			"color": "Crimson",
 			"year": 1994,
@@ -1857,7 +1857,7 @@
 			"available": false
 		},
 		{
-			"brand": "Ford",
+			"make": "Ford",
 			"model": "Freestyle",
 			"color": "Puce",
 			"year": 2006,
@@ -1865,7 +1865,7 @@
 			"available": false
 		},
 		{
-			"brand": "Jaguar",
+			"make": "Jaguar",
 			"model": "XF",
 			"color": "Yellow",
 			"year": 2011,
@@ -1873,7 +1873,7 @@
 			"available": true
 		},
 		{
-			"brand": "Mercury",
+			"make": "Mercury",
 			"model": "Capri",
 			"color": "Mauv",
 			"year": 1993,
@@ -1881,7 +1881,7 @@
 			"available": true
 		},
 		{
-			"brand": "Eagle",
+			"make": "Eagle",
 			"model": "Talon",
 			"color": "Green",
 			"year": 1997,
@@ -1889,7 +1889,7 @@
 			"available": true
 		},
 		{
-			"brand": "Mercedes-Benz",
+			"make": "Mercedes-Benz",
 			"model": "E-Class",
 			"color": "Yellow",
 			"year": 1999,
@@ -1897,7 +1897,7 @@
 			"available": true
 		},
 		{
-			"brand": "Hyundai",
+			"make": "Hyundai",
 			"model": "Santa Fe",
 			"color": "Goldenrod",
 			"year": 2001,
@@ -1905,7 +1905,7 @@
 			"available": false
 		},
 		{
-			"brand": "Hyundai",
+			"make": "Hyundai",
 			"model": "Genesis",
 			"color": "Aquamarine",
 			"year": 2011,
@@ -1913,7 +1913,7 @@
 			"available": false
 		},
 		{
-			"brand": "Acura",
+			"make": "Acura",
 			"model": "Integra",
 			"color": "Pink",
 			"year": 1996,
@@ -1921,7 +1921,7 @@
 			"available": false
 		},
 		{
-			"brand": "Infiniti",
+			"make": "Infiniti",
 			"model": "M",
 			"color": "Blue",
 			"year": 2008,
@@ -1929,7 +1929,7 @@
 			"available": false
 		},
 		{
-			"brand": "Ferrari",
+			"make": "Ferrari",
 			"model": "F430",
 			"color": "Maroon",
 			"year": 2009,
@@ -1937,7 +1937,7 @@
 			"available": false
 		},
 		{
-			"brand": "Volkswagen",
+			"make": "Volkswagen",
 			"model": "Fox",
 			"color": "Turquoise",
 			"year": 1991,
@@ -1945,7 +1945,7 @@
 			"available": false
 		},
 		{
-			"brand": "Suzuki",
+			"make": "Suzuki",
 			"model": "Grand Vitara",
 			"color": "Red",
 			"year": 2001,
@@ -1953,7 +1953,7 @@
 			"available": true
 		},
 		{
-			"brand": "Ford",
+			"make": "Ford",
 			"model": "Focus",
 			"color": "Goldenrod",
 			"year": 2003,
@@ -1961,7 +1961,7 @@
 			"available": false
 		},
 		{
-			"brand": "Chevrolet",
+			"make": "Chevrolet",
 			"model": "Sportvan G20",
 			"color": "Violet",
 			"year": 1992,
@@ -1969,7 +1969,7 @@
 			"available": true
 		},
 		{
-			"brand": "Volkswagen",
+			"make": "Volkswagen",
 			"model": "Jetta III",
 			"color": "Maroon",
 			"year": 1994,
@@ -1977,7 +1977,7 @@
 			"available": true
 		},
 		{
-			"brand": "Chevrolet",
+			"make": "Chevrolet",
 			"model": "Cobalt",
 			"color": "Fuscia",
 			"year": 2010,
@@ -1985,7 +1985,7 @@
 			"available": false
 		},
 		{
-			"brand": "Ford",
+			"make": "Ford",
 			"model": "Econoline E150",
 			"color": "Indigo",
 			"year": 2002,
@@ -1993,7 +1993,7 @@
 			"available": false
 		},
 		{
-			"brand": "Chevrolet",
+			"make": "Chevrolet",
 			"model": "Corvette",
 			"color": "Orange",
 			"year": 1962,
@@ -2001,7 +2001,7 @@
 			"available": false
 		},
 		{
-			"brand": "Toyota",
+			"make": "Toyota",
 			"model": "Previa",
 			"color": "Indigo",
 			"year": 1995,
@@ -2009,7 +2009,7 @@
 			"available": true
 		},
 		{
-			"brand": "Mercury",
+			"make": "Mercury",
 			"model": "Grand Marquis",
 			"color": "Crimson",
 			"year": 2008,
@@ -2017,7 +2017,7 @@
 			"available": true
 		},
 		{
-			"brand": "Oldsmobile",
+			"make": "Oldsmobile",
 			"model": "Achieva",
 			"color": "Orange",
 			"year": 1992,
@@ -2025,7 +2025,7 @@
 			"available": false
 		},
 		{
-			"brand": "Honda",
+			"make": "Honda",
 			"model": "del Sol",
 			"color": "Orange",
 			"year": 1994,
@@ -2033,7 +2033,7 @@
 			"available": false
 		},
 		{
-			"brand": "Ford",
+			"make": "Ford",
 			"model": "Mustang",
 			"color": "Green",
 			"year": 1971,
@@ -2041,7 +2041,7 @@
 			"available": false
 		},
 		{
-			"brand": "Mitsubishi",
+			"make": "Mitsubishi",
 			"model": "Mirage",
 			"color": "Puce",
 			"year": 2002,
@@ -2049,7 +2049,7 @@
 			"available": false
 		},
 		{
-			"brand": "Hyundai",
+			"make": "Hyundai",
 			"model": "Santa Fe",
 			"color": "Violet",
 			"year": 2008,
@@ -2057,7 +2057,7 @@
 			"available": false
 		},
 		{
-			"brand": "Lexus",
+			"make": "Lexus",
 			"model": "IS",
 			"color": "Indigo",
 			"year": 2003,
@@ -2065,7 +2065,7 @@
 			"available": true
 		},
 		{
-			"brand": "Chevrolet",
+			"make": "Chevrolet",
 			"model": "S10 Blazer",
 			"color": "Aquamarine",
 			"year": 1992,
@@ -2073,7 +2073,7 @@
 			"available": false
 		},
 		{
-			"brand": "Toyota",
+			"make": "Toyota",
 			"model": "Camry",
 			"color": "Khaki",
 			"year": 2007,
@@ -2081,7 +2081,7 @@
 			"available": true
 		},
 		{
-			"brand": "Ford",
+			"make": "Ford",
 			"model": "E-Series",
 			"color": "Purple",
 			"year": 1989,
@@ -2089,7 +2089,7 @@
 			"available": true
 		},
 		{
-			"brand": "Subaru",
+			"make": "Subaru",
 			"model": "Leone",
 			"color": "Puce",
 			"year": 1988,
@@ -2097,7 +2097,7 @@
 			"available": false
 		},
 		{
-			"brand": "Pontiac",
+			"make": "Pontiac",
 			"model": "Aztek",
 			"color": "Indigo",
 			"year": 2005,
@@ -2105,7 +2105,7 @@
 			"available": true
 		},
 		{
-			"brand": "Jaguar",
+			"make": "Jaguar",
 			"model": "XJ Series",
 			"color": "Violet",
 			"year": 2000,
@@ -2113,7 +2113,7 @@
 			"available": false
 		},
 		{
-			"brand": "Mitsubishi",
+			"make": "Mitsubishi",
 			"model": "Pajero",
 			"color": "Yellow",
 			"year": 1993,
@@ -2121,7 +2121,7 @@
 			"available": true
 		},
 		{
-			"brand": "Volkswagen",
+			"make": "Volkswagen",
 			"model": "New Beetle",
 			"color": "Indigo",
 			"year": 2003,
@@ -2129,7 +2129,7 @@
 			"available": true
 		},
 		{
-			"brand": "Cadillac",
+			"make": "Cadillac",
 			"model": "CTS-V",
 			"color": "Turquoise",
 			"year": 2009,
@@ -2137,7 +2137,7 @@
 			"available": true
 		},
 		{
-			"brand": "Mitsubishi",
+			"make": "Mitsubishi",
 			"model": "Montero",
 			"color": "Pink",
 			"year": 1995,
@@ -2145,7 +2145,7 @@
 			"available": false
 		},
 		{
-			"brand": "Nissan",
+			"make": "Nissan",
 			"model": "Quest",
 			"color": "Turquoise",
 			"year": 1996,
@@ -2153,7 +2153,7 @@
 			"available": false
 		},
 		{
-			"brand": "Chrysler",
+			"make": "Chrysler",
 			"model": "Imperial",
 			"color": "Aquamarine",
 			"year": 1926,
@@ -2161,7 +2161,7 @@
 			"available": false
 		},
 		{
-			"brand": "BMW",
+			"make": "BMW",
 			"model": "M6",
 			"color": "Teal",
 			"year": 2006,
@@ -2169,7 +2169,7 @@
 			"available": true
 		},
 		{
-			"brand": "MINI",
+			"make": "MINI",
 			"model": "Clubman",
 			"color": "Violet",
 			"year": 2009,
@@ -2177,7 +2177,7 @@
 			"available": false
 		},
 		{
-			"brand": "Suzuki",
+			"make": "Suzuki",
 			"model": "Daewoo Lacetti",
 			"color": "Maroon",
 			"year": 2005,
@@ -2185,7 +2185,7 @@
 			"available": true
 		},
 		{
-			"brand": "Nissan",
+			"make": "Nissan",
 			"model": "350Z",
 			"color": "Blue",
 			"year": 2004,
@@ -2193,7 +2193,7 @@
 			"available": false
 		},
 		{
-			"brand": "Ford",
+			"make": "Ford",
 			"model": "Bronco",
 			"color": "Indigo",
 			"year": 1991,
@@ -2201,7 +2201,7 @@
 			"available": true
 		},
 		{
-			"brand": "Mitsubishi",
+			"make": "Mitsubishi",
 			"model": "Galant",
 			"color": "Fuscia",
 			"year": 1985,
@@ -2209,7 +2209,7 @@
 			"available": false
 		},
 		{
-			"brand": "Mazda",
+			"make": "Mazda",
 			"model": "B-Series Plus",
 			"color": "Indigo",
 			"year": 1997,
@@ -2217,7 +2217,7 @@
 			"available": false
 		},
 		{
-			"brand": "Mazda",
+			"make": "Mazda",
 			"model": "Miata MX-5",
 			"color": "Indigo",
 			"year": 2000,
@@ -2225,7 +2225,7 @@
 			"available": true
 		},
 		{
-			"brand": "Saab",
+			"make": "Saab",
 			"model": "9000",
 			"color": "Yellow",
 			"year": 1992,
@@ -2233,7 +2233,7 @@
 			"available": true
 		},
 		{
-			"brand": "Mitsubishi",
+			"make": "Mitsubishi",
 			"model": "Mirage",
 			"color": "Goldenrod",
 			"year": 1989,
@@ -2241,7 +2241,7 @@
 			"available": false
 		},
 		{
-			"brand": "Oldsmobile",
+			"make": "Oldsmobile",
 			"model": "88",
 			"color": "Violet",
 			"year": 1998,
@@ -2249,7 +2249,7 @@
 			"available": true
 		},
 		{
-			"brand": "Volkswagen",
+			"make": "Volkswagen",
 			"model": "R32",
 			"color": "Teal",
 			"year": 2008,
@@ -2257,7 +2257,7 @@
 			"available": false
 		},
 		{
-			"brand": "Mitsubishi",
+			"make": "Mitsubishi",
 			"model": "Lancer Evolution",
 			"color": "Red",
 			"year": 2011,
@@ -2265,7 +2265,7 @@
 			"available": false
 		},
 		{
-			"brand": "Hyundai",
+			"make": "Hyundai",
 			"model": "Santa Fe",
 			"color": "Red",
 			"year": 2004,
@@ -2273,7 +2273,7 @@
 			"available": true
 		},
 		{
-			"brand": "Mercury",
+			"make": "Mercury",
 			"model": "Grand Marquis",
 			"color": "Puce",
 			"year": 1997,
@@ -2281,7 +2281,7 @@
 			"available": false
 		},
 		{
-			"brand": "Buick",
+			"make": "Buick",
 			"model": "Skylark",
 			"color": "Green",
 			"year": 1997,
@@ -2289,7 +2289,7 @@
 			"available": true
 		},
 		{
-			"brand": "Mercury",
+			"make": "Mercury",
 			"model": "Grand Marquis",
 			"color": "Green",
 			"year": 1992,
@@ -2297,7 +2297,7 @@
 			"available": true
 		},
 		{
-			"brand": "Honda",
+			"make": "Honda",
 			"model": "Civic",
 			"color": "Khaki",
 			"year": 1995,
@@ -2305,7 +2305,7 @@
 			"available": true
 		},
 		{
-			"brand": "Mercury",
+			"make": "Mercury",
 			"model": "Monterey",
 			"color": "Green",
 			"year": 2006,
@@ -2313,7 +2313,7 @@
 			"available": true
 		},
 		{
-			"brand": "Porsche",
+			"make": "Porsche",
 			"model": "Boxster",
 			"color": "Maroon",
 			"year": 2005,
@@ -2321,7 +2321,7 @@
 			"available": false
 		},
 		{
-			"brand": "Mercedes-Benz",
+			"make": "Mercedes-Benz",
 			"model": "E-Class",
 			"color": "Orange",
 			"year": 1992,
@@ -2329,7 +2329,7 @@
 			"available": false
 		},
 		{
-			"brand": "Chevrolet",
+			"make": "Chevrolet",
 			"model": "Suburban",
 			"color": "Turquoise",
 			"year": 2009,
@@ -2337,7 +2337,7 @@
 			"available": false
 		},
 		{
-			"brand": "Buick",
+			"make": "Buick",
 			"model": "Somerset",
 			"color": "Turquoise",
 			"year": 1987,
@@ -2345,7 +2345,7 @@
 			"available": false
 		},
 		{
-			"brand": "Mazda",
+			"make": "Mazda",
 			"model": "Mazdaspeed6",
 			"color": "Aquamarine",
 			"year": 2007,
@@ -2353,7 +2353,7 @@
 			"available": true
 		},
 		{
-			"brand": "Dodge",
+			"make": "Dodge",
 			"model": "Ram 2500",
 			"color": "Red",
 			"year": 2007,
@@ -2361,7 +2361,7 @@
 			"available": true
 		},
 		{
-			"brand": "Infiniti",
+			"make": "Infiniti",
 			"model": "QX",
 			"color": "Mauv",
 			"year": 2007,
@@ -2369,7 +2369,7 @@
 			"available": false
 		},
 		{
-			"brand": "Mercedes-Benz",
+			"make": "Mercedes-Benz",
 			"model": "CLK-Class",
 			"color": "Maroon",
 			"year": 2005,
@@ -2377,7 +2377,7 @@
 			"available": true
 		},
 		{
-			"brand": "Oldsmobile",
+			"make": "Oldsmobile",
 			"model": "Bravada",
 			"color": "Puce",
 			"year": 1992,
@@ -2385,7 +2385,7 @@
 			"available": false
 		},
 		{
-			"brand": "Porsche",
+			"make": "Porsche",
 			"model": "968",
 			"color": "Red",
 			"year": 1994,
@@ -2393,7 +2393,7 @@
 			"available": true
 		},
 		{
-			"brand": "Audi",
+			"make": "Audi",
 			"model": "A6",
 			"color": "Puce",
 			"year": 1999,
@@ -2401,7 +2401,7 @@
 			"available": false
 		},
 		{
-			"brand": "Mercedes-Benz",
+			"make": "Mercedes-Benz",
 			"model": "W201",
 			"color": "Orange",
 			"year": 1991,
@@ -2409,7 +2409,7 @@
 			"available": true
 		},
 		{
-			"brand": "Dodge",
+			"make": "Dodge",
 			"model": "Ram 2500",
 			"color": "Turquoise",
 			"year": 2000,
@@ -2417,7 +2417,7 @@
 			"available": true
 		},
 		{
-			"brand": "Dodge",
+			"make": "Dodge",
 			"model": "Ram 1500",
 			"color": "Puce",
 			"year": 2006,
@@ -2425,7 +2425,7 @@
 			"available": false
 		},
 		{
-			"brand": "Pontiac",
+			"make": "Pontiac",
 			"model": "Grand Prix",
 			"color": "Violet",
 			"year": 2003,
@@ -2433,7 +2433,7 @@
 			"available": true
 		},
 		{
-			"brand": "Ford",
+			"make": "Ford",
 			"model": "Expedition EL",
 			"color": "Puce",
 			"year": 2011,
@@ -2441,7 +2441,7 @@
 			"available": true
 		},
 		{
-			"brand": "Ford",
+			"make": "Ford",
 			"model": "Taurus",
 			"color": "Aquamarine",
 			"year": 2012,
@@ -2449,7 +2449,7 @@
 			"available": true
 		},
 		{
-			"brand": "Mercedes-Benz",
+			"make": "Mercedes-Benz",
 			"model": "CL-Class",
 			"color": "Violet",
 			"year": 2002,
@@ -2457,7 +2457,7 @@
 			"available": false
 		},
 		{
-			"brand": "GMC",
+			"make": "GMC",
 			"model": "Envoy",
 			"color": "Puce",
 			"year": 2006,
@@ -2465,7 +2465,7 @@
 			"available": false
 		},
 		{
-			"brand": "Honda",
+			"make": "Honda",
 			"model": "Crosstour",
 			"color": "Red",
 			"year": 2012,
@@ -2473,7 +2473,7 @@
 			"available": true
 		},
 		{
-			"brand": "Porsche",
+			"make": "Porsche",
 			"model": "928",
 			"color": "Crimson",
 			"year": 1988,
@@ -2481,7 +2481,7 @@
 			"available": false
 		},
 		{
-			"brand": "Cadillac",
+			"make": "Cadillac",
 			"model": "Escalade EXT",
 			"color": "Puce",
 			"year": 2007,
@@ -2489,7 +2489,7 @@
 			"available": true
 		},
 		{
-			"brand": "Pontiac",
+			"make": "Pontiac",
 			"model": "Grand Prix",
 			"color": "Goldenrod",
 			"year": 1995,
@@ -2497,7 +2497,7 @@
 			"available": true
 		},
 		{
-			"brand": "Mazda",
+			"make": "Mazda",
 			"model": "Millenia",
 			"color": "Yellow",
 			"year": 2000,
@@ -2505,7 +2505,7 @@
 			"available": false
 		},
 		{
-			"brand": "Infiniti",
+			"make": "Infiniti",
 			"model": "G",
 			"color": "Yellow",
 			"year": 1994,
@@ -2513,7 +2513,7 @@
 			"available": false
 		},
 		{
-			"brand": "Mitsubishi",
+			"make": "Mitsubishi",
 			"model": "RVR",
 			"color": "Red",
 			"year": 1992,
@@ -2521,7 +2521,7 @@
 			"available": false
 		},
 		{
-			"brand": "Suzuki",
+			"make": "Suzuki",
 			"model": "Aerio",
 			"color": "Yellow",
 			"year": 2006,
@@ -2529,7 +2529,7 @@
 			"available": false
 		},
 		{
-			"brand": "Audi",
+			"make": "Audi",
 			"model": "Q5",
 			"color": "Maroon",
 			"year": 2012,
@@ -2537,7 +2537,7 @@
 			"available": false
 		},
 		{
-			"brand": "Mercury",
+			"make": "Mercury",
 			"model": "Lynx",
 			"color": "Khaki",
 			"year": 1987,
@@ -2545,7 +2545,7 @@
 			"available": true
 		},
 		{
-			"brand": "Audi",
+			"make": "Audi",
 			"model": "R8",
 			"color": "Purple",
 			"year": 2012,
@@ -2553,7 +2553,7 @@
 			"available": true
 		},
 		{
-			"brand": "Volkswagen",
+			"make": "Volkswagen",
 			"model": "Jetta",
 			"color": "Maroon",
 			"year": 2011,
@@ -2561,7 +2561,7 @@
 			"available": true
 		},
 		{
-			"brand": "Toyota",
+			"make": "Toyota",
 			"model": "4Runner",
 			"color": "Violet",
 			"year": 1999,
@@ -2569,7 +2569,7 @@
 			"available": true
 		},
 		{
-			"brand": "Oldsmobile",
+			"make": "Oldsmobile",
 			"model": "Regency",
 			"color": "Fuscia",
 			"year": 1998,
@@ -2577,7 +2577,7 @@
 			"available": true
 		},
 		{
-			"brand": "Mercedes-Benz",
+			"make": "Mercedes-Benz",
 			"model": "E-Class",
 			"color": "Violet",
 			"year": 2001,
@@ -2585,7 +2585,7 @@
 			"available": false
 		},
 		{
-			"brand": "Volvo",
+			"make": "Volvo",
 			"model": "C70",
 			"color": "Maroon",
 			"year": 2003,
@@ -2593,7 +2593,7 @@
 			"available": true
 		},
 		{
-			"brand": "Chevrolet",
+			"make": "Chevrolet",
 			"model": "Camaro",
 			"color": "Orange",
 			"year": 1999,
@@ -2601,7 +2601,7 @@
 			"available": false
 		},
 		{
-			"brand": "Mercury",
+			"make": "Mercury",
 			"model": "Mystique",
 			"color": "Violet",
 			"year": 1995,
@@ -2609,7 +2609,7 @@
 			"available": false
 		},
 		{
-			"brand": "Kia",
+			"make": "Kia",
 			"model": "Optima",
 			"color": "Violet",
 			"year": 2010,
@@ -2617,7 +2617,7 @@
 			"available": true
 		},
 		{
-			"brand": "Mercedes-Benz",
+			"make": "Mercedes-Benz",
 			"model": "C-Class",
 			"color": "Turquoise",
 			"year": 1996,
@@ -2625,7 +2625,7 @@
 			"available": true
 		},
 		{
-			"brand": "Volkswagen",
+			"make": "Volkswagen",
 			"model": "Passat",
 			"color": "Puce",
 			"year": 1987,
@@ -2633,7 +2633,7 @@
 			"available": true
 		},
 		{
-			"brand": "Ford",
+			"make": "Ford",
 			"model": "Crown Victoria",
 			"color": "Puce",
 			"year": 1996,
@@ -2641,7 +2641,7 @@
 			"available": false
 		},
 		{
-			"brand": "Mercedes-Benz",
+			"make": "Mercedes-Benz",
 			"model": "SL-Class",
 			"color": "Orange",
 			"year": 2004,
@@ -2649,7 +2649,7 @@
 			"available": true
 		},
 		{
-			"brand": "Volvo",
+			"make": "Volvo",
 			"model": "V70",
 			"color": "Crimson",
 			"year": 2000,
@@ -2657,7 +2657,7 @@
 			"available": true
 		},
 		{
-			"brand": "Mercedes-Benz",
+			"make": "Mercedes-Benz",
 			"model": "CL-Class",
 			"color": "Green",
 			"year": 2010,
@@ -2665,7 +2665,7 @@
 			"available": false
 		},
 		{
-			"brand": "Chevrolet",
+			"make": "Chevrolet",
 			"model": "S10",
 			"color": "Orange",
 			"year": 1999,
@@ -2673,7 +2673,7 @@
 			"available": true
 		},
 		{
-			"brand": "Dodge",
+			"make": "Dodge",
 			"model": "Ram",
 			"color": "Crimson",
 			"year": 2007,
@@ -2681,7 +2681,7 @@
 			"available": false
 		},
 		{
-			"brand": "Kia",
+			"make": "Kia",
 			"model": "Sedona",
 			"color": "Purple",
 			"year": 2006,
@@ -2689,7 +2689,7 @@
 			"available": true
 		},
 		{
-			"brand": "Acura",
+			"make": "Acura",
 			"model": "TSX",
 			"color": "Red",
 			"year": 2008,
@@ -2697,7 +2697,7 @@
 			"available": true
 		},
 		{
-			"brand": "Mazda",
+			"make": "Mazda",
 			"model": "929",
 			"color": "Yellow",
 			"year": 1993,
@@ -2705,7 +2705,7 @@
 			"available": true
 		},
 		{
-			"brand": "Scion",
+			"make": "Scion",
 			"model": "xA",
 			"color": "Aquamarine",
 			"year": 2004,
@@ -2713,7 +2713,7 @@
 			"available": false
 		},
 		{
-			"brand": "Nissan",
+			"make": "Nissan",
 			"model": "Versa",
 			"color": "Pink",
 			"year": 2011,
@@ -2721,7 +2721,7 @@
 			"available": false
 		},
 		{
-			"brand": "Suzuki",
+			"make": "Suzuki",
 			"model": "Reno",
 			"color": "Khaki",
 			"year": 2007,
@@ -2729,7 +2729,7 @@
 			"available": true
 		},
 		{
-			"brand": "Cadillac",
+			"make": "Cadillac",
 			"model": "Catera",
 			"color": "Aquamarine",
 			"year": 1998,
@@ -2737,7 +2737,7 @@
 			"available": true
 		},
 		{
-			"brand": "Lexus",
+			"make": "Lexus",
 			"model": "LX",
 			"color": "Green",
 			"year": 1997,
@@ -2745,7 +2745,7 @@
 			"available": true
 		},
 		{
-			"brand": "Chevrolet",
+			"make": "Chevrolet",
 			"model": "S10 Blazer",
 			"color": "Aquamarine",
 			"year": 1993,
@@ -2753,7 +2753,7 @@
 			"available": false
 		},
 		{
-			"brand": "Nissan",
+			"make": "Nissan",
 			"model": "Armada",
 			"color": "Maroon",
 			"year": 2008,
@@ -2761,7 +2761,7 @@
 			"available": false
 		},
 		{
-			"brand": "Lexus",
+			"make": "Lexus",
 			"model": "ES",
 			"color": "Aquamarine",
 			"year": 2008,
@@ -2769,7 +2769,7 @@
 			"available": false
 		},
 		{
-			"brand": "Ford",
+			"make": "Ford",
 			"model": "Taurus",
 			"color": "Red",
 			"year": 2010,
@@ -2777,7 +2777,7 @@
 			"available": false
 		},
 		{
-			"brand": "Toyota",
+			"make": "Toyota",
 			"model": "Corolla",
 			"color": "Purple",
 			"year": 1993,
@@ -2785,7 +2785,7 @@
 			"available": true
 		},
 		{
-			"brand": "Kia",
+			"make": "Kia",
 			"model": "Rio",
 			"color": "Aquamarine",
 			"year": 2013,
@@ -2793,7 +2793,7 @@
 			"available": false
 		},
 		{
-			"brand": "Mercedes-Benz",
+			"make": "Mercedes-Benz",
 			"model": "M-Class",
 			"color": "Crimson",
 			"year": 2006,
@@ -2801,7 +2801,7 @@
 			"available": false
 		},
 		{
-			"brand": "Audi",
+			"make": "Audi",
 			"model": "100",
 			"color": "Crimson",
 			"year": 1994,
@@ -2809,7 +2809,7 @@
 			"available": false
 		},
 		{
-			"brand": "Mitsubishi",
+			"make": "Mitsubishi",
 			"model": "Galant",
 			"color": "Mauv",
 			"year": 2001,
@@ -2817,7 +2817,7 @@
 			"available": true
 		},
 		{
-			"brand": "Audi",
+			"make": "Audi",
 			"model": "S5",
 			"color": "Blue",
 			"year": 2010,
@@ -2825,7 +2825,7 @@
 			"available": true
 		},
 		{
-			"brand": "GMC",
+			"make": "GMC",
 			"model": "Savana 1500",
 			"color": "Mauv",
 			"year": 2012,
@@ -2833,7 +2833,7 @@
 			"available": false
 		},
 		{
-			"brand": "Saab",
+			"make": "Saab",
 			"model": "9-7X",
 			"color": "Goldenrod",
 			"year": 2006,
@@ -2841,7 +2841,7 @@
 			"available": true
 		},
 		{
-			"brand": "Chevrolet",
+			"make": "Chevrolet",
 			"model": "Tahoe",
 			"color": "Pink",
 			"year": 2013,
@@ -2849,7 +2849,7 @@
 			"available": true
 		},
 		{
-			"brand": "Chevrolet",
+			"make": "Chevrolet",
 			"model": "Lumina",
 			"color": "Green",
 			"year": 1998,
@@ -2857,7 +2857,7 @@
 			"available": false
 		},
 		{
-			"brand": "Land Rover",
+			"make": "Land Rover",
 			"model": "Discovery",
 			"color": "Turquoise",
 			"year": 2005,
@@ -2865,7 +2865,7 @@
 			"available": true
 		},
 		{
-			"brand": "Ford",
+			"make": "Ford",
 			"model": "Laser",
 			"color": "Yellow",
 			"year": 1987,
@@ -2873,7 +2873,7 @@
 			"available": true
 		},
 		{
-			"brand": "Land Rover",
+			"make": "Land Rover",
 			"model": "Discovery",
 			"color": "Orange",
 			"year": 2011,
@@ -2881,7 +2881,7 @@
 			"available": true
 		},
 		{
-			"brand": "Ford",
+			"make": "Ford",
 			"model": "Escape",
 			"color": "Indigo",
 			"year": 2001,
@@ -2889,7 +2889,7 @@
 			"available": false
 		},
 		{
-			"brand": "Dodge",
+			"make": "Dodge",
 			"model": "Neon",
 			"color": "Pink",
 			"year": 2001,
@@ -2897,7 +2897,7 @@
 			"available": false
 		},
 		{
-			"brand": "Mercedes-Benz",
+			"make": "Mercedes-Benz",
 			"model": "S-Class",
 			"color": "Puce",
 			"year": 2006,
@@ -2905,7 +2905,7 @@
 			"available": true
 		},
 		{
-			"brand": "Ford",
+			"make": "Ford",
 			"model": "Flex",
 			"color": "Turquoise",
 			"year": 2013,
@@ -2913,7 +2913,7 @@
 			"available": true
 		},
 		{
-			"brand": "Toyota",
+			"make": "Toyota",
 			"model": "RAV4",
 			"color": "Crimson",
 			"year": 2012,
@@ -2921,7 +2921,7 @@
 			"available": false
 		},
 		{
-			"brand": "Audi",
+			"make": "Audi",
 			"model": "A6",
 			"color": "Orange",
 			"year": 2005,
@@ -2929,7 +2929,7 @@
 			"available": false
 		},
 		{
-			"brand": "Lexus",
+			"make": "Lexus",
 			"model": "LS Hybrid",
 			"color": "Violet",
 			"year": 2012,
@@ -2937,7 +2937,7 @@
 			"available": false
 		},
 		{
-			"brand": "Chrysler",
+			"make": "Chrysler",
 			"model": "Town & Country",
 			"color": "Crimson",
 			"year": 2002,
@@ -2945,7 +2945,7 @@
 			"available": false
 		},
 		{
-			"brand": "Ford",
+			"make": "Ford",
 			"model": "Mustang",
 			"color": "Turquoise",
 			"year": 2003,
@@ -2953,7 +2953,7 @@
 			"available": true
 		},
 		{
-			"brand": "Chevrolet",
+			"make": "Chevrolet",
 			"model": "Corvette",
 			"color": "Purple",
 			"year": 1957,
@@ -2961,7 +2961,7 @@
 			"available": true
 		},
 		{
-			"brand": "Dodge",
+			"make": "Dodge",
 			"model": "Avenger",
 			"color": "Indigo",
 			"year": 1998,
@@ -2969,7 +2969,7 @@
 			"available": true
 		},
 		{
-			"brand": "Ford",
+			"make": "Ford",
 			"model": "E-Series",
 			"color": "Goldenrod",
 			"year": 1994,
@@ -2977,7 +2977,7 @@
 			"available": false
 		},
 		{
-			"brand": "Lincoln",
+			"make": "Lincoln",
 			"model": "Mark LT",
 			"color": "Aquamarine",
 			"year": 2008,
@@ -2985,7 +2985,7 @@
 			"available": false
 		},
 		{
-			"brand": "Maserati",
+			"make": "Maserati",
 			"model": "Gran Sport",
 			"color": "Crimson",
 			"year": 2005,
@@ -2993,7 +2993,7 @@
 			"available": false
 		},
 		{
-			"brand": "Lincoln",
+			"make": "Lincoln",
 			"model": "Navigator",
 			"color": "Pink",
 			"year": 2012,
@@ -3001,7 +3001,7 @@
 			"available": false
 		},
 		{
-			"brand": "Chevrolet",
+			"make": "Chevrolet",
 			"model": "Express 3500",
 			"color": "Mauv",
 			"year": 1996,
@@ -3009,7 +3009,7 @@
 			"available": false
 		},
 		{
-			"brand": "Buick",
+			"make": "Buick",
 			"model": "Rendezvous",
 			"color": "Violet",
 			"year": 2004,
@@ -3017,7 +3017,7 @@
 			"available": true
 		},
 		{
-			"brand": "Smart",
+			"make": "Smart",
 			"model": "Fortwo",
 			"color": "Pink",
 			"year": 2011,
@@ -3025,7 +3025,7 @@
 			"available": true
 		},
 		{
-			"brand": "Nissan",
+			"make": "Nissan",
 			"model": "Titan",
 			"color": "Crimson",
 			"year": 2011,
@@ -3033,7 +3033,7 @@
 			"available": false
 		},
 		{
-			"brand": "Hyundai",
+			"make": "Hyundai",
 			"model": "Sonata",
 			"color": "Green",
 			"year": 1995,
@@ -3041,7 +3041,7 @@
 			"available": false
 		},
 		{
-			"brand": "Lotus",
+			"make": "Lotus",
 			"model": "Evora",
 			"color": "Green",
 			"year": 2011,
@@ -3049,7 +3049,7 @@
 			"available": false
 		},
 		{
-			"brand": "BMW",
+			"make": "BMW",
 			"model": "5 Series",
 			"color": "Goldenrod",
 			"year": 2001,
@@ -3057,7 +3057,7 @@
 			"available": true
 		},
 		{
-			"brand": "Ford",
+			"make": "Ford",
 			"model": "Escort",
 			"color": "Pink",
 			"year": 1984,
@@ -3065,7 +3065,7 @@
 			"available": true
 		},
 		{
-			"brand": "Daewoo",
+			"make": "Daewoo",
 			"model": "Leganza",
 			"color": "Blue",
 			"year": 2000,
@@ -3073,7 +3073,7 @@
 			"available": true
 		},
 		{
-			"brand": "Volkswagen",
+			"make": "Volkswagen",
 			"model": "Jetta",
 			"color": "Red",
 			"year": 1986,
@@ -3081,7 +3081,7 @@
 			"available": false
 		},
 		{
-			"brand": "Subaru",
+			"make": "Subaru",
 			"model": "Impreza",
 			"color": "Khaki",
 			"year": 1993,
@@ -3089,7 +3089,7 @@
 			"available": false
 		},
 		{
-			"brand": "Porsche",
+			"make": "Porsche",
 			"model": "Carrera GT",
 			"color": "Orange",
 			"year": 2004,
@@ -3097,7 +3097,7 @@
 			"available": true
 		},
 		{
-			"brand": "Lotus",
+			"make": "Lotus",
 			"model": "Esprit",
 			"color": "Crimson",
 			"year": 1990,
@@ -3105,7 +3105,7 @@
 			"available": true
 		},
 		{
-			"brand": "Volkswagen",
+			"make": "Volkswagen",
 			"model": "Jetta",
 			"color": "Khaki",
 			"year": 2012,
@@ -3113,7 +3113,7 @@
 			"available": false
 		},
 		{
-			"brand": "Chevrolet",
+			"make": "Chevrolet",
 			"model": "Caprice Classic",
 			"color": "Khaki",
 			"year": 1993,
@@ -3121,7 +3121,7 @@
 			"available": true
 		},
 		{
-			"brand": "MINI",
+			"make": "MINI",
 			"model": "Cooper Clubman",
 			"color": "Maroon",
 			"year": 2011,
@@ -3129,7 +3129,7 @@
 			"available": true
 		},
 		{
-			"brand": "Chevrolet",
+			"make": "Chevrolet",
 			"model": "Suburban 1500",
 			"color": "Turquoise",
 			"year": 2006,
@@ -3137,7 +3137,7 @@
 			"available": false
 		},
 		{
-			"brand": "Suzuki",
+			"make": "Suzuki",
 			"model": "SJ",
 			"color": "Fuscia",
 			"year": 1993,
@@ -3145,7 +3145,7 @@
 			"available": false
 		},
 		{
-			"brand": "Oldsmobile",
+			"make": "Oldsmobile",
 			"model": "Bravada",
 			"color": "Aquamarine",
 			"year": 1999,
@@ -3153,7 +3153,7 @@
 			"available": false
 		},
 		{
-			"brand": "Audi",
+			"make": "Audi",
 			"model": "A4",
 			"color": "Turquoise",
 			"year": 2005,
@@ -3161,7 +3161,7 @@
 			"available": true
 		},
 		{
-			"brand": "Hyundai",
+			"make": "Hyundai",
 			"model": "Accent",
 			"color": "Pink",
 			"year": 2009,
@@ -3169,7 +3169,7 @@
 			"available": true
 		},
 		{
-			"brand": "Mercedes-Benz",
+			"make": "Mercedes-Benz",
 			"model": "R-Class",
 			"color": "Violet",
 			"year": 2008,
@@ -3177,7 +3177,7 @@
 			"available": true
 		},
 		{
-			"brand": "Land Rover",
+			"make": "Land Rover",
 			"model": "Discovery",
 			"color": "Khaki",
 			"year": 1997,
@@ -3185,7 +3185,7 @@
 			"available": false
 		},
 		{
-			"brand": "Lincoln",
+			"make": "Lincoln",
 			"model": "Navigator",
 			"color": "Orange",
 			"year": 2012,
@@ -3193,7 +3193,7 @@
 			"available": false
 		},
 		{
-			"brand": "Alfa Romeo",
+			"make": "Alfa Romeo",
 			"model": "164",
 			"color": "Aquamarine",
 			"year": 1993,
@@ -3201,7 +3201,7 @@
 			"available": false
 		},
 		{
-			"brand": "Chrysler",
+			"make": "Chrysler",
 			"model": "Town & Country",
 			"color": "Turquoise",
 			"year": 2001,
@@ -3209,7 +3209,7 @@
 			"available": false
 		},
 		{
-			"brand": "Dodge",
+			"make": "Dodge",
 			"model": "Caravan",
 			"color": "Blue",
 			"year": 2011,
@@ -3217,7 +3217,7 @@
 			"available": true
 		},
 		{
-			"brand": "Mercury",
+			"make": "Mercury",
 			"model": "Mountaineer",
 			"color": "Khaki",
 			"year": 2002,
@@ -3225,7 +3225,7 @@
 			"available": true
 		},
 		{
-			"brand": "Mitsubishi",
+			"make": "Mitsubishi",
 			"model": "Raider",
 			"color": "Pink",
 			"year": 2006,
@@ -3233,7 +3233,7 @@
 			"available": false
 		},
 		{
-			"brand": "Toyota",
+			"make": "Toyota",
 			"model": "FJ Cruiser",
 			"color": "Puce",
 			"year": 2011,
@@ -3241,7 +3241,7 @@
 			"available": true
 		},
 		{
-			"brand": "Mazda",
+			"make": "Mazda",
 			"model": "RX-8",
 			"color": "Khaki",
 			"year": 2008,
@@ -3249,7 +3249,7 @@
 			"available": true
 		},
 		{
-			"brand": "Hummer",
+			"make": "Hummer",
 			"model": "H2",
 			"color": "Khaki",
 			"year": 2003,
@@ -3257,7 +3257,7 @@
 			"available": false
 		},
 		{
-			"brand": "Chevrolet",
+			"make": "Chevrolet",
 			"model": "Cavalier",
 			"color": "Purple",
 			"year": 1998,
@@ -3265,7 +3265,7 @@
 			"available": false
 		},
 		{
-			"brand": "Ford",
+			"make": "Ford",
 			"model": "Thunderbird",
 			"color": "Khaki",
 			"year": 2004,
@@ -3273,7 +3273,7 @@
 			"available": true
 		},
 		{
-			"brand": "BMW",
+			"make": "BMW",
 			"model": "6 Series",
 			"color": "Goldenrod",
 			"year": 2008,
@@ -3281,7 +3281,7 @@
 			"available": true
 		},
 		{
-			"brand": "Acura",
+			"make": "Acura",
 			"model": "Legend",
 			"color": "Teal",
 			"year": 1995,
@@ -3289,7 +3289,7 @@
 			"available": true
 		},
 		{
-			"brand": "Nissan",
+			"make": "Nissan",
 			"model": "GT-R",
 			"color": "Fuscia",
 			"year": 2011,
@@ -3297,7 +3297,7 @@
 			"available": false
 		},
 		{
-			"brand": "Infiniti",
+			"make": "Infiniti",
 			"model": "G37",
 			"color": "Puce",
 			"year": 2009,
@@ -3305,7 +3305,7 @@
 			"available": false
 		},
 		{
-			"brand": "Chevrolet",
+			"make": "Chevrolet",
 			"model": "Camaro",
 			"color": "Aquamarine",
 			"year": 1996,
@@ -3313,7 +3313,7 @@
 			"available": true
 		},
 		{
-			"brand": "Toyota",
+			"make": "Toyota",
 			"model": "Camry",
 			"color": "Indigo",
 			"year": 2005,
@@ -3321,7 +3321,7 @@
 			"available": true
 		},
 		{
-			"brand": "Honda",
+			"make": "Honda",
 			"model": "CR-V",
 			"color": "Orange",
 			"year": 2005,
@@ -3329,7 +3329,7 @@
 			"available": false
 		},
 		{
-			"brand": "Pontiac",
+			"make": "Pontiac",
 			"model": "Sunfire",
 			"color": "Red",
 			"year": 2004,
@@ -3337,7 +3337,7 @@
 			"available": true
 		},
 		{
-			"brand": "Pontiac",
+			"make": "Pontiac",
 			"model": "Firefly",
 			"color": "Mauv",
 			"year": 1989,
@@ -3345,7 +3345,7 @@
 			"available": true
 		},
 		{
-			"brand": "Mercury",
+			"make": "Mercury",
 			"model": "Grand Marquis",
 			"color": "Orange",
 			"year": 1999,
@@ -3353,7 +3353,7 @@
 			"available": true
 		},
 		{
-			"brand": "Mazda",
+			"make": "Mazda",
 			"model": "Mazda6",
 			"color": "Puce",
 			"year": 2005,
@@ -3361,7 +3361,7 @@
 			"available": false
 		},
 		{
-			"brand": "Plymouth",
+			"make": "Plymouth",
 			"model": "Voyager",
 			"color": "Yellow",
 			"year": 2000,
@@ -3369,7 +3369,7 @@
 			"available": true
 		},
 		{
-			"brand": "Dodge",
+			"make": "Dodge",
 			"model": "Ram 2500",
 			"color": "Mauv",
 			"year": 2003,
@@ -3377,7 +3377,7 @@
 			"available": false
 		},
 		{
-			"brand": "Mazda",
+			"make": "Mazda",
 			"model": "RX-7",
 			"color": "Orange",
 			"year": 1984,
@@ -3385,7 +3385,7 @@
 			"available": true
 		},
 		{
-			"brand": "Buick",
+			"make": "Buick",
 			"model": "Coachbuilder",
 			"color": "Red",
 			"year": 1994,
@@ -3393,7 +3393,7 @@
 			"available": false
 		},
 		{
-			"brand": "BMW",
+			"make": "BMW",
 			"model": "Z4",
 			"color": "Khaki",
 			"year": 2008,
@@ -3401,7 +3401,7 @@
 			"available": false
 		},
 		{
-			"brand": "Audi",
+			"make": "Audi",
 			"model": "Cabriolet",
 			"color": "Puce",
 			"year": 1998,
@@ -3409,7 +3409,7 @@
 			"available": true
 		},
 		{
-			"brand": "Jeep",
+			"make": "Jeep",
 			"model": "Compass",
 			"color": "Orange",
 			"year": 2007,
@@ -3417,7 +3417,7 @@
 			"available": false
 		},
 		{
-			"brand": "Chevrolet",
+			"make": "Chevrolet",
 			"model": "Lumina",
 			"color": "Crimson",
 			"year": 1996,
@@ -3425,7 +3425,7 @@
 			"available": true
 		},
 		{
-			"brand": "Nissan",
+			"make": "Nissan",
 			"model": "Xterra",
 			"color": "Blue",
 			"year": 2012,
@@ -3433,7 +3433,7 @@
 			"available": true
 		},
 		{
-			"brand": "Honda",
+			"make": "Honda",
 			"model": "Pilot",
 			"color": "Fuscia",
 			"year": 2002,
@@ -3441,7 +3441,7 @@
 			"available": false
 		},
 		{
-			"brand": "Dodge",
+			"make": "Dodge",
 			"model": "Ram 3500",
 			"color": "Yellow",
 			"year": 2004,
@@ -3449,7 +3449,7 @@
 			"available": false
 		},
 		{
-			"brand": "Lexus",
+			"make": "Lexus",
 			"model": "LS",
 			"color": "Aquamarine",
 			"year": 1995,
@@ -3457,7 +3457,7 @@
 			"available": false
 		},
 		{
-			"brand": "Ford",
+			"make": "Ford",
 			"model": "F-Series",
 			"color": "Puce",
 			"year": 2009,
@@ -3465,7 +3465,7 @@
 			"available": false
 		},
 		{
-			"brand": "Infiniti",
+			"make": "Infiniti",
 			"model": "G",
 			"color": "Aquamarine",
 			"year": 2011,
@@ -3473,7 +3473,7 @@
 			"available": false
 		},
 		{
-			"brand": "Volvo",
+			"make": "Volvo",
 			"model": "S40",
 			"color": "Pink",
 			"year": 2011,
@@ -3481,7 +3481,7 @@
 			"available": false
 		},
 		{
-			"brand": "Lexus",
+			"make": "Lexus",
 			"model": "GS",
 			"color": "Red",
 			"year": 2003,
@@ -3489,7 +3489,7 @@
 			"available": true
 		},
 		{
-			"brand": "Dodge",
+			"make": "Dodge",
 			"model": "Ram Van 2500",
 			"color": "Crimson",
 			"year": 2002,
@@ -3497,7 +3497,7 @@
 			"available": true
 		},
 		{
-			"brand": "Nissan",
+			"make": "Nissan",
 			"model": "Pathfinder",
 			"color": "Khaki",
 			"year": 2006,
@@ -3505,7 +3505,7 @@
 			"available": false
 		},
 		{
-			"brand": "Audi",
+			"make": "Audi",
 			"model": "100",
 			"color": "Orange",
 			"year": 1994,
@@ -3513,7 +3513,7 @@
 			"available": false
 		},
 		{
-			"brand": "Porsche",
+			"make": "Porsche",
 			"model": "968",
 			"color": "Mauv",
 			"year": 1993,
@@ -3521,7 +3521,7 @@
 			"available": false
 		},
 		{
-			"brand": "Ford",
+			"make": "Ford",
 			"model": "Courier",
 			"color": "Violet",
 			"year": 1989,
@@ -3529,7 +3529,7 @@
 			"available": true
 		},
 		{
-			"brand": "BMW",
+			"make": "BMW",
 			"model": "5 Series",
 			"color": "Crimson",
 			"year": 2005,
@@ -3537,7 +3537,7 @@
 			"available": false
 		},
 		{
-			"brand": "Hyundai",
+			"make": "Hyundai",
 			"model": "Santa Fe",
 			"color": "Green",
 			"year": 2010,
@@ -3545,7 +3545,7 @@
 			"available": false
 		},
 		{
-			"brand": "Pontiac",
+			"make": "Pontiac",
 			"model": "Grand Prix",
 			"color": "Puce",
 			"year": 2006,
@@ -3553,7 +3553,7 @@
 			"available": false
 		},
 		{
-			"brand": "Mercedes-Benz",
+			"make": "Mercedes-Benz",
 			"model": "500E",
 			"color": "Yellow",
 			"year": 1992,
@@ -3561,7 +3561,7 @@
 			"available": true
 		},
 		{
-			"brand": "Toyota",
+			"make": "Toyota",
 			"model": "Paseo",
 			"color": "Crimson",
 			"year": 1992,
@@ -3569,7 +3569,7 @@
 			"available": false
 		},
 		{
-			"brand": "GMC",
+			"make": "GMC",
 			"model": "2500",
 			"color": "Purple",
 			"year": 1999,
@@ -3577,7 +3577,7 @@
 			"available": true
 		},
 		{
-			"brand": "Toyota",
+			"make": "Toyota",
 			"model": "T100",
 			"color": "Indigo",
 			"year": 1995,
@@ -3585,7 +3585,7 @@
 			"available": true
 		},
 		{
-			"brand": "BMW",
+			"make": "BMW",
 			"model": "3 Series",
 			"color": "Crimson",
 			"year": 2003,
@@ -3593,7 +3593,7 @@
 			"available": true
 		},
 		{
-			"brand": "Toyota",
+			"make": "Toyota",
 			"model": "Echo",
 			"color": "Goldenrod",
 			"year": 2001,
@@ -3601,7 +3601,7 @@
 			"available": true
 		},
 		{
-			"brand": "Chevrolet",
+			"make": "Chevrolet",
 			"model": "Astro",
 			"color": "Teal",
 			"year": 2000,
@@ -3609,7 +3609,7 @@
 			"available": true
 		},
 		{
-			"brand": "Subaru",
+			"make": "Subaru",
 			"model": "Alcyone SVX",
 			"color": "Puce",
 			"year": 1997,
@@ -3617,7 +3617,7 @@
 			"available": true
 		},
 		{
-			"brand": "Lexus",
+			"make": "Lexus",
 			"model": "GS",
 			"color": "Fuscia",
 			"year": 2004,
@@ -3625,7 +3625,7 @@
 			"available": false
 		},
 		{
-			"brand": "Chevrolet",
+			"make": "Chevrolet",
 			"model": "Silverado 3500",
 			"color": "Pink",
 			"year": 2007,
@@ -3633,7 +3633,7 @@
 			"available": false
 		},
 		{
-			"brand": "Mercedes-Benz",
+			"make": "Mercedes-Benz",
 			"model": "S-Class",
 			"color": "Puce",
 			"year": 2006,
@@ -3641,7 +3641,7 @@
 			"available": false
 		},
 		{
-			"brand": "Land Rover",
+			"make": "Land Rover",
 			"model": "Range Rover",
 			"color": "Red",
 			"year": 1999,
@@ -3649,7 +3649,7 @@
 			"available": false
 		},
 		{
-			"brand": "Acura",
+			"make": "Acura",
 			"model": "CL",
 			"color": "Yellow",
 			"year": 2002,
@@ -3657,7 +3657,7 @@
 			"available": false
 		},
 		{
-			"brand": "Buick",
+			"make": "Buick",
 			"model": "Roadmaster",
 			"color": "Indigo",
 			"year": 1996,
@@ -3665,7 +3665,7 @@
 			"available": false
 		},
 		{
-			"brand": "Mercedes-Benz",
+			"make": "Mercedes-Benz",
 			"model": "W201",
 			"color": "Teal",
 			"year": 1987,
@@ -3673,7 +3673,7 @@
 			"available": false
 		},
 		{
-			"brand": "Oldsmobile",
+			"make": "Oldsmobile",
 			"model": "Aurora",
 			"color": "Red",
 			"year": 1999,
@@ -3681,7 +3681,7 @@
 			"available": true
 		},
 		{
-			"brand": "Ford",
+			"make": "Ford",
 			"model": "Ranger",
 			"color": "Purple",
 			"year": 1998,
@@ -3689,7 +3689,7 @@
 			"available": false
 		},
 		{
-			"brand": "Pontiac",
+			"make": "Pontiac",
 			"model": "G3",
 			"color": "Orange",
 			"year": 2009,
@@ -3697,7 +3697,7 @@
 			"available": false
 		},
 		{
-			"brand": "Acura",
+			"make": "Acura",
 			"model": "MDX",
 			"color": "Mauv",
 			"year": 2001,
@@ -3705,7 +3705,7 @@
 			"available": true
 		},
 		{
-			"brand": "Kia",
+			"make": "Kia",
 			"model": "Optima",
 			"color": "Khaki",
 			"year": 2012,
@@ -3713,7 +3713,7 @@
 			"available": false
 		},
 		{
-			"brand": "Mercury",
+			"make": "Mercury",
 			"model": "Cougar",
 			"color": "Red",
 			"year": 1995,
@@ -3721,7 +3721,7 @@
 			"available": true
 		},
 		{
-			"brand": "Honda",
+			"make": "Honda",
 			"model": "Civic",
 			"color": "Aquamarine",
 			"year": 1994,
@@ -3729,7 +3729,7 @@
 			"available": false
 		},
 		{
-			"brand": "Lexus",
+			"make": "Lexus",
 			"model": "CT",
 			"color": "Blue",
 			"year": 2011,
@@ -3737,7 +3737,7 @@
 			"available": true
 		},
 		{
-			"brand": "Chevrolet",
+			"make": "Chevrolet",
 			"model": "G-Series G30",
 			"color": "Violet",
 			"year": 1995,
@@ -3745,7 +3745,7 @@
 			"available": false
 		},
 		{
-			"brand": "Infiniti",
+			"make": "Infiniti",
 			"model": "FX",
 			"color": "Turquoise",
 			"year": 2005,
@@ -3753,7 +3753,7 @@
 			"available": false
 		},
 		{
-			"brand": "Dodge",
+			"make": "Dodge",
 			"model": "Avenger",
 			"color": "Goldenrod",
 			"year": 2009,
@@ -3761,7 +3761,7 @@
 			"available": true
 		},
 		{
-			"brand": "Volvo",
+			"make": "Volvo",
 			"model": "XC60",
 			"color": "Red",
 			"year": 2009,
@@ -3769,7 +3769,7 @@
 			"available": true
 		},
 		{
-			"brand": "Mercury",
+			"make": "Mercury",
 			"model": "Mountaineer",
 			"color": "Violet",
 			"year": 2002,
@@ -3777,7 +3777,7 @@
 			"available": true
 		},
 		{
-			"brand": "Dodge",
+			"make": "Dodge",
 			"model": "Ram 3500",
 			"color": "Orange",
 			"year": 1994,
@@ -3785,7 +3785,7 @@
 			"available": false
 		},
 		{
-			"brand": "GMC",
+			"make": "GMC",
 			"model": "Savana 3500",
 			"color": "Goldenrod",
 			"year": 1996,
@@ -3793,7 +3793,7 @@
 			"available": false
 		},
 		{
-			"brand": "Scion",
+			"make": "Scion",
 			"model": "xD",
 			"color": "Indigo",
 			"year": 2012,
@@ -3801,7 +3801,7 @@
 			"available": false
 		},
 		{
-			"brand": "Pontiac",
+			"make": "Pontiac",
 			"model": "G8",
 			"color": "Purple",
 			"year": 2008,
@@ -3809,7 +3809,7 @@
 			"available": false
 		},
 		{
-			"brand": "Volkswagen",
+			"make": "Volkswagen",
 			"model": "rio",
 			"color": "Blue",
 			"year": 1999,
@@ -3817,7 +3817,7 @@
 			"available": false
 		},
 		{
-			"brand": "Geo",
+			"make": "Geo",
 			"model": "Storm",
 			"color": "Teal",
 			"year": 1992,
@@ -3825,7 +3825,7 @@
 			"available": false
 		},
 		{
-			"brand": "Honda",
+			"make": "Honda",
 			"model": "CR-Z",
 			"color": "Khaki",
 			"year": 2011,
@@ -3833,7 +3833,7 @@
 			"available": false
 		},
 		{
-			"brand": "Dodge",
+			"make": "Dodge",
 			"model": "Durango",
 			"color": "Indigo",
 			"year": 2008,
@@ -3841,7 +3841,7 @@
 			"available": false
 		},
 		{
-			"brand": "Suzuki",
+			"make": "Suzuki",
 			"model": "Swift",
 			"color": "Purple",
 			"year": 1990,
@@ -3849,7 +3849,7 @@
 			"available": false
 		},
 		{
-			"brand": "Alfa Romeo",
+			"make": "Alfa Romeo",
 			"model": "Spider",
 			"color": "Teal",
 			"year": 1994,
@@ -3857,7 +3857,7 @@
 			"available": true
 		},
 		{
-			"brand": "Pontiac",
+			"make": "Pontiac",
 			"model": "Grand Am",
 			"color": "Khaki",
 			"year": 1990,
@@ -3865,7 +3865,7 @@
 			"available": false
 		},
 		{
-			"brand": "Volkswagen",
+			"make": "Volkswagen",
 			"model": "Jetta",
 			"color": "Goldenrod",
 			"year": 1994,
@@ -3873,7 +3873,7 @@
 			"available": false
 		},
 		{
-			"brand": "Subaru",
+			"make": "Subaru",
 			"model": "Impreza",
 			"color": "Red",
 			"year": 1995,
@@ -3881,7 +3881,7 @@
 			"available": false
 		},
 		{
-			"brand": "Hyundai",
+			"make": "Hyundai",
 			"model": "Elantra",
 			"color": "Turquoise",
 			"year": 2012,
@@ -3889,7 +3889,7 @@
 			"available": true
 		},
 		{
-			"brand": "Saab",
+			"make": "Saab",
 			"model": "900",
 			"color": "Yellow",
 			"year": 1990,
@@ -3897,7 +3897,7 @@
 			"available": false
 		},
 		{
-			"brand": "Chevrolet",
+			"make": "Chevrolet",
 			"model": "Silverado 3500",
 			"color": "Pink",
 			"year": 2011,
@@ -3905,7 +3905,7 @@
 			"available": true
 		},
 		{
-			"brand": "Ford",
+			"make": "Ford",
 			"model": "Mustang",
 			"color": "Indigo",
 			"year": 2010,
@@ -3913,7 +3913,7 @@
 			"available": false
 		},
 		{
-			"brand": "Volkswagen",
+			"make": "Volkswagen",
 			"model": "R32",
 			"color": "Goldenrod",
 			"year": 2009,
@@ -3921,7 +3921,7 @@
 			"available": false
 		},
 		{
-			"brand": "Infiniti",
+			"make": "Infiniti",
 			"model": "FX",
 			"color": "Fuscia",
 			"year": 2005,
@@ -3929,7 +3929,7 @@
 			"available": true
 		},
 		{
-			"brand": "Dodge",
+			"make": "Dodge",
 			"model": "Charger",
 			"color": "Fuscia",
 			"year": 2007,
@@ -3937,7 +3937,7 @@
 			"available": false
 		},
 		{
-			"brand": "Pontiac",
+			"make": "Pontiac",
 			"model": "Grand Prix",
 			"color": "Puce",
 			"year": 1980,
@@ -3945,7 +3945,7 @@
 			"available": false
 		},
 		{
-			"brand": "Infiniti",
+			"make": "Infiniti",
 			"model": "QX",
 			"color": "Orange",
 			"year": 2001,
@@ -3953,7 +3953,7 @@
 			"available": true
 		},
 		{
-			"brand": "Cadillac",
+			"make": "Cadillac",
 			"model": "Fleetwood",
 			"color": "Indigo",
 			"year": 1996,
@@ -3961,7 +3961,7 @@
 			"available": false
 		},
 		{
-			"brand": "Ford",
+			"make": "Ford",
 			"model": "Taurus",
 			"color": "Crimson",
 			"year": 1996,
@@ -3969,7 +3969,7 @@
 			"available": false
 		},
 		{
-			"brand": "Volkswagen",
+			"make": "Volkswagen",
 			"model": "Cabriolet",
 			"color": "Turquoise",
 			"year": 1999,
@@ -3977,7 +3977,7 @@
 			"available": true
 		},
 		{
-			"brand": "Audi",
+			"make": "Audi",
 			"model": "TT",
 			"color": "Aquamarine",
 			"year": 2006,
@@ -3985,7 +3985,7 @@
 			"available": false
 		},
 		{
-			"brand": "BMW",
+			"make": "BMW",
 			"model": "530",
 			"color": "Purple",
 			"year": 2002,
@@ -3993,7 +3993,7 @@
 			"available": true
 		},
 		{
-			"brand": "Lamborghini",
+			"make": "Lamborghini",
 			"model": "Gallardo",
 			"color": "Indigo",
 			"year": 2006,
@@ -4001,7 +4001,7 @@
 			"available": false
 		},
 		{
-			"brand": "Audi",
+			"make": "Audi",
 			"model": "Q5",
 			"color": "Fuscia",
 			"year": 2009,
@@ -4009,7 +4009,7 @@
 			"available": false
 		},
 		{
-			"brand": "Chevrolet",
+			"make": "Chevrolet",
 			"model": "Corvette",
 			"color": "Yellow",
 			"year": 1969,
@@ -4017,7 +4017,7 @@
 			"available": true
 		},
 		{
-			"brand": "Buick",
+			"make": "Buick",
 			"model": "Electra",
 			"color": "Violet",
 			"year": 1988,
@@ -4025,7 +4025,7 @@
 			"available": true
 		},
 		{
-			"brand": "Nissan",
+			"make": "Nissan",
 			"model": "Sentra",
 			"color": "Fuscia",
 			"year": 1993,
@@ -4033,7 +4033,7 @@
 			"available": false
 		},
 		{
-			"brand": "Volvo",
+			"make": "Volvo",
 			"model": "C70",
 			"color": "Aquamarine",
 			"year": 1999,
@@ -4041,7 +4041,7 @@
 			"available": false
 		},
 		{
-			"brand": "Dodge",
+			"make": "Dodge",
 			"model": "Ram Van 1500",
 			"color": "Mauv",
 			"year": 1995,
@@ -4049,7 +4049,7 @@
 			"available": true
 		},
 		{
-			"brand": "Pontiac",
+			"make": "Pontiac",
 			"model": "Bonneville",
 			"color": "Turquoise",
 			"year": 1992,
@@ -4057,7 +4057,7 @@
 			"available": false
 		},
 		{
-			"brand": "Honda",
+			"make": "Honda",
 			"model": "Accord",
 			"color": "Goldenrod",
 			"year": 1995,
@@ -4065,7 +4065,7 @@
 			"available": false
 		},
 		{
-			"brand": "Mazda",
+			"make": "Mazda",
 			"model": "B-Series Plus",
 			"color": "Pink",
 			"year": 1997,
@@ -4073,7 +4073,7 @@
 			"available": false
 		},
 		{
-			"brand": "GMC",
+			"make": "GMC",
 			"model": "Sierra 3500",
 			"color": "Goldenrod",
 			"year": 2003,
@@ -4081,7 +4081,7 @@
 			"available": false
 		},
 		{
-			"brand": "Geo",
+			"make": "Geo",
 			"model": "Metro",
 			"color": "Indigo",
 			"year": 1993,
@@ -4089,7 +4089,7 @@
 			"available": true
 		},
 		{
-			"brand": "Mercury",
+			"make": "Mercury",
 			"model": "Villager",
 			"color": "Red",
 			"year": 1999,
@@ -4097,7 +4097,7 @@
 			"available": true
 		},
 		{
-			"brand": "Ford",
+			"make": "Ford",
 			"model": "E350",
 			"color": "Khaki",
 			"year": 2011,
@@ -4105,7 +4105,7 @@
 			"available": false
 		},
 		{
-			"brand": "Cadillac",
+			"make": "Cadillac",
 			"model": "Eldorado",
 			"color": "Violet",
 			"year": 1996,
@@ -4113,7 +4113,7 @@
 			"available": true
 		},
 		{
-			"brand": "Ford",
+			"make": "Ford",
 			"model": "Escort",
 			"color": "Turquoise",
 			"year": 2002,
@@ -4121,7 +4121,7 @@
 			"available": false
 		},
 		{
-			"brand": "Lexus",
+			"make": "Lexus",
 			"model": "LS",
 			"color": "Goldenrod",
 			"year": 2002,
@@ -4129,7 +4129,7 @@
 			"available": true
 		},
 		{
-			"brand": "Jeep",
+			"make": "Jeep",
 			"model": "Patriot",
 			"color": "Red",
 			"year": 2012,
@@ -4137,7 +4137,7 @@
 			"available": false
 		},
 		{
-			"brand": "Lexus",
+			"make": "Lexus",
 			"model": "HS",
 			"color": "Turquoise",
 			"year": 2010,
@@ -4145,7 +4145,7 @@
 			"available": false
 		},
 		{
-			"brand": "Mercedes-Benz",
+			"make": "Mercedes-Benz",
 			"model": "SLS AMG",
 			"color": "Maroon",
 			"year": 2012,
@@ -4153,7 +4153,7 @@
 			"available": false
 		},
 		{
-			"brand": "Aston Martin",
+			"make": "Aston Martin",
 			"model": "DB9",
 			"color": "Crimson",
 			"year": 2007,
@@ -4161,7 +4161,7 @@
 			"available": false
 		},
 		{
-			"brand": "Corbin",
+			"make": "Corbin",
 			"model": "Sparrow",
 			"color": "Orange",
 			"year": 1999,
@@ -4169,7 +4169,7 @@
 			"available": false
 		},
 		{
-			"brand": "Chevrolet",
+			"make": "Chevrolet",
 			"model": "1500",
 			"color": "Yellow",
 			"year": 1996,
@@ -4177,7 +4177,7 @@
 			"available": true
 		},
 		{
-			"brand": "Ford",
+			"make": "Ford",
 			"model": "ZX2",
 			"color": "Pink",
 			"year": 2003,
@@ -4185,7 +4185,7 @@
 			"available": true
 		},
 		{
-			"brand": "Mazda",
+			"make": "Mazda",
 			"model": "Mazda5",
 			"color": "Maroon",
 			"year": 2010,
@@ -4193,7 +4193,7 @@
 			"available": true
 		},
 		{
-			"brand": "BMW",
+			"make": "BMW",
 			"model": "M5",
 			"color": "Blue",
 			"year": 2007,
@@ -4201,7 +4201,7 @@
 			"available": true
 		},
 		{
-			"brand": "Mitsubishi",
+			"make": "Mitsubishi",
 			"model": "Truck",
 			"color": "Teal",
 			"year": 1986,
@@ -4209,7 +4209,7 @@
 			"available": false
 		},
 		{
-			"brand": "Mazda",
+			"make": "Mazda",
 			"model": "B-Series",
 			"color": "Teal",
 			"year": 2002,
@@ -4217,7 +4217,7 @@
 			"available": true
 		},
 		{
-			"brand": "BMW",
+			"make": "BMW",
 			"model": "M3",
 			"color": "Indigo",
 			"year": 2008,
@@ -4225,7 +4225,7 @@
 			"available": false
 		},
 		{
-			"brand": "Kia",
+			"make": "Kia",
 			"model": "Sportage",
 			"color": "Green",
 			"year": 1995,
@@ -4233,7 +4233,7 @@
 			"available": true
 		},
 		{
-			"brand": "Saab",
+			"make": "Saab",
 			"model": "9-5",
 			"color": "Red",
 			"year": 2006,
@@ -4241,7 +4241,7 @@
 			"available": false
 		},
 		{
-			"brand": "Mercedes-Benz",
+			"make": "Mercedes-Benz",
 			"model": "S-Class",
 			"color": "Red",
 			"year": 1993,
@@ -4249,7 +4249,7 @@
 			"available": true
 		},
 		{
-			"brand": "Volvo",
+			"make": "Volvo",
 			"model": "S80",
 			"color": "Fuscia",
 			"year": 1999,
@@ -4257,7 +4257,7 @@
 			"available": true
 		},
 		{
-			"brand": "Volkswagen",
+			"make": "Volkswagen",
 			"model": "CC",
 			"color": "Orange",
 			"year": 2012,
@@ -4265,7 +4265,7 @@
 			"available": true
 		},
 		{
-			"brand": "Ford",
+			"make": "Ford",
 			"model": "Escape",
 			"color": "Puce",
 			"year": 2013,
@@ -4273,7 +4273,7 @@
 			"available": false
 		},
 		{
-			"brand": "Ford",
+			"make": "Ford",
 			"model": "Flex",
 			"color": "Violet",
 			"year": 2009,
@@ -4281,7 +4281,7 @@
 			"available": false
 		},
 		{
-			"brand": "Land Rover",
+			"make": "Land Rover",
 			"model": "Range Rover",
 			"color": "Purple",
 			"year": 2012,
@@ -4289,7 +4289,7 @@
 			"available": true
 		},
 		{
-			"brand": "Pontiac",
+			"make": "Pontiac",
 			"model": "GTO",
 			"color": "Purple",
 			"year": 1966,
@@ -4297,7 +4297,7 @@
 			"available": true
 		},
 		{
-			"brand": "BMW",
+			"make": "BMW",
 			"model": "6 Series",
 			"color": "Red",
 			"year": 2009,
@@ -4305,7 +4305,7 @@
 			"available": true
 		},
 		{
-			"brand": "Honda",
+			"make": "Honda",
 			"model": "Civic",
 			"color": "Crimson",
 			"year": 1999,
@@ -4313,7 +4313,7 @@
 			"available": false
 		},
 		{
-			"brand": "Ford",
+			"make": "Ford",
 			"model": "F-Series",
 			"color": "Puce",
 			"year": 2009,
@@ -4321,7 +4321,7 @@
 			"available": true
 		},
 		{
-			"brand": "Ford",
+			"make": "Ford",
 			"model": "Thunderbird",
 			"color": "Maroon",
 			"year": 1986,
@@ -4329,7 +4329,7 @@
 			"available": false
 		},
 		{
-			"brand": "Panoz",
+			"make": "Panoz",
 			"model": "Esperante",
 			"color": "Aquamarine",
 			"year": 2007,
@@ -4337,7 +4337,7 @@
 			"available": true
 		},
 		{
-			"brand": "Volvo",
+			"make": "Volvo",
 			"model": "V70",
 			"color": "Puce",
 			"year": 2008,
@@ -4345,7 +4345,7 @@
 			"available": true
 		},
 		{
-			"brand": "Nissan",
+			"make": "Nissan",
 			"model": "Maxima",
 			"color": "Maroon",
 			"year": 1995,
@@ -4353,7 +4353,7 @@
 			"available": true
 		},
 		{
-			"brand": "Audi",
+			"make": "Audi",
 			"model": "100",
 			"color": "Crimson",
 			"year": 1989,
@@ -4361,7 +4361,7 @@
 			"available": false
 		},
 		{
-			"brand": "Ford",
+			"make": "Ford",
 			"model": "F-Series",
 			"color": "Puce",
 			"year": 2004,
@@ -4369,7 +4369,7 @@
 			"available": false
 		},
 		{
-			"brand": "Ford",
+			"make": "Ford",
 			"model": "Probe",
 			"color": "Puce",
 			"year": 1994,
@@ -4377,7 +4377,7 @@
 			"available": true
 		},
 		{
-			"brand": "Acura",
+			"make": "Acura",
 			"model": "Integra",
 			"color": "Blue",
 			"year": 1998,
@@ -4385,7 +4385,7 @@
 			"available": false
 		},
 		{
-			"brand": "Chrysler",
+			"make": "Chrysler",
 			"model": "300",
 			"color": "Khaki",
 			"year": 1999,
@@ -4393,7 +4393,7 @@
 			"available": false
 		},
 		{
-			"brand": "Cadillac",
+			"make": "Cadillac",
 			"model": "XLR",
 			"color": "Crimson",
 			"year": 2007,
@@ -4401,7 +4401,7 @@
 			"available": true
 		},
 		{
-			"brand": "BMW",
+			"make": "BMW",
 			"model": "645",
 			"color": "Green",
 			"year": 2005,
@@ -4409,7 +4409,7 @@
 			"available": true
 		},
 		{
-			"brand": "Plymouth",
+			"make": "Plymouth",
 			"model": "Voyager",
 			"color": "Red",
 			"year": 1995,
@@ -4417,7 +4417,7 @@
 			"available": true
 		},
 		{
-			"brand": "Pontiac",
+			"make": "Pontiac",
 			"model": "Bonneville",
 			"color": "Green",
 			"year": 1996,
@@ -4425,7 +4425,7 @@
 			"available": true
 		},
 		{
-			"brand": "Ford",
+			"make": "Ford",
 			"model": "Freestar",
 			"color": "Goldenrod",
 			"year": 2007,
@@ -4433,7 +4433,7 @@
 			"available": false
 		},
 		{
-			"brand": "Suzuki",
+			"make": "Suzuki",
 			"model": "Aerio",
 			"color": "Pink",
 			"year": 2003,
@@ -4441,7 +4441,7 @@
 			"available": true
 		},
 		{
-			"brand": "Porsche",
+			"make": "Porsche",
 			"model": "924 S",
 			"color": "Crimson",
 			"year": 1987,
@@ -4449,7 +4449,7 @@
 			"available": false
 		},
 		{
-			"brand": "Toyota",
+			"make": "Toyota",
 			"model": "Tercel",
 			"color": "Crimson",
 			"year": 1996,
@@ -4457,7 +4457,7 @@
 			"available": false
 		},
 		{
-			"brand": "GMC",
+			"make": "GMC",
 			"model": "Vandura 3500",
 			"color": "Aquamarine",
 			"year": 1992,
@@ -4465,7 +4465,7 @@
 			"available": false
 		},
 		{
-			"brand": "Mazda",
+			"make": "Mazda",
 			"model": "CX-9",
 			"color": "Turquoise",
 			"year": 2008,
@@ -4473,7 +4473,7 @@
 			"available": false
 		},
 		{
-			"brand": "Lincoln",
+			"make": "Lincoln",
 			"model": "Town Car",
 			"color": "Goldenrod",
 			"year": 2004,
@@ -4481,7 +4481,7 @@
 			"available": false
 		},
 		{
-			"brand": "Suzuki",
+			"make": "Suzuki",
 			"model": "Sidekick",
 			"color": "Red",
 			"year": 1989,
@@ -4489,7 +4489,7 @@
 			"available": true
 		},
 		{
-			"brand": "Subaru",
+			"make": "Subaru",
 			"model": "Leone",
 			"color": "Pink",
 			"year": 1985,
@@ -4497,7 +4497,7 @@
 			"available": true
 		},
 		{
-			"brand": "Ford",
+			"make": "Ford",
 			"model": "E150",
 			"color": "Mauv",
 			"year": 2004,
@@ -4505,7 +4505,7 @@
 			"available": true
 		},
 		{
-			"brand": "Toyota",
+			"make": "Toyota",
 			"model": "Avalon",
 			"color": "Teal",
 			"year": 2010,
@@ -4513,7 +4513,7 @@
 			"available": false
 		},
 		{
-			"brand": "Nissan",
+			"make": "Nissan",
 			"model": "240SX",
 			"color": "Indigo",
 			"year": 1994,
@@ -4521,7 +4521,7 @@
 			"available": true
 		},
 		{
-			"brand": "Mercury",
+			"make": "Mercury",
 			"model": "Sable",
 			"color": "Aquamarine",
 			"year": 1993,
@@ -4529,7 +4529,7 @@
 			"available": true
 		},
 		{
-			"brand": "Chevrolet",
+			"make": "Chevrolet",
 			"model": "TrailBlazer",
 			"color": "Pink",
 			"year": 2008,
@@ -4537,7 +4537,7 @@
 			"available": false
 		},
 		{
-			"brand": "Oldsmobile",
+			"make": "Oldsmobile",
 			"model": "LSS",
 			"color": "Green",
 			"year": 1998,
@@ -4545,7 +4545,7 @@
 			"available": true
 		},
 		{
-			"brand": "Mercury",
+			"make": "Mercury",
 			"model": "Sable",
 			"color": "Crimson",
 			"year": 1995,
@@ -4553,7 +4553,7 @@
 			"available": false
 		},
 		{
-			"brand": "Mercedes-Benz",
+			"make": "Mercedes-Benz",
 			"model": "SLK-Class",
 			"color": "Aquamarine",
 			"year": 1997,
@@ -4561,7 +4561,7 @@
 			"available": true
 		},
 		{
-			"brand": "Kia",
+			"make": "Kia",
 			"model": "Rondo",
 			"color": "Blue",
 			"year": 2010,
@@ -4569,7 +4569,7 @@
 			"available": true
 		},
 		{
-			"brand": "Ford",
+			"make": "Ford",
 			"model": "Taurus X",
 			"color": "Pink",
 			"year": 2008,
@@ -4577,7 +4577,7 @@
 			"available": false
 		},
 		{
-			"brand": "Volkswagen",
+			"make": "Volkswagen",
 			"model": "Corrado",
 			"color": "Maroon",
 			"year": 1992,
@@ -4585,7 +4585,7 @@
 			"available": true
 		},
 		{
-			"brand": "Mazda",
+			"make": "Mazda",
 			"model": "RX-8",
 			"color": "Blue",
 			"year": 2011,
@@ -4593,7 +4593,7 @@
 			"available": false
 		},
 		{
-			"brand": "Mercedes-Benz",
+			"make": "Mercedes-Benz",
 			"model": "GL-Class",
 			"color": "Purple",
 			"year": 2009,
@@ -4601,7 +4601,7 @@
 			"available": false
 		},
 		{
-			"brand": "Mitsubishi",
+			"make": "Mitsubishi",
 			"model": "Challenger",
 			"color": "Teal",
 			"year": 2002,
@@ -4609,7 +4609,7 @@
 			"available": false
 		},
 		{
-			"brand": "Cadillac",
+			"make": "Cadillac",
 			"model": "CTS",
 			"color": "Orange",
 			"year": 2005,
@@ -4617,7 +4617,7 @@
 			"available": true
 		},
 		{
-			"brand": "Buick",
+			"make": "Buick",
 			"model": "Electra",
 			"color": "Teal",
 			"year": 1984,
@@ -4625,7 +4625,7 @@
 			"available": true
 		},
 		{
-			"brand": "Scion",
+			"make": "Scion",
 			"model": "tC",
 			"color": "Crimson",
 			"year": 2011,
@@ -4633,7 +4633,7 @@
 			"available": false
 		},
 		{
-			"brand": "Ford",
+			"make": "Ford",
 			"model": "Windstar",
 			"color": "Orange",
 			"year": 1995,
@@ -4641,7 +4641,7 @@
 			"available": false
 		},
 		{
-			"brand": "Aston Martin",
+			"make": "Aston Martin",
 			"model": "DBS",
 			"color": "Mauv",
 			"year": 2008,
@@ -4649,7 +4649,7 @@
 			"available": true
 		},
 		{
-			"brand": "Mitsubishi",
+			"make": "Mitsubishi",
 			"model": "3000GT",
 			"color": "Maroon",
 			"year": 1999,
@@ -4657,7 +4657,7 @@
 			"available": false
 		},
 		{
-			"brand": "Nissan",
+			"make": "Nissan",
 			"model": "Murano",
 			"color": "Mauv",
 			"year": 2012,
@@ -4665,7 +4665,7 @@
 			"available": true
 		},
 		{
-			"brand": "Acura",
+			"make": "Acura",
 			"model": "NSX",
 			"color": "Green",
 			"year": 1994,
@@ -4673,7 +4673,7 @@
 			"available": true
 		},
 		{
-			"brand": "Pontiac",
+			"make": "Pontiac",
 			"model": "Turbo Firefly",
 			"color": "Khaki",
 			"year": 1990,
@@ -4681,7 +4681,7 @@
 			"available": false
 		},
 		{
-			"brand": "Mercedes-Benz",
+			"make": "Mercedes-Benz",
 			"model": "CLS-Class",
 			"color": "Goldenrod",
 			"year": 2008,
@@ -4689,7 +4689,7 @@
 			"available": true
 		},
 		{
-			"brand": "Ferrari",
+			"make": "Ferrari",
 			"model": "612 Scaglietti",
 			"color": "Goldenrod",
 			"year": 2006,
@@ -4697,7 +4697,7 @@
 			"available": true
 		},
 		{
-			"brand": "Honda",
+			"make": "Honda",
 			"model": "Prelude",
 			"color": "Khaki",
 			"year": 1986,
@@ -4705,7 +4705,7 @@
 			"available": false
 		},
 		{
-			"brand": "Subaru",
+			"make": "Subaru",
 			"model": "Leone",
 			"color": "Teal",
 			"year": 1988,
@@ -4713,7 +4713,7 @@
 			"available": false
 		},
 		{
-			"brand": "Toyota",
+			"make": "Toyota",
 			"model": "Supra",
 			"color": "Mauv",
 			"year": 1993,
@@ -4721,7 +4721,7 @@
 			"available": true
 		},
 		{
-			"brand": "Audi",
+			"make": "Audi",
 			"model": "V8",
 			"color": "Puce",
 			"year": 1990,
@@ -4729,7 +4729,7 @@
 			"available": true
 		},
 		{
-			"brand": "Mercedes-Benz",
+			"make": "Mercedes-Benz",
 			"model": "C-Class",
 			"color": "Red",
 			"year": 2006,
@@ -4737,7 +4737,7 @@
 			"available": false
 		},
 		{
-			"brand": "GMC",
+			"make": "GMC",
 			"model": "Yukon XL 2500",
 			"color": "Purple",
 			"year": 2007,
@@ -4745,7 +4745,7 @@
 			"available": true
 		},
 		{
-			"brand": "Toyota",
+			"make": "Toyota",
 			"model": "Tercel",
 			"color": "Puce",
 			"year": 1998,
@@ -4753,7 +4753,7 @@
 			"available": false
 		},
 		{
-			"brand": "Mercedes-Benz",
+			"make": "Mercedes-Benz",
 			"model": "500SL",
 			"color": "Crimson",
 			"year": 1993,
@@ -4761,7 +4761,7 @@
 			"available": false
 		},
 		{
-			"brand": "Subaru",
+			"make": "Subaru",
 			"model": "Legacy",
 			"color": "Khaki",
 			"year": 1991,
@@ -4769,7 +4769,7 @@
 			"available": true
 		},
 		{
-			"brand": "Lexus",
+			"make": "Lexus",
 			"model": "SC",
 			"color": "Green",
 			"year": 2000,
@@ -4777,7 +4777,7 @@
 			"available": true
 		},
 		{
-			"brand": "Hyundai",
+			"make": "Hyundai",
 			"model": "Elantra",
 			"color": "Yellow",
 			"year": 1995,
@@ -4785,7 +4785,7 @@
 			"available": false
 		},
 		{
-			"brand": "Scion",
+			"make": "Scion",
 			"model": "xD",
 			"color": "Aquamarine",
 			"year": 2012,
@@ -4793,7 +4793,7 @@
 			"available": true
 		},
 		{
-			"brand": "Chevrolet",
+			"make": "Chevrolet",
 			"model": "Express 1500",
 			"color": "Aquamarine",
 			"year": 2005,
@@ -4801,7 +4801,7 @@
 			"available": true
 		},
 		{
-			"brand": "Volkswagen",
+			"make": "Volkswagen",
 			"model": "Touareg",
 			"color": "Khaki",
 			"year": 2006,
@@ -4809,7 +4809,7 @@
 			"available": true
 		},
 		{
-			"brand": "Lexus",
+			"make": "Lexus",
 			"model": "ES",
 			"color": "Fuscia",
 			"year": 2007,
@@ -4817,7 +4817,7 @@
 			"available": false
 		},
 		{
-			"brand": "BMW",
+			"make": "BMW",
 			"model": "6 Series",
 			"color": "Teal",
 			"year": 2008,
@@ -4825,7 +4825,7 @@
 			"available": false
 		},
 		{
-			"brand": "GMC",
+			"make": "GMC",
 			"model": "Vandura 3500",
 			"color": "Turquoise",
 			"year": 1993,
@@ -4833,7 +4833,7 @@
 			"available": false
 		},
 		{
-			"brand": "Mercedes-Benz",
+			"make": "Mercedes-Benz",
 			"model": "CLS-Class",
 			"color": "Teal",
 			"year": 2008,
@@ -4841,7 +4841,7 @@
 			"available": false
 		},
 		{
-			"brand": "Ford",
+			"make": "Ford",
 			"model": "F150",
 			"color": "Pink",
 			"year": 2011,
@@ -4849,7 +4849,7 @@
 			"available": false
 		},
 		{
-			"brand": "Dodge",
+			"make": "Dodge",
 			"model": "Ram 1500 Club",
 			"color": "Violet",
 			"year": 1998,
@@ -4857,7 +4857,7 @@
 			"available": true
 		},
 		{
-			"brand": "Ford",
+			"make": "Ford",
 			"model": "Aerostar",
 			"color": "Violet",
 			"year": 1994,
@@ -4865,7 +4865,7 @@
 			"available": true
 		},
 		{
-			"brand": "Volkswagen",
+			"make": "Volkswagen",
 			"model": "Touareg",
 			"color": "Purple",
 			"year": 2007,
@@ -4873,7 +4873,7 @@
 			"available": false
 		},
 		{
-			"brand": "Mitsubishi",
+			"make": "Mitsubishi",
 			"model": "Chariot",
 			"color": "Fuscia",
 			"year": 1991,
@@ -4881,7 +4881,7 @@
 			"available": true
 		},
 		{
-			"brand": "Hyundai",
+			"make": "Hyundai",
 			"model": "Tucson",
 			"color": "Puce",
 			"year": 2012,
@@ -4889,7 +4889,7 @@
 			"available": false
 		},
 		{
-			"brand": "Ford",
+			"make": "Ford",
 			"model": "Escape",
 			"color": "Green",
 			"year": 2000,
@@ -4897,7 +4897,7 @@
 			"available": true
 		},
 		{
-			"brand": "GMC",
+			"make": "GMC",
 			"model": "1500",
 			"color": "Red",
 			"year": 1995,
@@ -4905,7 +4905,7 @@
 			"available": true
 		},
 		{
-			"brand": "Volvo",
+			"make": "Volvo",
 			"model": "V50",
 			"color": "Pink",
 			"year": 2005,
@@ -4913,7 +4913,7 @@
 			"available": false
 		},
 		{
-			"brand": "Infiniti",
+			"make": "Infiniti",
 			"model": "M",
 			"color": "Purple",
 			"year": 1992,
@@ -4921,7 +4921,7 @@
 			"available": false
 		},
 		{
-			"brand": "Toyota",
+			"make": "Toyota",
 			"model": "Camry Hybrid",
 			"color": "Goldenrod",
 			"year": 2010,
@@ -4929,7 +4929,7 @@
 			"available": false
 		},
 		{
-			"brand": "Mercury",
+			"make": "Mercury",
 			"model": "Grand Marquis",
 			"color": "Teal",
 			"year": 1985,
@@ -4937,7 +4937,7 @@
 			"available": true
 		},
 		{
-			"brand": "Volvo",
+			"make": "Volvo",
 			"model": "C70",
 			"color": "Pink",
 			"year": 2000,
@@ -4945,7 +4945,7 @@
 			"available": true
 		},
 		{
-			"brand": "Mercedes-Benz",
+			"make": "Mercedes-Benz",
 			"model": "CLK-Class",
 			"color": "Goldenrod",
 			"year": 2006,
@@ -4953,7 +4953,7 @@
 			"available": false
 		},
 		{
-			"brand": "Ford",
+			"make": "Ford",
 			"model": "Ranger",
 			"color": "Pink",
 			"year": 1994,
@@ -4961,7 +4961,7 @@
 			"available": false
 		},
 		{
-			"brand": "Lotus",
+			"make": "Lotus",
 			"model": "Esprit",
 			"color": "Violet",
 			"year": 2004,
@@ -4969,7 +4969,7 @@
 			"available": false
 		},
 		{
-			"brand": "Toyota",
+			"make": "Toyota",
 			"model": "Celica",
 			"color": "Fuscia",
 			"year": 2000,
@@ -4977,7 +4977,7 @@
 			"available": true
 		},
 		{
-			"brand": "Mercedes-Benz",
+			"make": "Mercedes-Benz",
 			"model": "E-Class",
 			"color": "Blue",
 			"year": 1991,
@@ -4985,7 +4985,7 @@
 			"available": false
 		},
 		{
-			"brand": "Land Rover",
+			"make": "Land Rover",
 			"model": "LR2",
 			"color": "Goldenrod",
 			"year": 2009,
@@ -4993,7 +4993,7 @@
 			"available": true
 		},
 		{
-			"brand": "Pontiac",
+			"make": "Pontiac",
 			"model": "6000",
 			"color": "Green",
 			"year": 1991,
@@ -5001,7 +5001,7 @@
 			"available": false
 		},
 		{
-			"brand": "Maserati",
+			"make": "Maserati",
 			"model": "Spyder",
 			"color": "Orange",
 			"year": 1991,
@@ -5009,7 +5009,7 @@
 			"available": true
 		},
 		{
-			"brand": "Chevrolet",
+			"make": "Chevrolet",
 			"model": "Caprice",
 			"color": "Goldenrod",
 			"year": 1996,
@@ -5017,7 +5017,7 @@
 			"available": true
 		},
 		{
-			"brand": "Dodge",
+			"make": "Dodge",
 			"model": "Ram 1500 Club",
 			"color": "Indigo",
 			"year": 1996,
@@ -5025,7 +5025,7 @@
 			"available": true
 		},
 		{
-			"brand": "Ford",
+			"make": "Ford",
 			"model": "Mustang",
 			"color": "Purple",
 			"year": 1983,
@@ -5033,7 +5033,7 @@
 			"available": true
 		},
 		{
-			"brand": "Ford",
+			"make": "Ford",
 			"model": "Galaxie",
 			"color": "Green",
 			"year": 1964,
@@ -5041,7 +5041,7 @@
 			"available": true
 		},
 		{
-			"brand": "Audi",
+			"make": "Audi",
 			"model": "4000s",
 			"color": "Purple",
 			"year": 1986,
@@ -5049,7 +5049,7 @@
 			"available": true
 		},
 		{
-			"brand": "Toyota",
+			"make": "Toyota",
 			"model": "TundraMax",
 			"color": "Crimson",
 			"year": 2007,
@@ -5057,7 +5057,7 @@
 			"available": true
 		},
 		{
-			"brand": "Lincoln",
+			"make": "Lincoln",
 			"model": "Continental Mark VII",
 			"color": "Goldenrod",
 			"year": 1990,
@@ -5065,7 +5065,7 @@
 			"available": true
 		},
 		{
-			"brand": "Nissan",
+			"make": "Nissan",
 			"model": "300ZX",
 			"color": "Maroon",
 			"year": 1995,
@@ -5073,7 +5073,7 @@
 			"available": true
 		},
 		{
-			"brand": "Mazda",
+			"make": "Mazda",
 			"model": "MPV",
 			"color": "Aquamarine",
 			"year": 2004,
@@ -5081,7 +5081,7 @@
 			"available": true
 		},
 		{
-			"brand": "Kia",
+			"make": "Kia",
 			"model": "Sephia",
 			"color": "Green",
 			"year": 1994,
@@ -5089,7 +5089,7 @@
 			"available": false
 		},
 		{
-			"brand": "Toyota",
+			"make": "Toyota",
 			"model": "Corolla",
 			"color": "Yellow",
 			"year": 2007,
@@ -5097,7 +5097,7 @@
 			"available": true
 		},
 		{
-			"brand": "Pontiac",
+			"make": "Pontiac",
 			"model": "6000",
 			"color": "Fuscia",
 			"year": 1985,
@@ -5105,7 +5105,7 @@
 			"available": true
 		},
 		{
-			"brand": "Scion",
+			"make": "Scion",
 			"model": "xB",
 			"color": "Blue",
 			"year": 2008,
@@ -5113,7 +5113,7 @@
 			"available": true
 		},
 		{
-			"brand": "Morgan",
+			"make": "Morgan",
 			"model": "Aero 8",
 			"color": "Violet",
 			"year": 2007,
@@ -5121,7 +5121,7 @@
 			"available": true
 		},
 		{
-			"brand": "Chevrolet",
+			"make": "Chevrolet",
 			"model": "Malibu",
 			"color": "Crimson",
 			"year": 2005,
@@ -5129,7 +5129,7 @@
 			"available": true
 		},
 		{
-			"brand": "Infiniti",
+			"make": "Infiniti",
 			"model": "I",
 			"color": "Orange",
 			"year": 1998,
@@ -5137,7 +5137,7 @@
 			"available": true
 		},
 		{
-			"brand": "Pontiac",
+			"make": "Pontiac",
 			"model": "LeMans",
 			"color": "Khaki",
 			"year": 1964,
@@ -5145,7 +5145,7 @@
 			"available": true
 		},
 		{
-			"brand": "Lexus",
+			"make": "Lexus",
 			"model": "SC",
 			"color": "Teal",
 			"year": 1995,
@@ -5153,7 +5153,7 @@
 			"available": true
 		},
 		{
-			"brand": "Land Rover",
+			"make": "Land Rover",
 			"model": "Range Rover",
 			"color": "Blue",
 			"year": 1988,
@@ -5161,7 +5161,7 @@
 			"available": true
 		},
 		{
-			"brand": "Chevrolet",
+			"make": "Chevrolet",
 			"model": "Express 2500",
 			"color": "Purple",
 			"year": 2005,
@@ -5169,7 +5169,7 @@
 			"available": true
 		},
 		{
-			"brand": "Mazda",
+			"make": "Mazda",
 			"model": "B-Series",
 			"color": "Teal",
 			"year": 2004,
@@ -5177,7 +5177,7 @@
 			"available": false
 		},
 		{
-			"brand": "Buick",
+			"make": "Buick",
 			"model": "Regal",
 			"color": "Maroon",
 			"year": 1986,
@@ -5185,7 +5185,7 @@
 			"available": false
 		},
 		{
-			"brand": "Dodge",
+			"make": "Dodge",
 			"model": "Ram 1500",
 			"color": "Maroon",
 			"year": 2000,
@@ -5193,7 +5193,7 @@
 			"available": true
 		},
 		{
-			"brand": "Mercedes-Benz",
+			"make": "Mercedes-Benz",
 			"model": "CLS-Class",
 			"color": "Teal",
 			"year": 2008,
@@ -5201,7 +5201,7 @@
 			"available": true
 		},
 		{
-			"brand": "Volkswagen",
+			"make": "Volkswagen",
 			"model": "GTI",
 			"color": "Puce",
 			"year": 1996,
@@ -5209,7 +5209,7 @@
 			"available": true
 		},
 		{
-			"brand": "Pontiac",
+			"make": "Pontiac",
 			"model": "Parisienne",
 			"color": "Blue",
 			"year": 1984,
@@ -5217,7 +5217,7 @@
 			"available": false
 		},
 		{
-			"brand": "Dodge",
+			"make": "Dodge",
 			"model": "Avenger",
 			"color": "Fuscia",
 			"year": 1997,
@@ -5225,7 +5225,7 @@
 			"available": false
 		},
 		{
-			"brand": "Nissan",
+			"make": "Nissan",
 			"model": "Quest",
 			"color": "Aquamarine",
 			"year": 2007,
@@ -5233,7 +5233,7 @@
 			"available": false
 		},
 		{
-			"brand": "Kia",
+			"make": "Kia",
 			"model": "Optima",
 			"color": "Indigo",
 			"year": 2007,
@@ -5241,7 +5241,7 @@
 			"available": true
 		},
 		{
-			"brand": "Chevrolet",
+			"make": "Chevrolet",
 			"model": "Caprice",
 			"color": "Yellow",
 			"year": 1983,
@@ -5249,7 +5249,7 @@
 			"available": true
 		},
 		{
-			"brand": "Dodge",
+			"make": "Dodge",
 			"model": "Durango",
 			"color": "Fuscia",
 			"year": 2004,
@@ -5257,7 +5257,7 @@
 			"available": false
 		},
 		{
-			"brand": "Buick",
+			"make": "Buick",
 			"model": "LaCrosse",
 			"color": "Red",
 			"year": 2011,
@@ -5265,7 +5265,7 @@
 			"available": false
 		},
 		{
-			"brand": "Honda",
+			"make": "Honda",
 			"model": "Insight",
 			"color": "Red",
 			"year": 2012,
@@ -5273,7 +5273,7 @@
 			"available": true
 		},
 		{
-			"brand": "Peugeot",
+			"make": "Peugeot",
 			"model": "207",
 			"color": "Mauv",
 			"year": 2006,
@@ -5281,7 +5281,7 @@
 			"available": false
 		},
 		{
-			"brand": "GMC",
+			"make": "GMC",
 			"model": "Savana 2500",
 			"color": "Blue",
 			"year": 2007,
@@ -5289,7 +5289,7 @@
 			"available": false
 		},
 		{
-			"brand": "Toyota",
+			"make": "Toyota",
 			"model": "Camry",
 			"color": "Violet",
 			"year": 1999,
@@ -5297,7 +5297,7 @@
 			"available": false
 		},
 		{
-			"brand": "Suzuki",
+			"make": "Suzuki",
 			"model": "Aerio",
 			"color": "Puce",
 			"year": 2004,
@@ -5305,7 +5305,7 @@
 			"available": false
 		},
 		{
-			"brand": "GMC",
+			"make": "GMC",
 			"model": "Sierra 1500",
 			"color": "Maroon",
 			"year": 2013,
@@ -5313,7 +5313,7 @@
 			"available": true
 		},
 		{
-			"brand": "Volvo",
+			"make": "Volvo",
 			"model": "V50",
 			"color": "Maroon",
 			"year": 2005,
@@ -5321,7 +5321,7 @@
 			"available": false
 		},
 		{
-			"brand": "Honda",
+			"make": "Honda",
 			"model": "Element",
 			"color": "Mauv",
 			"year": 2008,
@@ -5329,7 +5329,7 @@
 			"available": false
 		},
 		{
-			"brand": "Ford",
+			"make": "Ford",
 			"model": "Excursion",
 			"color": "Teal",
 			"year": 2002,
@@ -5337,7 +5337,7 @@
 			"available": true
 		},
 		{
-			"brand": "Dodge",
+			"make": "Dodge",
 			"model": "Grand Caravan",
 			"color": "Khaki",
 			"year": 2005,
@@ -5345,7 +5345,7 @@
 			"available": true
 		},
 		{
-			"brand": "Suzuki",
+			"make": "Suzuki",
 			"model": "Sidekick",
 			"color": "Crimson",
 			"year": 1996,
@@ -5353,7 +5353,7 @@
 			"available": true
 		},
 		{
-			"brand": "Volkswagen",
+			"make": "Volkswagen",
 			"model": "Corrado",
 			"color": "Crimson",
 			"year": 1992,
@@ -5361,7 +5361,7 @@
 			"available": true
 		},
 		{
-			"brand": "Subaru",
+			"make": "Subaru",
 			"model": "Brat",
 			"color": "Red",
 			"year": 1986,
@@ -5369,7 +5369,7 @@
 			"available": true
 		},
 		{
-			"brand": "Mitsubishi",
+			"make": "Mitsubishi",
 			"model": "Galant",
 			"color": "Yellow",
 			"year": 1987,
@@ -5377,7 +5377,7 @@
 			"available": false
 		},
 		{
-			"brand": "Toyota",
+			"make": "Toyota",
 			"model": "Tacoma",
 			"color": "Goldenrod",
 			"year": 2007,
@@ -5385,7 +5385,7 @@
 			"available": false
 		},
 		{
-			"brand": "Kia",
+			"make": "Kia",
 			"model": "Rio",
 			"color": "Blue",
 			"year": 2009,
@@ -5393,7 +5393,7 @@
 			"available": true
 		},
 		{
-			"brand": "Jaguar",
+			"make": "Jaguar",
 			"model": "S-Type",
 			"color": "Maroon",
 			"year": 2003,
@@ -5401,7 +5401,7 @@
 			"available": false
 		},
 		{
-			"brand": "Honda",
+			"make": "Honda",
 			"model": "Civic Si",
 			"color": "Puce",
 			"year": 2003,
@@ -5409,7 +5409,7 @@
 			"available": true
 		},
 		{
-			"brand": "Acura",
+			"make": "Acura",
 			"model": "TL",
 			"color": "Crimson",
 			"year": 2006,
@@ -5417,7 +5417,7 @@
 			"available": false
 		},
 		{
-			"brand": "Lexus",
+			"make": "Lexus",
 			"model": "LS",
 			"color": "Khaki",
 			"year": 2007,
@@ -5425,7 +5425,7 @@
 			"available": true
 		},
 		{
-			"brand": "Pontiac",
+			"make": "Pontiac",
 			"model": "Bonneville",
 			"color": "Orange",
 			"year": 1989,
@@ -5433,7 +5433,7 @@
 			"available": false
 		},
 		{
-			"brand": "Ford",
+			"make": "Ford",
 			"model": "LTD Crown Victoria",
 			"color": "Crimson",
 			"year": 1984,
@@ -5441,7 +5441,7 @@
 			"available": false
 		},
 		{
-			"brand": "Ford",
+			"make": "Ford",
 			"model": "Econoline E350",
 			"color": "Mauv",
 			"year": 1995,
@@ -5449,7 +5449,7 @@
 			"available": true
 		},
 		{
-			"brand": "Ford",
+			"make": "Ford",
 			"model": "Bronco",
 			"color": "Orange",
 			"year": 1986,
@@ -5457,7 +5457,7 @@
 			"available": false
 		},
 		{
-			"brand": "Ford",
+			"make": "Ford",
 			"model": "Econoline E250",
 			"color": "Teal",
 			"year": 1994,
@@ -5465,7 +5465,7 @@
 			"available": false
 		},
 		{
-			"brand": "Porsche",
+			"make": "Porsche",
 			"model": "924 S",
 			"color": "Yellow",
 			"year": 1987,
@@ -5473,7 +5473,7 @@
 			"available": true
 		},
 		{
-			"brand": "Hyundai",
+			"make": "Hyundai",
 			"model": "Sonata",
 			"color": "Khaki",
 			"year": 1999,
@@ -5481,7 +5481,7 @@
 			"available": false
 		},
 		{
-			"brand": "Kia",
+			"make": "Kia",
 			"model": "Sephia",
 			"color": "Pink",
 			"year": 1998,
@@ -5489,7 +5489,7 @@
 			"available": true
 		},
 		{
-			"brand": "Dodge",
+			"make": "Dodge",
 			"model": "D150 Club",
 			"color": "Fuscia",
 			"year": 1992,
@@ -5497,7 +5497,7 @@
 			"available": false
 		},
 		{
-			"brand": "Mercedes-Benz",
+			"make": "Mercedes-Benz",
 			"model": "CL65 AMG",
 			"color": "Turquoise",
 			"year": 2009,
@@ -5505,7 +5505,7 @@
 			"available": true
 		},
 		{
-			"brand": "Chevrolet",
+			"make": "Chevrolet",
 			"model": "G-Series G30",
 			"color": "Aquamarine",
 			"year": 1994,
@@ -5513,7 +5513,7 @@
 			"available": true
 		},
 		{
-			"brand": "Mitsubishi",
+			"make": "Mitsubishi",
 			"model": "Lancer Evolution",
 			"color": "Crimson",
 			"year": 2008,
@@ -5521,7 +5521,7 @@
 			"available": false
 		},
 		{
-			"brand": "Ford",
+			"make": "Ford",
 			"model": "Expedition",
 			"color": "Yellow",
 			"year": 2007,
@@ -5529,7 +5529,7 @@
 			"available": false
 		},
 		{
-			"brand": "Mercury",
+			"make": "Mercury",
 			"model": "Cougar",
 			"color": "Turquoise",
 			"year": 1992,
@@ -5537,7 +5537,7 @@
 			"available": false
 		},
 		{
-			"brand": "Ford",
+			"make": "Ford",
 			"model": "Ranger",
 			"color": "Pink",
 			"year": 2009,
@@ -5545,7 +5545,7 @@
 			"available": false
 		},
 		{
-			"brand": "Mazda",
+			"make": "Mazda",
 			"model": "B-Series Plus",
 			"color": "Turquoise",
 			"year": 2003,
@@ -5553,7 +5553,7 @@
 			"available": true
 		},
 		{
-			"brand": "Ford",
+			"make": "Ford",
 			"model": "Econoline E250",
 			"color": "Purple",
 			"year": 1998,
@@ -5561,7 +5561,7 @@
 			"available": false
 		},
 		{
-			"brand": "Cadillac",
+			"make": "Cadillac",
 			"model": "Seville",
 			"color": "Red",
 			"year": 2003,
@@ -5569,7 +5569,7 @@
 			"available": false
 		},
 		{
-			"brand": "Volvo",
+			"make": "Volvo",
 			"model": "S70",
 			"color": "Maroon",
 			"year": 1998,
@@ -5577,7 +5577,7 @@
 			"available": false
 		},
 		{
-			"brand": "Chrysler",
+			"make": "Chrysler",
 			"model": "Voyager",
 			"color": "Teal",
 			"year": 2000,
@@ -5585,7 +5585,7 @@
 			"available": true
 		},
 		{
-			"brand": "Mazda",
+			"make": "Mazda",
 			"model": "RX-8",
 			"color": "Violet",
 			"year": 2011,
@@ -5593,7 +5593,7 @@
 			"available": true
 		},
 		{
-			"brand": "Suzuki",
+			"make": "Suzuki",
 			"model": "Esteem",
 			"color": "Yellow",
 			"year": 1997,
@@ -5601,7 +5601,7 @@
 			"available": true
 		},
 		{
-			"brand": "Mitsubishi",
+			"make": "Mitsubishi",
 			"model": "RVR",
 			"color": "Goldenrod",
 			"year": 1992,
@@ -5609,7 +5609,7 @@
 			"available": true
 		},
 		{
-			"brand": "Maybach",
+			"make": "Maybach",
 			"model": "57",
 			"color": "Orange",
 			"year": 2010,
@@ -5617,7 +5617,7 @@
 			"available": false
 		},
 		{
-			"brand": "Mercedes-Benz",
+			"make": "Mercedes-Benz",
 			"model": "W126",
 			"color": "Turquoise",
 			"year": 1981,
@@ -5625,7 +5625,7 @@
 			"available": true
 		},
 		{
-			"brand": "GMC",
+			"make": "GMC",
 			"model": "Canyon",
 			"color": "Green",
 			"year": 2005,
@@ -5633,7 +5633,7 @@
 			"available": false
 		},
 		{
-			"brand": "Volkswagen",
+			"make": "Volkswagen",
 			"model": "Cabriolet",
 			"color": "Violet",
 			"year": 1996,
@@ -5641,7 +5641,7 @@
 			"available": true
 		},
 		{
-			"brand": "Alfa Romeo",
+			"make": "Alfa Romeo",
 			"model": "164",
 			"color": "Blue",
 			"year": 1993,
@@ -5649,7 +5649,7 @@
 			"available": false
 		},
 		{
-			"brand": "GMC",
+			"make": "GMC",
 			"model": "Sierra 2500",
 			"color": "Mauv",
 			"year": 1999,
@@ -5657,7 +5657,7 @@
 			"available": false
 		},
 		{
-			"brand": "Lamborghini",
+			"make": "Lamborghini",
 			"model": "Murciélago LP640",
 			"color": "Teal",
 			"year": 2008,
@@ -5665,7 +5665,7 @@
 			"available": false
 		},
 		{
-			"brand": "Volvo",
+			"make": "Volvo",
 			"model": "C70",
 			"color": "Red",
 			"year": 2009,
@@ -5673,7 +5673,7 @@
 			"available": false
 		},
 		{
-			"brand": "Cadillac",
+			"make": "Cadillac",
 			"model": "Escalade",
 			"color": "Pink",
 			"year": 2003,
@@ -5681,7 +5681,7 @@
 			"available": true
 		},
 		{
-			"brand": "Nissan",
+			"make": "Nissan",
 			"model": "Altima",
 			"color": "Green",
 			"year": 1993,
@@ -5689,7 +5689,7 @@
 			"available": false
 		},
 		{
-			"brand": "Ford",
+			"make": "Ford",
 			"model": "Fiesta",
 			"color": "Khaki",
 			"year": 2011,
@@ -5697,7 +5697,7 @@
 			"available": true
 		},
 		{
-			"brand": "Lincoln",
+			"make": "Lincoln",
 			"model": "Town Car",
 			"color": "Crimson",
 			"year": 2006,
@@ -5705,7 +5705,7 @@
 			"available": false
 		},
 		{
-			"brand": "Plymouth",
+			"make": "Plymouth",
 			"model": "Laser",
 			"color": "Orange",
 			"year": 1992,
@@ -5713,7 +5713,7 @@
 			"available": true
 		},
 		{
-			"brand": "Lincoln",
+			"make": "Lincoln",
 			"model": "Navigator",
 			"color": "Aquamarine",
 			"year": 2007,
@@ -5721,7 +5721,7 @@
 			"available": true
 		},
 		{
-			"brand": "Chevrolet",
+			"make": "Chevrolet",
 			"model": "Sportvan G20",
 			"color": "Green",
 			"year": 1995,
@@ -5729,7 +5729,7 @@
 			"available": true
 		},
 		{
-			"brand": "Buick",
+			"make": "Buick",
 			"model": "Century",
 			"color": "Indigo",
 			"year": 1987,
@@ -5737,7 +5737,7 @@
 			"available": true
 		},
 		{
-			"brand": "Suzuki",
+			"make": "Suzuki",
 			"model": "SJ 410",
 			"color": "Goldenrod",
 			"year": 1986,
@@ -5745,7 +5745,7 @@
 			"available": false
 		},
 		{
-			"brand": "Hummer",
+			"make": "Hummer",
 			"model": "H2",
 			"color": "Turquoise",
 			"year": 2004,
@@ -5753,7 +5753,7 @@
 			"available": false
 		},
 		{
-			"brand": "Infiniti",
+			"make": "Infiniti",
 			"model": "M",
 			"color": "Puce",
 			"year": 1992,
@@ -5761,7 +5761,7 @@
 			"available": false
 		},
 		{
-			"brand": "Rolls-Royce",
+			"make": "Rolls-Royce",
 			"model": "Phantom",
 			"color": "Pink",
 			"year": 2011,
@@ -5769,7 +5769,7 @@
 			"available": false
 		},
 		{
-			"brand": "Volvo",
+			"make": "Volvo",
 			"model": "S40",
 			"color": "Goldenrod",
 			"year": 2006,
@@ -5777,7 +5777,7 @@
 			"available": true
 		},
 		{
-			"brand": "Eagle",
+			"make": "Eagle",
 			"model": "Vision",
 			"color": "Indigo",
 			"year": 1995,
@@ -5785,7 +5785,7 @@
 			"available": true
 		},
 		{
-			"brand": "Lexus",
+			"make": "Lexus",
 			"model": "CT",
 			"color": "Teal",
 			"year": 2011,
@@ -5793,7 +5793,7 @@
 			"available": false
 		},
 		{
-			"brand": "Audi",
+			"make": "Audi",
 			"model": "riolet",
 			"color": "Teal",
 			"year": 1997,
@@ -5801,7 +5801,7 @@
 			"available": false
 		},
 		{
-			"brand": "Dodge",
+			"make": "Dodge",
 			"model": "Colt",
 			"color": "Orange",
 			"year": 1994,
@@ -5809,7 +5809,7 @@
 			"available": false
 		},
 		{
-			"brand": "Subaru",
+			"make": "Subaru",
 			"model": "Impreza",
 			"color": "Green",
 			"year": 2005,
@@ -5817,7 +5817,7 @@
 			"available": false
 		},
 		{
-			"brand": "Ford",
+			"make": "Ford",
 			"model": "Taurus",
 			"color": "Fuscia",
 			"year": 1992,
@@ -5825,7 +5825,7 @@
 			"available": true
 		},
 		{
-			"brand": "Oldsmobile",
+			"make": "Oldsmobile",
 			"model": "Silhouette",
 			"color": "Khaki",
 			"year": 1999,
@@ -5833,7 +5833,7 @@
 			"available": false
 		},
 		{
-			"brand": "Ford",
+			"make": "Ford",
 			"model": "E-350 Super Duty Van",
 			"color": "Fuscia",
 			"year": 2006,
@@ -5841,7 +5841,7 @@
 			"available": true
 		},
 		{
-			"brand": "Chevrolet",
+			"make": "Chevrolet",
 			"model": "Camaro",
 			"color": "Khaki",
 			"year": 1973,
@@ -5849,7 +5849,7 @@
 			"available": true
 		},
 		{
-			"brand": "Geo",
+			"make": "Geo",
 			"model": "Prizm",
 			"color": "Purple",
 			"year": 1995,
@@ -5857,7 +5857,7 @@
 			"available": true
 		},
 		{
-			"brand": "BMW",
+			"make": "BMW",
 			"model": "Alpina B7",
 			"color": "Pink",
 			"year": 2008,
@@ -5865,7 +5865,7 @@
 			"available": true
 		},
 		{
-			"brand": "Ferrari",
+			"make": "Ferrari",
 			"model": "F430 Spider",
 			"color": "Khaki",
 			"year": 2006,
@@ -5873,7 +5873,7 @@
 			"available": false
 		},
 		{
-			"brand": "Ford",
+			"make": "Ford",
 			"model": "Escort",
 			"color": "Puce",
 			"year": 1999,
@@ -5881,7 +5881,7 @@
 			"available": false
 		},
 		{
-			"brand": "Hyundai",
+			"make": "Hyundai",
 			"model": "Veracruz",
 			"color": "Aquamarine",
 			"year": 2008,
@@ -5889,7 +5889,7 @@
 			"available": true
 		},
 		{
-			"brand": "Pontiac",
+			"make": "Pontiac",
 			"model": "Torrent",
 			"color": "Khaki",
 			"year": 2009,
@@ -5897,7 +5897,7 @@
 			"available": false
 		},
 		{
-			"brand": "Chevrolet",
+			"make": "Chevrolet",
 			"model": "Express 1500",
 			"color": "Blue",
 			"year": 2010,
@@ -5905,7 +5905,7 @@
 			"available": true
 		},
 		{
-			"brand": "Ford",
+			"make": "Ford",
 			"model": "Econoline E350",
 			"color": "Mauv",
 			"year": 1993,
@@ -5913,7 +5913,7 @@
 			"available": false
 		},
 		{
-			"brand": "Buick",
+			"make": "Buick",
 			"model": "Riviera",
 			"color": "Violet",
 			"year": 1985,
@@ -5921,7 +5921,7 @@
 			"available": false
 		},
 		{
-			"brand": "Mercury",
+			"make": "Mercury",
 			"model": "Montego",
 			"color": "Turquoise",
 			"year": 2007,
@@ -5929,7 +5929,7 @@
 			"available": true
 		},
 		{
-			"brand": "Suzuki",
+			"make": "Suzuki",
 			"model": "SJ",
 			"color": "Crimson",
 			"year": 1988,
@@ -5937,7 +5937,7 @@
 			"available": false
 		},
 		{
-			"brand": "Eagle",
+			"make": "Eagle",
 			"model": "Vision",
 			"color": "Aquamarine",
 			"year": 1997,
@@ -5945,7 +5945,7 @@
 			"available": false
 		},
 		{
-			"brand": "Mercury",
+			"make": "Mercury",
 			"model": "Topaz",
 			"color": "Goldenrod",
 			"year": 1988,
@@ -5953,7 +5953,7 @@
 			"available": true
 		},
 		{
-			"brand": "Hyundai",
+			"make": "Hyundai",
 			"model": "Sonata",
 			"color": "Turquoise",
 			"year": 1992,
@@ -5961,7 +5961,7 @@
 			"available": false
 		},
 		{
-			"brand": "Mazda",
+			"make": "Mazda",
 			"model": "929",
 			"color": "Fuscia",
 			"year": 1989,
@@ -5969,7 +5969,7 @@
 			"available": true
 		},
 		{
-			"brand": "Geo",
+			"make": "Geo",
 			"model": "Prizm",
 			"color": "Goldenrod",
 			"year": 1995,
@@ -5977,7 +5977,7 @@
 			"available": false
 		},
 		{
-			"brand": "Porsche",
+			"make": "Porsche",
 			"model": "Boxster",
 			"color": "Violet",
 			"year": 2013,
@@ -5985,7 +5985,7 @@
 			"available": false
 		},
 		{
-			"brand": "Pontiac",
+			"make": "Pontiac",
 			"model": "Grand Am",
 			"color": "Fuscia",
 			"year": 2001,
@@ -5993,7 +5993,7 @@
 			"available": false
 		},
 		{
-			"brand": "Subaru",
+			"make": "Subaru",
 			"model": "Impreza",
 			"color": "Violet",
 			"year": 2012,
@@ -6001,7 +6001,7 @@
 			"available": true
 		},
 		{
-			"brand": "Suzuki",
+			"make": "Suzuki",
 			"model": "Swift",
 			"color": "Teal",
 			"year": 1989,
@@ -6009,7 +6009,7 @@
 			"available": false
 		},
 		{
-			"brand": "Acura",
+			"make": "Acura",
 			"model": "Integra",
 			"color": "Turquoise",
 			"year": 1996,
@@ -6017,7 +6017,7 @@
 			"available": false
 		},
 		{
-			"brand": "BMW",
+			"make": "BMW",
 			"model": "X6",
 			"color": "Goldenrod",
 			"year": 2011,
@@ -6025,7 +6025,7 @@
 			"available": false
 		},
 		{
-			"brand": "Toyota",
+			"make": "Toyota",
 			"model": "Tercel",
 			"color": "Pink",
 			"year": 1992,
@@ -6033,7 +6033,7 @@
 			"available": false
 		},
 		{
-			"brand": "Mazda",
+			"make": "Mazda",
 			"model": "RX-7",
 			"color": "Crimson",
 			"year": 1988,
@@ -6041,7 +6041,7 @@
 			"available": false
 		},
 		{
-			"brand": "Volkswagen",
+			"make": "Volkswagen",
 			"model": "Passat",
 			"color": "Fuscia",
 			"year": 2008,
@@ -6049,7 +6049,7 @@
 			"available": false
 		},
 		{
-			"brand": "Honda",
+			"make": "Honda",
 			"model": "Accord",
 			"color": "Teal",
 			"year": 1992,
@@ -6057,7 +6057,7 @@
 			"available": true
 		},
 		{
-			"brand": "Nissan",
+			"make": "Nissan",
 			"model": "Maxima",
 			"color": "Fuscia",
 			"year": 2012,
@@ -6065,7 +6065,7 @@
 			"available": false
 		},
 		{
-			"brand": "Buick",
+			"make": "Buick",
 			"model": "Regal",
 			"color": "Teal",
 			"year": 1994,
@@ -6073,7 +6073,7 @@
 			"available": true
 		},
 		{
-			"brand": "Dodge",
+			"make": "Dodge",
 			"model": "D150",
 			"color": "Fuscia",
 			"year": 1992,
@@ -6081,7 +6081,7 @@
 			"available": true
 		},
 		{
-			"brand": "Audi",
+			"make": "Audi",
 			"model": "TT",
 			"color": "Blue",
 			"year": 2003,
@@ -6089,7 +6089,7 @@
 			"available": true
 		},
 		{
-			"brand": "Cadillac",
+			"make": "Cadillac",
 			"model": "Eldorado",
 			"color": "Mauv",
 			"year": 1996,
@@ -6097,7 +6097,7 @@
 			"available": false
 		},
 		{
-			"brand": "Dodge",
+			"make": "Dodge",
 			"model": "Viper",
 			"color": "Maroon",
 			"year": 2002,
@@ -6105,7 +6105,7 @@
 			"available": false
 		},
 		{
-			"brand": "Ford",
+			"make": "Ford",
 			"model": "E-Series",
 			"color": "Aquamarine",
 			"year": 2010,
@@ -6113,7 +6113,7 @@
 			"available": true
 		},
 		{
-			"brand": "Mitsubishi",
+			"make": "Mitsubishi",
 			"model": "Tredia",
 			"color": "Crimson",
 			"year": 1987,
@@ -6121,7 +6121,7 @@
 			"available": true
 		},
 		{
-			"brand": "Toyota",
+			"make": "Toyota",
 			"model": "Camry",
 			"color": "Maroon",
 			"year": 1994,
@@ -6129,7 +6129,7 @@
 			"available": false
 		},
 		{
-			"brand": "Toyota",
+			"make": "Toyota",
 			"model": "Avalon",
 			"color": "Red",
 			"year": 2006,
@@ -6137,7 +6137,7 @@
 			"available": true
 		},
 		{
-			"brand": "Honda",
+			"make": "Honda",
 			"model": "Insight",
 			"color": "Khaki",
 			"year": 2004,
@@ -6145,7 +6145,7 @@
 			"available": false
 		},
 		{
-			"brand": "Cadillac",
+			"make": "Cadillac",
 			"model": "Seville",
 			"color": "Teal",
 			"year": 1997,
@@ -6153,7 +6153,7 @@
 			"available": true
 		},
 		{
-			"brand": "Dodge",
+			"make": "Dodge",
 			"model": "Ram Wagon B150",
 			"color": "Mauv",
 			"year": 1994,
@@ -6161,7 +6161,7 @@
 			"available": false
 		},
 		{
-			"brand": "Lotus",
+			"make": "Lotus",
 			"model": "Elan",
 			"color": "Yellow",
 			"year": 1994,
@@ -6169,7 +6169,7 @@
 			"available": false
 		},
 		{
-			"brand": "Pontiac",
+			"make": "Pontiac",
 			"model": "Tempest",
 			"color": "Crimson",
 			"year": 1961,
@@ -6177,7 +6177,7 @@
 			"available": false
 		},
 		{
-			"brand": "Audi",
+			"make": "Audi",
 			"model": "S4",
 			"color": "Goldenrod",
 			"year": 2013,
@@ -6185,7 +6185,7 @@
 			"available": true
 		},
 		{
-			"brand": "Chevrolet",
+			"make": "Chevrolet",
 			"model": "Malibu",
 			"color": "Teal",
 			"year": 2006,
@@ -6193,7 +6193,7 @@
 			"available": false
 		},
 		{
-			"brand": "Lincoln",
+			"make": "Lincoln",
 			"model": "Navigator",
 			"color": "Blue",
 			"year": 2003,
@@ -6201,7 +6201,7 @@
 			"available": false
 		},
 		{
-			"brand": "Subaru",
+			"make": "Subaru",
 			"model": "SVX",
 			"color": "Fuscia",
 			"year": 1993,
@@ -6209,7 +6209,7 @@
 			"available": false
 		},
 		{
-			"brand": "Lexus",
+			"make": "Lexus",
 			"model": "SC",
 			"color": "Aquamarine",
 			"year": 1994,
@@ -6217,7 +6217,7 @@
 			"available": false
 		},
 		{
-			"brand": "Ford",
+			"make": "Ford",
 			"model": "Bronco II",
 			"color": "Aquamarine",
 			"year": 1989,
@@ -6225,7 +6225,7 @@
 			"available": true
 		},
 		{
-			"brand": "GMC",
+			"make": "GMC",
 			"model": "1500 Club Coupe",
 			"color": "Pink",
 			"year": 1998,
@@ -6233,7 +6233,7 @@
 			"available": true
 		},
 		{
-			"brand": "Mitsubishi",
+			"make": "Mitsubishi",
 			"model": "Pajero",
 			"color": "Maroon",
 			"year": 1998,
@@ -6241,7 +6241,7 @@
 			"available": false
 		},
 		{
-			"brand": "Subaru",
+			"make": "Subaru",
 			"model": "Forester",
 			"color": "Violet",
 			"year": 2011,
@@ -6249,7 +6249,7 @@
 			"available": true
 		},
 		{
-			"brand": "Mercury",
+			"make": "Mercury",
 			"model": "Grand Marquis",
 			"color": "Puce",
 			"year": 2005,
@@ -6257,7 +6257,7 @@
 			"available": true
 		},
 		{
-			"brand": "Land Rover",
+			"make": "Land Rover",
 			"model": "Range Rover",
 			"color": "Indigo",
 			"year": 2001,
@@ -6265,7 +6265,7 @@
 			"available": false
 		},
 		{
-			"brand": "Scion",
+			"make": "Scion",
 			"model": "tC",
 			"color": "Indigo",
 			"year": 2007,
@@ -6273,7 +6273,7 @@
 			"available": true
 		},
 		{
-			"brand": "Volkswagen",
+			"make": "Volkswagen",
 			"model": "Jetta III",
 			"color": "Purple",
 			"year": 1995,
@@ -6281,7 +6281,7 @@
 			"available": true
 		},
 		{
-			"brand": "Chevrolet",
+			"make": "Chevrolet",
 			"model": "Tahoe",
 			"color": "Teal",
 			"year": 2006,
@@ -6289,7 +6289,7 @@
 			"available": false
 		},
 		{
-			"brand": "Audi",
+			"make": "Audi",
 			"model": "TT",
 			"color": "Puce",
 			"year": 2004,
@@ -6297,7 +6297,7 @@
 			"available": true
 		},
 		{
-			"brand": "Audi",
+			"make": "Audi",
 			"model": "A7",
 			"color": "Puce",
 			"year": 2012,
@@ -6305,7 +6305,7 @@
 			"available": false
 		},
 		{
-			"brand": "Volvo",
+			"make": "Volvo",
 			"model": "V70",
 			"color": "Teal",
 			"year": 2005,
@@ -6313,7 +6313,7 @@
 			"available": true
 		},
 		{
-			"brand": "Volkswagen",
+			"make": "Volkswagen",
 			"model": "New Beetle",
 			"color": "Orange",
 			"year": 2007,
@@ -6321,7 +6321,7 @@
 			"available": false
 		},
 		{
-			"brand": "Land Rover",
+			"make": "Land Rover",
 			"model": "Range Rover",
 			"color": "Purple",
 			"year": 2006,
@@ -6329,7 +6329,7 @@
 			"available": true
 		},
 		{
-			"brand": "Aston Martin",
+			"make": "Aston Martin",
 			"model": "DB9",
 			"color": "Goldenrod",
 			"year": 2010,
@@ -6337,7 +6337,7 @@
 			"available": true
 		},
 		{
-			"brand": "Ford",
+			"make": "Ford",
 			"model": "F250",
 			"color": "Blue",
 			"year": 2010,
@@ -6345,7 +6345,7 @@
 			"available": true
 		},
 		{
-			"brand": "Pontiac",
+			"make": "Pontiac",
 			"model": "LeMans",
 			"color": "Goldenrod",
 			"year": 1990,
@@ -6353,7 +6353,7 @@
 			"available": true
 		},
 		{
-			"brand": "Mitsubishi",
+			"make": "Mitsubishi",
 			"model": "Cordia",
 			"color": "Goldenrod",
 			"year": 1987,
@@ -6361,7 +6361,7 @@
 			"available": false
 		},
 		{
-			"brand": "Ford",
+			"make": "Ford",
 			"model": "Ranger",
 			"color": "Aquamarine",
 			"year": 2003,
@@ -6369,7 +6369,7 @@
 			"available": false
 		},
 		{
-			"brand": "Mitsubishi",
+			"make": "Mitsubishi",
 			"model": "Expo",
 			"color": "Turquoise",
 			"year": 1995,
@@ -6377,7 +6377,7 @@
 			"available": false
 		},
 		{
-			"brand": "Suzuki",
+			"make": "Suzuki",
 			"model": "SX4",
 			"color": "Aquamarine",
 			"year": 2010,
@@ -6385,7 +6385,7 @@
 			"available": false
 		},
 		{
-			"brand": "Volvo",
+			"make": "Volvo",
 			"model": "C70",
 			"color": "Goldenrod",
 			"year": 2012,
@@ -6393,7 +6393,7 @@
 			"available": false
 		},
 		{
-			"brand": "Dodge",
+			"make": "Dodge",
 			"model": "Viper",
 			"color": "Pink",
 			"year": 2001,
@@ -6401,7 +6401,7 @@
 			"available": true
 		},
 		{
-			"brand": "Scion",
+			"make": "Scion",
 			"model": "tC",
 			"color": "Aquamarine",
 			"year": 2011,
@@ -6409,7 +6409,7 @@
 			"available": false
 		},
 		{
-			"brand": "Ford",
+			"make": "Ford",
 			"model": "Crown Victoria",
 			"color": "Orange",
 			"year": 1994,
@@ -6417,7 +6417,7 @@
 			"available": true
 		},
 		{
-			"brand": "Kia",
+			"make": "Kia",
 			"model": "Sportage",
 			"color": "Purple",
 			"year": 1996,
@@ -6425,7 +6425,7 @@
 			"available": true
 		},
 		{
-			"brand": "Acura",
+			"make": "Acura",
 			"model": "CL",
 			"color": "Maroon",
 			"year": 2003,
@@ -6433,7 +6433,7 @@
 			"available": true
 		},
 		{
-			"brand": "Porsche",
+			"make": "Porsche",
 			"model": "911",
 			"color": "Khaki",
 			"year": 2006,
@@ -6441,7 +6441,7 @@
 			"available": true
 		},
 		{
-			"brand": "Holden",
+			"make": "Holden",
 			"model": "Monaro",
 			"color": "Red",
 			"year": 2004,
@@ -6449,7 +6449,7 @@
 			"available": false
 		},
 		{
-			"brand": "Ford",
+			"make": "Ford",
 			"model": "F250",
 			"color": "Red",
 			"year": 2010,
@@ -6457,7 +6457,7 @@
 			"available": true
 		},
 		{
-			"brand": "Volvo",
+			"make": "Volvo",
 			"model": "C70",
 			"color": "Aquamarine",
 			"year": 2007,
@@ -6465,7 +6465,7 @@
 			"available": false
 		},
 		{
-			"brand": "Saturn",
+			"make": "Saturn",
 			"model": "L-Series",
 			"color": "Blue",
 			"year": 2003,
@@ -6473,7 +6473,7 @@
 			"available": false
 		},
 		{
-			"brand": "Chevrolet",
+			"make": "Chevrolet",
 			"model": "Malibu",
 			"color": "Turquoise",
 			"year": 2001,
@@ -6481,7 +6481,7 @@
 			"available": false
 		},
 		{
-			"brand": "Mitsubishi",
+			"make": "Mitsubishi",
 			"model": "Galant",
 			"color": "Aquamarine",
 			"year": 1998,
@@ -6489,7 +6489,7 @@
 			"available": false
 		},
 		{
-			"brand": "Lincoln",
+			"make": "Lincoln",
 			"model": "Navigator",
 			"color": "Teal",
 			"year": 2010,
@@ -6497,7 +6497,7 @@
 			"available": true
 		},
 		{
-			"brand": "Porsche",
+			"make": "Porsche",
 			"model": "928",
 			"color": "Puce",
 			"year": 1994,
@@ -6505,7 +6505,7 @@
 			"available": true
 		},
 		{
-			"brand": "Subaru",
+			"make": "Subaru",
 			"model": "Brat",
 			"color": "Puce",
 			"year": 1984,
@@ -6513,7 +6513,7 @@
 			"available": true
 		},
 		{
-			"brand": "Ford",
+			"make": "Ford",
 			"model": "Excursion",
 			"color": "Violet",
 			"year": 2004,
@@ -6521,7 +6521,7 @@
 			"available": true
 		},
 		{
-			"brand": "Porsche",
+			"make": "Porsche",
 			"model": "Cayman",
 			"color": "Maroon",
 			"year": 2011,
@@ -6529,7 +6529,7 @@
 			"available": false
 		},
 		{
-			"brand": "Cadillac",
+			"make": "Cadillac",
 			"model": "Escalade ESV",
 			"color": "Purple",
 			"year": 2012,
@@ -6537,7 +6537,7 @@
 			"available": false
 		},
 		{
-			"brand": "Volvo",
+			"make": "Volvo",
 			"model": "S60",
 			"color": "Maroon",
 			"year": 2008,
@@ -6545,7 +6545,7 @@
 			"available": false
 		},
 		{
-			"brand": "Bentley",
+			"make": "Bentley",
 			"model": "Azure",
 			"color": "Orange",
 			"year": 2006,
@@ -6553,7 +6553,7 @@
 			"available": true
 		},
 		{
-			"brand": "Ford",
+			"make": "Ford",
 			"model": "F250",
 			"color": "Khaki",
 			"year": 2005,
@@ -6561,7 +6561,7 @@
 			"available": false
 		},
 		{
-			"brand": "Ford",
+			"make": "Ford",
 			"model": "Crown Victoria",
 			"color": "Maroon",
 			"year": 2001,
@@ -6569,7 +6569,7 @@
 			"available": true
 		},
 		{
-			"brand": "Aston Martin",
+			"make": "Aston Martin",
 			"model": "DB9",
 			"color": "Indigo",
 			"year": 2008,
@@ -6577,7 +6577,7 @@
 			"available": true
 		},
 		{
-			"brand": "Lincoln",
+			"make": "Lincoln",
 			"model": "Mark VIII",
 			"color": "Yellow",
 			"year": 1994,
@@ -6585,7 +6585,7 @@
 			"available": false
 		},
 		{
-			"brand": "Chevrolet",
+			"make": "Chevrolet",
 			"model": "G-Series G10",
 			"color": "Puce",
 			"year": 1993,
@@ -6593,7 +6593,7 @@
 			"available": true
 		},
 		{
-			"brand": "Volkswagen",
+			"make": "Volkswagen",
 			"model": "Type 2",
 			"color": "Red",
 			"year": 1990,
@@ -6601,7 +6601,7 @@
 			"available": false
 		},
 		{
-			"brand": "Mercury",
+			"make": "Mercury",
 			"model": "Sable",
 			"color": "Aquamarine",
 			"year": 2003,
@@ -6609,7 +6609,7 @@
 			"available": true
 		},
 		{
-			"brand": "Ford",
+			"make": "Ford",
 			"model": "Club Wagon",
 			"color": "Violet",
 			"year": 1994,
@@ -6617,7 +6617,7 @@
 			"available": true
 		},
 		{
-			"brand": "Mitsubishi",
+			"make": "Mitsubishi",
 			"model": "Galant",
 			"color": "Fuscia",
 			"year": 2011,
@@ -6625,7 +6625,7 @@
 			"available": false
 		},
 		{
-			"brand": "MINI",
+			"make": "MINI",
 			"model": "Clubman",
 			"color": "Crimson",
 			"year": 2011,
@@ -6633,7 +6633,7 @@
 			"available": true
 		},
 		{
-			"brand": "Chevrolet",
+			"make": "Chevrolet",
 			"model": "Monte Carlo",
 			"color": "Aquamarine",
 			"year": 2005,
@@ -6641,7 +6641,7 @@
 			"available": true
 		},
 		{
-			"brand": "Lamborghini",
+			"make": "Lamborghini",
 			"model": "Gallardo",
 			"color": "Teal",
 			"year": 2010,
@@ -6649,7 +6649,7 @@
 			"available": true
 		},
 		{
-			"brand": "Chevrolet",
+			"make": "Chevrolet",
 			"model": "Silverado",
 			"color": "Maroon",
 			"year": 2010,
@@ -6657,7 +6657,7 @@
 			"available": false
 		},
 		{
-			"brand": "Audi",
+			"make": "Audi",
 			"model": "riolet",
 			"color": "Mauv",
 			"year": 1995,
@@ -6665,7 +6665,7 @@
 			"available": false
 		},
 		{
-			"brand": "Toyota",
+			"make": "Toyota",
 			"model": "Prius v",
 			"color": "Purple",
 			"year": 2012,
@@ -6673,7 +6673,7 @@
 			"available": false
 		},
 		{
-			"brand": "Volkswagen",
+			"make": "Volkswagen",
 			"model": "Phaeton",
 			"color": "Khaki",
 			"year": 2006,
@@ -6681,7 +6681,7 @@
 			"available": true
 		},
 		{
-			"brand": "Ford",
+			"make": "Ford",
 			"model": "Mustang",
 			"color": "Goldenrod",
 			"year": 2007,
@@ -6689,7 +6689,7 @@
 			"available": true
 		},
 		{
-			"brand": "Toyota",
+			"make": "Toyota",
 			"model": "T100",
 			"color": "Indigo",
 			"year": 1996,
@@ -6697,7 +6697,7 @@
 			"available": true
 		},
 		{
-			"brand": "Audi",
+			"make": "Audi",
 			"model": "A6",
 			"color": "Mauv",
 			"year": 1995,
@@ -6705,7 +6705,7 @@
 			"available": false
 		},
 		{
-			"brand": "Nissan",
+			"make": "Nissan",
 			"model": "Xterra",
 			"color": "Maroon",
 			"year": 2006,
@@ -6713,7 +6713,7 @@
 			"available": true
 		},
 		{
-			"brand": "Saab",
+			"make": "Saab",
 			"model": "9-2X",
 			"color": "Green",
 			"year": 2005,
@@ -6721,7 +6721,7 @@
 			"available": false
 		},
 		{
-			"brand": "Ford",
+			"make": "Ford",
 			"model": "F-Series Super Duty",
 			"color": "Fuscia",
 			"year": 2010,
@@ -6729,7 +6729,7 @@
 			"available": true
 		},
 		{
-			"brand": "Chevrolet",
+			"make": "Chevrolet",
 			"model": "Impala",
 			"color": "Maroon",
 			"year": 2009,
@@ -6737,7 +6737,7 @@
 			"available": false
 		},
 		{
-			"brand": "Mazda",
+			"make": "Mazda",
 			"model": "MPV",
 			"color": "Fuscia",
 			"year": 1990,
@@ -6745,7 +6745,7 @@
 			"available": false
 		},
 		{
-			"brand": "Jeep",
+			"make": "Jeep",
 			"model": "Commander",
 			"color": "Green",
 			"year": 2006,
@@ -6753,7 +6753,7 @@
 			"available": true
 		},
 		{
-			"brand": "Kia",
+			"make": "Kia",
 			"model": "Mohave/Borrego",
 			"color": "Indigo",
 			"year": 2009,
@@ -6761,7 +6761,7 @@
 			"available": true
 		},
 		{
-			"brand": "Ford",
+			"make": "Ford",
 			"model": "Club Wagon",
 			"color": "Goldenrod",
 			"year": 1993,
@@ -6769,7 +6769,7 @@
 			"available": false
 		},
 		{
-			"brand": "Ford",
+			"make": "Ford",
 			"model": "Escort",
 			"color": "Purple",
 			"year": 1985,
@@ -6777,7 +6777,7 @@
 			"available": true
 		},
 		{
-			"brand": "Audi",
+			"make": "Audi",
 			"model": "riolet",
 			"color": "Indigo",
 			"year": 1998,
@@ -6785,7 +6785,7 @@
 			"available": false
 		},
 		{
-			"brand": "Audi",
+			"make": "Audi",
 			"model": "A3",
 			"color": "Crimson",
 			"year": 2009,
@@ -6793,7 +6793,7 @@
 			"available": true
 		},
 		{
-			"brand": "Honda",
+			"make": "Honda",
 			"model": "Civic",
 			"color": "Khaki",
 			"year": 2005,
@@ -6801,7 +6801,7 @@
 			"available": false
 		},
 		{
-			"brand": "Mazda",
+			"make": "Mazda",
 			"model": "929",
 			"color": "Orange",
 			"year": 1991,
@@ -6809,7 +6809,7 @@
 			"available": false
 		},
 		{
-			"brand": "Ford",
+			"make": "Ford",
 			"model": "Escort",
 			"color": "Maroon",
 			"year": 1984,
@@ -6817,7 +6817,7 @@
 			"available": true
 		},
 		{
-			"brand": "Pontiac",
+			"make": "Pontiac",
 			"model": "Firebird",
 			"color": "Mauv",
 			"year": 1967,
@@ -6825,7 +6825,7 @@
 			"available": false
 		},
 		{
-			"brand": "Pontiac",
+			"make": "Pontiac",
 			"model": "Sunbird",
 			"color": "Indigo",
 			"year": 1990,
@@ -6833,7 +6833,7 @@
 			"available": false
 		},
 		{
-			"brand": "Ford",
+			"make": "Ford",
 			"model": "Escort",
 			"color": "Violet",
 			"year": 1996,
@@ -6841,7 +6841,7 @@
 			"available": false
 		},
 		{
-			"brand": "Infiniti",
+			"make": "Infiniti",
 			"model": "I",
 			"color": "Teal",
 			"year": 2004,
@@ -6849,7 +6849,7 @@
 			"available": false
 		},
 		{
-			"brand": "BMW",
+			"make": "BMW",
 			"model": "3 Series",
 			"color": "Aquamarine",
 			"year": 2004,
@@ -6857,7 +6857,7 @@
 			"available": false
 		},
 		{
-			"brand": "Kia",
+			"make": "Kia",
 			"model": "Sportage",
 			"color": "Teal",
 			"year": 2005,
@@ -6865,7 +6865,7 @@
 			"available": false
 		},
 		{
-			"brand": "BMW",
+			"make": "BMW",
 			"model": "530",
 			"color": "Yellow",
 			"year": 2004,
@@ -6873,7 +6873,7 @@
 			"available": true
 		},
 		{
-			"brand": "Ford",
+			"make": "Ford",
 			"model": "Thunderbird",
 			"color": "Yellow",
 			"year": 1983,
@@ -6881,7 +6881,7 @@
 			"available": true
 		},
 		{
-			"brand": "Chevrolet",
+			"make": "Chevrolet",
 			"model": "Sportvan G20",
 			"color": "Khaki",
 			"year": 1992,
@@ -6889,7 +6889,7 @@
 			"available": false
 		},
 		{
-			"brand": "Chevrolet",
+			"make": "Chevrolet",
 			"model": "Astro",
 			"color": "Violet",
 			"year": 2001,
@@ -6897,7 +6897,7 @@
 			"available": false
 		},
 		{
-			"brand": "Lincoln",
+			"make": "Lincoln",
 			"model": "MKZ",
 			"color": "Purple",
 			"year": 2012,
@@ -6905,7 +6905,7 @@
 			"available": true
 		},
 		{
-			"brand": "Chevrolet",
+			"make": "Chevrolet",
 			"model": "Malibu Maxx",
 			"color": "Purple",
 			"year": 2006,
@@ -6913,7 +6913,7 @@
 			"available": false
 		},
 		{
-			"brand": "Chevrolet",
+			"make": "Chevrolet",
 			"model": "Blazer",
 			"color": "Crimson",
 			"year": 1993,
@@ -6921,7 +6921,7 @@
 			"available": true
 		},
 		{
-			"brand": "Honda",
+			"make": "Honda",
 			"model": "Civic",
 			"color": "Crimson",
 			"year": 2003,
@@ -6929,7 +6929,7 @@
 			"available": false
 		},
 		{
-			"brand": "Jeep",
+			"make": "Jeep",
 			"model": "Comanche",
 			"color": "Mauv",
 			"year": 1992,
@@ -6937,7 +6937,7 @@
 			"available": false
 		},
 		{
-			"brand": "Lincoln",
+			"make": "Lincoln",
 			"model": "Town Car",
 			"color": "Indigo",
 			"year": 1988,
@@ -6945,7 +6945,7 @@
 			"available": false
 		},
 		{
-			"brand": "Subaru",
+			"make": "Subaru",
 			"model": "Justy",
 			"color": "Fuscia",
 			"year": 1992,
@@ -6953,7 +6953,7 @@
 			"available": true
 		},
 		{
-			"brand": "Mercedes-Benz",
+			"make": "Mercedes-Benz",
 			"model": "CL-Class",
 			"color": "Puce",
 			"year": 2004,
@@ -6961,7 +6961,7 @@
 			"available": false
 		},
 		{
-			"brand": "Bentley",
+			"make": "Bentley",
 			"model": "Continental GT",
 			"color": "Blue",
 			"year": 2010,
@@ -6969,7 +6969,7 @@
 			"available": true
 		},
 		{
-			"brand": "Honda",
+			"make": "Honda",
 			"model": "Odyssey",
 			"color": "Aquamarine",
 			"year": 1995,
@@ -6977,7 +6977,7 @@
 			"available": true
 		},
 		{
-			"brand": "Maserati",
+			"make": "Maserati",
 			"model": "430",
 			"color": "Fuscia",
 			"year": 1991,
@@ -6985,7 +6985,7 @@
 			"available": true
 		},
 		{
-			"brand": "Mercedes-Benz",
+			"make": "Mercedes-Benz",
 			"model": "SLK-Class",
 			"color": "Goldenrod",
 			"year": 1999,
@@ -6993,7 +6993,7 @@
 			"available": true
 		},
 		{
-			"brand": "Acura",
+			"make": "Acura",
 			"model": "TL",
 			"color": "Blue",
 			"year": 2002,
@@ -7001,7 +7001,7 @@
 			"available": false
 		},
 		{
-			"brand": "Isuzu",
+			"make": "Isuzu",
 			"model": "Trooper",
 			"color": "Pink",
 			"year": 1993,
@@ -7009,7 +7009,7 @@
 			"available": false
 		},
 		{
-			"brand": "Dodge",
+			"make": "Dodge",
 			"model": "Viper RT/10",
 			"color": "Teal",
 			"year": 1993,
@@ -7017,7 +7017,7 @@
 			"available": true
 		},
 		{
-			"brand": "Ford",
+			"make": "Ford",
 			"model": "Taurus",
 			"color": "Goldenrod",
 			"year": 1991,
@@ -7025,7 +7025,7 @@
 			"available": false
 		},
 		{
-			"brand": "Nissan",
+			"make": "Nissan",
 			"model": "Frontier",
 			"color": "Yellow",
 			"year": 2005,
@@ -7033,7 +7033,7 @@
 			"available": false
 		},
 		{
-			"brand": "Mercedes-Benz",
+			"make": "Mercedes-Benz",
 			"model": "SLK-Class",
 			"color": "Red",
 			"year": 1997,
@@ -7041,7 +7041,7 @@
 			"available": true
 		},
 		{
-			"brand": "Hyundai",
+			"make": "Hyundai",
 			"model": "Tucson",
 			"color": "Aquamarine",
 			"year": 2008,
@@ -7049,7 +7049,7 @@
 			"available": false
 		},
 		{
-			"brand": "Dodge",
+			"make": "Dodge",
 			"model": "Avenger",
 			"color": "Fuscia",
 			"year": 2009,
@@ -7057,7 +7057,7 @@
 			"available": false
 		},
 		{
-			"brand": "Subaru",
+			"make": "Subaru",
 			"model": "Legacy",
 			"color": "Indigo",
 			"year": 2012,
@@ -7065,7 +7065,7 @@
 			"available": true
 		},
 		{
-			"brand": "Pontiac",
+			"make": "Pontiac",
 			"model": "LeMans",
 			"color": "Green",
 			"year": 1966,
@@ -7073,7 +7073,7 @@
 			"available": false
 		},
 		{
-			"brand": "Kia",
+			"make": "Kia",
 			"model": "Rio",
 			"color": "Aquamarine",
 			"year": 2010,
@@ -7081,7 +7081,7 @@
 			"available": false
 		},
 		{
-			"brand": "Lincoln",
+			"make": "Lincoln",
 			"model": "MKZ",
 			"color": "Turquoise",
 			"year": 2010,
@@ -7089,7 +7089,7 @@
 			"available": true
 		},
 		{
-			"brand": "Rolls-Royce",
+			"make": "Rolls-Royce",
 			"model": "Phantom",
 			"color": "Indigo",
 			"year": 2005,
@@ -7097,7 +7097,7 @@
 			"available": false
 		},
 		{
-			"brand": "Lexus",
+			"make": "Lexus",
 			"model": "LFA",
 			"color": "Pink",
 			"year": 2012,
@@ -7105,7 +7105,7 @@
 			"available": true
 		},
 		{
-			"brand": "Mitsubishi",
+			"make": "Mitsubishi",
 			"model": "GTO",
 			"color": "Khaki",
 			"year": 1999,
@@ -7113,7 +7113,7 @@
 			"available": true
 		},
 		{
-			"brand": "Plymouth",
+			"make": "Plymouth",
 			"model": "Acclaim",
 			"color": "Crimson",
 			"year": 1994,
@@ -7121,7 +7121,7 @@
 			"available": false
 		},
 		{
-			"brand": "Hummer",
+			"make": "Hummer",
 			"model": "H1",
 			"color": "Crimson",
 			"year": 1999,
@@ -7129,7 +7129,7 @@
 			"available": false
 		},
 		{
-			"brand": "Chrysler",
+			"make": "Chrysler",
 			"model": "Town & Country",
 			"color": "Crimson",
 			"year": 2007,
@@ -7137,7 +7137,7 @@
 			"available": true
 		},
 		{
-			"brand": "GMC",
+			"make": "GMC",
 			"model": "Yukon",
 			"color": "Mauv",
 			"year": 2005,
@@ -7145,7 +7145,7 @@
 			"available": true
 		},
 		{
-			"brand": "Lamborghini",
+			"make": "Lamborghini",
 			"model": "Murciélago",
 			"color": "Orange",
 			"year": 2008,
@@ -7153,7 +7153,7 @@
 			"available": true
 		},
 		{
-			"brand": "Maybach",
+			"make": "Maybach",
 			"model": "Landaulet",
 			"color": "Orange",
 			"year": 2011,
@@ -7161,7 +7161,7 @@
 			"available": true
 		},
 		{
-			"brand": "Jaguar",
+			"make": "Jaguar",
 			"model": "XJ Series",
 			"color": "Maroon",
 			"year": 2000,
@@ -7169,7 +7169,7 @@
 			"available": false
 		},
 		{
-			"brand": "Ford",
+			"make": "Ford",
 			"model": "F-Series",
 			"color": "Aquamarine",
 			"year": 1987,
@@ -7177,7 +7177,7 @@
 			"available": true
 		},
 		{
-			"brand": "Toyota",
+			"make": "Toyota",
 			"model": "Land Cruiser",
 			"color": "Green",
 			"year": 2002,
@@ -7185,7 +7185,7 @@
 			"available": true
 		},
 		{
-			"brand": "Mercedes-Benz",
+			"make": "Mercedes-Benz",
 			"model": "SLR McLaren",
 			"color": "Blue",
 			"year": 2005,
@@ -7193,7 +7193,7 @@
 			"available": false
 		},
 		{
-			"brand": "Pontiac",
+			"make": "Pontiac",
 			"model": "Sunfire",
 			"color": "Khaki",
 			"year": 1997,
@@ -7201,7 +7201,7 @@
 			"available": false
 		},
 		{
-			"brand": "Buick",
+			"make": "Buick",
 			"model": "Park Avenue",
 			"color": "Khaki",
 			"year": 1998,
@@ -7209,7 +7209,7 @@
 			"available": true
 		},
 		{
-			"brand": "Honda",
+			"make": "Honda",
 			"model": "Civic",
 			"color": "Violet",
 			"year": 2007,
@@ -7217,7 +7217,7 @@
 			"available": false
 		},
 		{
-			"brand": "Chevrolet",
+			"make": "Chevrolet",
 			"model": "Suburban 2500",
 			"color": "Teal",
 			"year": 1998,
@@ -7225,7 +7225,7 @@
 			"available": true
 		},
 		{
-			"brand": "Ford",
+			"make": "Ford",
 			"model": "Explorer",
 			"color": "Pink",
 			"year": 2004,
@@ -7233,7 +7233,7 @@
 			"available": true
 		},
 		{
-			"brand": "Chevrolet",
+			"make": "Chevrolet",
 			"model": "Malibu",
 			"color": "Pink",
 			"year": 2001,
@@ -7241,7 +7241,7 @@
 			"available": false
 		},
 		{
-			"brand": "Jeep",
+			"make": "Jeep",
 			"model": "Cherokee",
 			"color": "Pink",
 			"year": 1994,
@@ -7249,7 +7249,7 @@
 			"available": false
 		},
 		{
-			"brand": "Ford",
+			"make": "Ford",
 			"model": "LTD",
 			"color": "Maroon",
 			"year": 1986,
@@ -7257,7 +7257,7 @@
 			"available": true
 		},
 		{
-			"brand": "Ford",
+			"make": "Ford",
 			"model": "GT500",
 			"color": "Purple",
 			"year": 2009,
@@ -7265,7 +7265,7 @@
 			"available": true
 		},
 		{
-			"brand": "Chrysler",
+			"make": "Chrysler",
 			"model": "Town & Country",
 			"color": "Red",
 			"year": 1995,
@@ -7273,7 +7273,7 @@
 			"available": true
 		},
 		{
-			"brand": "Chrysler",
+			"make": "Chrysler",
 			"model": "300",
 			"color": "Puce",
 			"year": 1999,
@@ -7281,7 +7281,7 @@
 			"available": true
 		},
 		{
-			"brand": "Acura",
+			"make": "Acura",
 			"model": "CL",
 			"color": "Violet",
 			"year": 1998,
@@ -7289,7 +7289,7 @@
 			"available": false
 		},
 		{
-			"brand": "Tesla",
+			"make": "Tesla",
 			"model": "Model S",
 			"color": "Khaki",
 			"year": 2012,
@@ -7297,7 +7297,7 @@
 			"available": false
 		},
 		{
-			"brand": "Land Rover",
+			"make": "Land Rover",
 			"model": "Discovery Series II",
 			"color": "Purple",
 			"year": 2002,
@@ -7305,7 +7305,7 @@
 			"available": false
 		},
 		{
-			"brand": "Hyundai",
+			"make": "Hyundai",
 			"model": "Tiburon",
 			"color": "Purple",
 			"year": 2006,
@@ -7313,7 +7313,7 @@
 			"available": false
 		},
 		{
-			"brand": "Infiniti",
+			"make": "Infiniti",
 			"model": "G35",
 			"color": "Puce",
 			"year": 2006,
@@ -7321,7 +7321,7 @@
 			"available": true
 		},
 		{
-			"brand": "GMC",
+			"make": "GMC",
 			"model": "Savana 2500",
 			"color": "Orange",
 			"year": 2001,
@@ -7329,7 +7329,7 @@
 			"available": true
 		},
 		{
-			"brand": "Jaguar",
+			"make": "Jaguar",
 			"model": "XJ Series",
 			"color": "Orange",
 			"year": 1998,
@@ -7337,7 +7337,7 @@
 			"available": false
 		},
 		{
-			"brand": "Toyota",
+			"make": "Toyota",
 			"model": "Highlander",
 			"color": "Pink",
 			"year": 2012,
@@ -7345,7 +7345,7 @@
 			"available": false
 		},
 		{
-			"brand": "Acura",
+			"make": "Acura",
 			"model": "CL",
 			"color": "Purple",
 			"year": 1999,
@@ -7353,7 +7353,7 @@
 			"available": false
 		},
 		{
-			"brand": "Mercedes-Benz",
+			"make": "Mercedes-Benz",
 			"model": "300TE",
 			"color": "Indigo",
 			"year": 1993,
@@ -7361,7 +7361,7 @@
 			"available": false
 		},
 		{
-			"brand": "Hyundai",
+			"make": "Hyundai",
 			"model": "Santa Fe",
 			"color": "Teal",
 			"year": 2011,
@@ -7369,7 +7369,7 @@
 			"available": true
 		},
 		{
-			"brand": "BMW",
+			"make": "BMW",
 			"model": "X3",
 			"color": "Turquoise",
 			"year": 2006,
@@ -7377,7 +7377,7 @@
 			"available": true
 		},
 		{
-			"brand": "Nissan",
+			"make": "Nissan",
 			"model": "Titan",
 			"color": "Fuscia",
 			"year": 2010,
@@ -7385,7 +7385,7 @@
 			"available": true
 		},
 		{
-			"brand": "Porsche",
+			"make": "Porsche",
 			"model": "Cayman",
 			"color": "Pink",
 			"year": 2006,
@@ -7393,7 +7393,7 @@
 			"available": false
 		},
 		{
-			"brand": "Nissan",
+			"make": "Nissan",
 			"model": "Sentra",
 			"color": "Khaki",
 			"year": 1998,
@@ -7401,7 +7401,7 @@
 			"available": false
 		},
 		{
-			"brand": "Hyundai",
+			"make": "Hyundai",
 			"model": "Santa Fe",
 			"color": "Purple",
 			"year": 2006,
@@ -7409,7 +7409,7 @@
 			"available": true
 		},
 		{
-			"brand": "Toyota",
+			"make": "Toyota",
 			"model": "Sienna",
 			"color": "Violet",
 			"year": 2009,
@@ -7417,7 +7417,7 @@
 			"available": false
 		},
 		{
-			"brand": "Pontiac",
+			"make": "Pontiac",
 			"model": "LeMans",
 			"color": "Crimson",
 			"year": 1992,
@@ -7425,7 +7425,7 @@
 			"available": true
 		},
 		{
-			"brand": "Mercedes-Benz",
+			"make": "Mercedes-Benz",
 			"model": "300E",
 			"color": "Goldenrod",
 			"year": 1993,
@@ -7433,7 +7433,7 @@
 			"available": true
 		},
 		{
-			"brand": "Chevrolet",
+			"make": "Chevrolet",
 			"model": "Caprice",
 			"color": "Orange",
 			"year": 1983,
@@ -7441,7 +7441,7 @@
 			"available": false
 		},
 		{
-			"brand": "Pontiac",
+			"make": "Pontiac",
 			"model": "Firefly",
 			"color": "Crimson",
 			"year": 1988,
@@ -7449,7 +7449,7 @@
 			"available": false
 		},
 		{
-			"brand": "Audi",
+			"make": "Audi",
 			"model": "V8",
 			"color": "Fuscia",
 			"year": 1992,
@@ -7457,7 +7457,7 @@
 			"available": true
 		},
 		{
-			"brand": "Acura",
+			"make": "Acura",
 			"model": "ZDX",
 			"color": "Turquoise",
 			"year": 2011,
@@ -7465,7 +7465,7 @@
 			"available": false
 		},
 		{
-			"brand": "Mercury",
+			"make": "Mercury",
 			"model": "Mystique",
 			"color": "Khaki",
 			"year": 1999,
@@ -7473,7 +7473,7 @@
 			"available": true
 		},
 		{
-			"brand": "Volvo",
+			"make": "Volvo",
 			"model": "C30",
 			"color": "Green",
 			"year": 2012,
@@ -7481,7 +7481,7 @@
 			"available": true
 		},
 		{
-			"brand": "Audi",
+			"make": "Audi",
 			"model": "TT",
 			"color": "Aquamarine",
 			"year": 2006,
@@ -7489,7 +7489,7 @@
 			"available": true
 		},
 		{
-			"brand": "Subaru",
+			"make": "Subaru",
 			"model": "Legacy",
 			"color": "Goldenrod",
 			"year": 1989,
@@ -7497,7 +7497,7 @@
 			"available": false
 		},
 		{
-			"brand": "Cadillac",
+			"make": "Cadillac",
 			"model": "DeVille",
 			"color": "Maroon",
 			"year": 2002,
@@ -7505,7 +7505,7 @@
 			"available": false
 		},
 		{
-			"brand": "Infiniti",
+			"make": "Infiniti",
 			"model": "G37",
 			"color": "Orange",
 			"year": 2011,
@@ -7513,7 +7513,7 @@
 			"available": false
 		},
 		{
-			"brand": "Saturn",
+			"make": "Saturn",
 			"model": "L-Series",
 			"color": "Puce",
 			"year": 2005,
@@ -7521,7 +7521,7 @@
 			"available": true
 		},
 		{
-			"brand": "Audi",
+			"make": "Audi",
 			"model": "4000",
 			"color": "Puce",
 			"year": 1987,
@@ -7529,7 +7529,7 @@
 			"available": true
 		},
 		{
-			"brand": "GMC",
+			"make": "GMC",
 			"model": "Sierra 2500",
 			"color": "Pink",
 			"year": 2000,
@@ -7537,7 +7537,7 @@
 			"available": false
 		},
 		{
-			"brand": "Nissan",
+			"make": "Nissan",
 			"model": "Sentra",
 			"color": "Goldenrod",
 			"year": 1997,
@@ -7545,7 +7545,7 @@
 			"available": true
 		},
 		{
-			"brand": "Lotus",
+			"make": "Lotus",
 			"model": "Esprit",
 			"color": "Turquoise",
 			"year": 1989,
@@ -7553,7 +7553,7 @@
 			"available": false
 		},
 		{
-			"brand": "Volvo",
+			"make": "Volvo",
 			"model": "C30",
 			"color": "Indigo",
 			"year": 2010,
@@ -7561,7 +7561,7 @@
 			"available": true
 		},
 		{
-			"brand": "Ford",
+			"make": "Ford",
 			"model": "F-Series",
 			"color": "Green",
 			"year": 1991,
@@ -7569,7 +7569,7 @@
 			"available": false
 		},
 		{
-			"brand": "Plymouth",
+			"make": "Plymouth",
 			"model": "Breeze",
 			"color": "Aquamarine",
 			"year": 2000,
@@ -7577,7 +7577,7 @@
 			"available": true
 		},
 		{
-			"brand": "Chevrolet",
+			"make": "Chevrolet",
 			"model": "S10",
 			"color": "Green",
 			"year": 1994,
@@ -7585,7 +7585,7 @@
 			"available": false
 		},
 		{
-			"brand": "BMW",
+			"make": "BMW",
 			"model": "X5",
 			"color": "Puce",
 			"year": 2013,
@@ -7593,7 +7593,7 @@
 			"available": true
 		},
 		{
-			"brand": "Nissan",
+			"make": "Nissan",
 			"model": "Altima",
 			"color": "Purple",
 			"year": 2004,
@@ -7601,7 +7601,7 @@
 			"available": false
 		},
 		{
-			"brand": "Porsche",
+			"make": "Porsche",
 			"model": "Boxster",
 			"color": "Aquamarine",
 			"year": 2009,
@@ -7609,7 +7609,7 @@
 			"available": true
 		},
 		{
-			"brand": "Jeep",
+			"make": "Jeep",
 			"model": "Cherokee",
 			"color": "Orange",
 			"year": 1995,
@@ -7617,7 +7617,7 @@
 			"available": false
 		},
 		{
-			"brand": "Chevrolet",
+			"make": "Chevrolet",
 			"model": "Venture",
 			"color": "Orange",
 			"year": 1997,
@@ -7625,7 +7625,7 @@
 			"available": false
 		},
 		{
-			"brand": "Ford",
+			"make": "Ford",
 			"model": "E-Series",
 			"color": "Aquamarine",
 			"year": 2006,
@@ -7633,7 +7633,7 @@
 			"available": false
 		},
 		{
-			"brand": "Pontiac",
+			"make": "Pontiac",
 			"model": "6000",
 			"color": "Puce",
 			"year": 1988,
@@ -7641,7 +7641,7 @@
 			"available": true
 		},
 		{
-			"brand": "Ford",
+			"make": "Ford",
 			"model": "E150",
 			"color": "Mauv",
 			"year": 2007,
@@ -7649,7 +7649,7 @@
 			"available": true
 		},
 		{
-			"brand": "Nissan",
+			"make": "Nissan",
 			"model": "Altima",
 			"color": "Maroon",
 			"year": 2009,
@@ -7657,7 +7657,7 @@
 			"available": true
 		},
 		{
-			"brand": "Subaru",
+			"make": "Subaru",
 			"model": "Impreza",
 			"color": "Aquamarine",
 			"year": 2004,
@@ -7665,7 +7665,7 @@
 			"available": false
 		},
 		{
-			"brand": "Maybach",
+			"make": "Maybach",
 			"model": "62",
 			"color": "Purple",
 			"year": 2004,
@@ -7673,7 +7673,7 @@
 			"available": false
 		},
 		{
-			"brand": "Chevrolet",
+			"make": "Chevrolet",
 			"model": "Cavalier",
 			"color": "Mauv",
 			"year": 2002,
@@ -7681,7 +7681,7 @@
 			"available": false
 		},
 		{
-			"brand": "Jeep",
+			"make": "Jeep",
 			"model": "Wrangler",
 			"color": "Turquoise",
 			"year": 1999,
@@ -7689,7 +7689,7 @@
 			"available": true
 		},
 		{
-			"brand": "Dodge",
+			"make": "Dodge",
 			"model": "Neon",
 			"color": "Pink",
 			"year": 1997,
@@ -7697,7 +7697,7 @@
 			"available": true
 		},
 		{
-			"brand": "Toyota",
+			"make": "Toyota",
 			"model": "Matrix",
 			"color": "Crimson",
 			"year": 2005,
@@ -7705,7 +7705,7 @@
 			"available": true
 		},
 		{
-			"brand": "Toyota",
+			"make": "Toyota",
 			"model": "Yaris",
 			"color": "Crimson",
 			"year": 2009,
@@ -7713,7 +7713,7 @@
 			"available": false
 		},
 		{
-			"brand": "GMC",
+			"make": "GMC",
 			"model": "Yukon XL 2500",
 			"color": "Turquoise",
 			"year": 2008,
@@ -7721,7 +7721,7 @@
 			"available": false
 		},
 		{
-			"brand": "Dodge",
+			"make": "Dodge",
 			"model": "Dakota",
 			"color": "Pink",
 			"year": 1998,
@@ -7729,7 +7729,7 @@
 			"available": false
 		},
 		{
-			"brand": "Nissan",
+			"make": "Nissan",
 			"model": "Altima",
 			"color": "Maroon",
 			"year": 1994,
@@ -7737,7 +7737,7 @@
 			"available": true
 		},
 		{
-			"brand": "Dodge",
+			"make": "Dodge",
 			"model": "Avenger",
 			"color": "Turquoise",
 			"year": 1999,
@@ -7745,7 +7745,7 @@
 			"available": true
 		},
 		{
-			"brand": "Mercedes-Benz",
+			"make": "Mercedes-Benz",
 			"model": "E-Class",
 			"color": "Mauv",
 			"year": 2001,
@@ -7753,7 +7753,7 @@
 			"available": false
 		},
 		{
-			"brand": "Volvo",
+			"make": "Volvo",
 			"model": "XC60",
 			"color": "Khaki",
 			"year": 2009,
@@ -7761,7 +7761,7 @@
 			"available": true
 		},
 		{
-			"brand": "Chevrolet",
+			"make": "Chevrolet",
 			"model": "Prizm",
 			"color": "Turquoise",
 			"year": 1998,
@@ -7769,7 +7769,7 @@
 			"available": true
 		},
 		{
-			"brand": "Audi",
+			"make": "Audi",
 			"model": "S6",
 			"color": "Teal",
 			"year": 2011,
@@ -7777,7 +7777,7 @@
 			"available": false
 		},
 		{
-			"brand": "Ford",
+			"make": "Ford",
 			"model": "LTD Crown Victoria",
 			"color": "Orange",
 			"year": 1989,
@@ -7785,7 +7785,7 @@
 			"available": true
 		},
 		{
-			"brand": "Chevrolet",
+			"make": "Chevrolet",
 			"model": "Uplander",
 			"color": "Goldenrod",
 			"year": 2007,
@@ -7793,7 +7793,7 @@
 			"available": true
 		},
 		{
-			"brand": "Mitsubishi",
+			"make": "Mitsubishi",
 			"model": "Tredia",
 			"color": "Red",
 			"year": 1984,
@@ -7801,7 +7801,7 @@
 			"available": true
 		},
 		{
-			"brand": "Volvo",
+			"make": "Volvo",
 			"model": "960",
 			"color": "Fuscia",
 			"year": 1994,
@@ -7809,7 +7809,7 @@
 			"available": false
 		},
 		{
-			"brand": "BMW",
+			"make": "BMW",
 			"model": "M6",
 			"color": "Teal",
 			"year": 2008,
@@ -7817,7 +7817,7 @@
 			"available": false
 		},
 		{
-			"brand": "Ford",
+			"make": "Ford",
 			"model": "Escape",
 			"color": "Khaki",
 			"year": 2004,
@@ -7825,7 +7825,7 @@
 			"available": true
 		},
 		{
-			"brand": "Honda",
+			"make": "Honda",
 			"model": "CR-V",
 			"color": "Goldenrod",
 			"year": 2005,
@@ -7833,7 +7833,7 @@
 			"available": true
 		},
 		{
-			"brand": "Scion",
+			"make": "Scion",
 			"model": "xB",
 			"color": "Goldenrod",
 			"year": 2010,
@@ -7841,7 +7841,7 @@
 			"available": true
 		},
 		{
-			"brand": "Volvo",
+			"make": "Volvo",
 			"model": "C70",
 			"color": "Puce",
 			"year": 2004,
@@ -7849,7 +7849,7 @@
 			"available": false
 		},
 		{
-			"brand": "Subaru",
+			"make": "Subaru",
 			"model": "Tribeca",
 			"color": "Violet",
 			"year": 2010,
@@ -7857,7 +7857,7 @@
 			"available": false
 		},
 		{
-			"brand": "Jeep",
+			"make": "Jeep",
 			"model": "Liberty",
 			"color": "Crimson",
 			"year": 2005,
@@ -7865,7 +7865,7 @@
 			"available": true
 		},
 		{
-			"brand": "Chevrolet",
+			"make": "Chevrolet",
 			"model": "G-Series 1500",
 			"color": "Crimson",
 			"year": 1997,
@@ -7873,7 +7873,7 @@
 			"available": false
 		},
 		{
-			"brand": "Chevrolet",
+			"make": "Chevrolet",
 			"model": "Tracker",
 			"color": "Orange",
 			"year": 2000,
@@ -7881,7 +7881,7 @@
 			"available": true
 		},
 		{
-			"brand": "Chevrolet",
+			"make": "Chevrolet",
 			"model": "Lumina",
 			"color": "Indigo",
 			"year": 2001,
@@ -7889,7 +7889,7 @@
 			"available": false
 		},
 		{
-			"brand": "GMC",
+			"make": "GMC",
 			"model": "2500",
 			"color": "Purple",
 			"year": 1993,
@@ -7897,7 +7897,7 @@
 			"available": false
 		},
 		{
-			"brand": "Lamborghini",
+			"make": "Lamborghini",
 			"model": "Murciélago",
 			"color": "Red",
 			"year": 2004,
@@ -7905,7 +7905,7 @@
 			"available": false
 		},
 		{
-			"brand": "Honda",
+			"make": "Honda",
 			"model": "Prelude",
 			"color": "Violet",
 			"year": 1992,
@@ -7913,7 +7913,7 @@
 			"available": true
 		},
 		{
-			"brand": "Mercury",
+			"make": "Mercury",
 			"model": "Grand Marquis",
 			"color": "Orange",
 			"year": 2004,
@@ -7921,7 +7921,7 @@
 			"available": true
 		},
 		{
-			"brand": "Ford",
+			"make": "Ford",
 			"model": "Fiesta",
 			"color": "Yellow",
 			"year": 2001,
@@ -7929,7 +7929,7 @@
 			"available": true
 		},
 		{
-			"brand": "GMC",
+			"make": "GMC",
 			"model": "Savana Cargo Van",
 			"color": "Crimson",
 			"year": 2006,
@@ -7937,7 +7937,7 @@
 			"available": true
 		},
 		{
-			"brand": "Chevrolet",
+			"make": "Chevrolet",
 			"model": "1500",
 			"color": "Turquoise",
 			"year": 1996,
@@ -7945,7 +7945,7 @@
 			"available": true
 		},
 		{
-			"brand": "Lexus",
+			"make": "Lexus",
 			"model": "LS",
 			"color": "Goldenrod",
 			"year": 2001,
@@ -7953,7 +7953,7 @@
 			"available": false
 		},
 		{
-			"brand": "Infiniti",
+			"make": "Infiniti",
 			"model": "FX",
 			"color": "Turquoise",
 			"year": 2011,
@@ -7961,7 +7961,7 @@
 			"available": false
 		},
 		{
-			"brand": "Cadillac",
+			"make": "Cadillac",
 			"model": "Escalade ESV",
 			"color": "Teal",
 			"year": 2003,
@@ -7969,7 +7969,7 @@
 			"available": false
 		},
 		{
-			"brand": "Oldsmobile",
+			"make": "Oldsmobile",
 			"model": "LSS",
 			"color": "Red",
 			"year": 1999,
@@ -7977,7 +7977,7 @@
 			"available": true
 		},
 		{
-			"brand": "Ford",
+			"make": "Ford",
 			"model": "E-Series",
 			"color": "Teal",
 			"year": 1996,
@@ -7985,7 +7985,7 @@
 			"available": false
 		},
 		{
-			"brand": "Lexus",
+			"make": "Lexus",
 			"model": "RX",
 			"color": "Aquamarine",
 			"year": 2007,
@@ -7993,7 +7993,7 @@
 			"available": false
 		},
 		{
-			"brand": "Porsche",
+			"make": "Porsche",
 			"model": "911",
 			"color": "Violet",
 			"year": 1997,
