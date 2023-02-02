@@ -1,6 +1,7 @@
 import React, { useEffect } from "react";
 import { useRouter } from "next/router";
 import { Menu, Popover } from "@headlessui/react";
+import Preloader from "./Preloader";
 
 export interface DropdownFilterState {
 	[key: string]: {
@@ -12,18 +13,15 @@ export interface DropdownFilterState {
 interface DropdownFilterParams {
 	title: string;
 	className?: string;
-	// property: string;
-	// initialValue: string;
 	disabled?: boolean;
-	initialize?: boolean;
-	align?: "start" | "end";
-	options: {
+	options?: {
 		[key: string]: {
 			label: string;
 			value: boolean;
 		};
-	} | null;
+	};
 	onValueChange: (key: string, value: boolean) => void;
+	loading?: boolean;
 }
 
 export default function DropdownFilter(props: DropdownFilterParams) {
@@ -38,9 +36,14 @@ export default function DropdownFilter(props: DropdownFilterParams) {
 	// };
 
 	const options = [];
+	let numSelected = 0;
 
 	for (const key in props.options) {
 		if (props.options.hasOwnProperty(key)) {
+			if (props.options[key].value) {
+				numSelected++;
+			}
+
 			options.push(
 				<label
 					key={key}
@@ -55,15 +58,6 @@ export default function DropdownFilter(props: DropdownFilterParams) {
 						onChange={(event) => {
 							console.log("==>", event.target.checked);
 							props.onValueChange(key, event.target.checked);
-							//setState({ ...state, [key]: event.target.checked });
-							/**
-							setState((prevState) => {
-								const newState = { ...prevState, [key]: event.target.checked};
-								props.onValueChange(newState);
-								return newState;
-							});
-
-							*/
 						}}
 					/>
 					<span className="whitespace-nowrap py-2 px-3 text-sm pr-8">
@@ -79,12 +73,27 @@ export default function DropdownFilter(props: DropdownFilterParams) {
 			<Popover className="relative">
 				<Popover.Button
 					disabled={props.disabled}
-					className={`inline-flex rounded bg-white px-3 py-2 font-medium text-slate-600  border border-slate-200 shadow-sm justify-center items-center ${props.disabled ? "opacity-60" : "hover:bg-slate-50"}`}
+					className={`inline-flex rounded bg-white px-3 ${props.loading ? "py-2.5" : "py-2"} font-medium text-slate-600  border border-slate-200 shadow-sm justify-center items-center  whitespace-nowrap ${
+						props.disabled ? "opacity-60" : "hover:bg-slate-50"
+					}`}
 				>
-					{props.title}
-					<span className="rounded-full bg-slate-100 text-slate-600 py-0.5 px-3 ml-2 text-sm inline-flex justify-center items-center">
-						3
-					</span>
+					{props.loading ? (
+						<div className="flex">
+							<Preloader
+								className="flex w-5 h-5 items-center mr-2"
+								fillColor="fill-slate-400"
+								backgroundColor="fill-slate-200"
+							/>
+							<span>Loading...</span>
+						</div>
+					) : (
+						<>
+							<span>{props.title}</span>
+							<span className="rounded-full bg-slate-100 text-slate-600 py-0.5 px-3 ml-2 text-sm inline-flex justify-center items-center">
+								{numSelected === 0 ? "All" : numSelected}
+							</span>
+						</>
+					)}
 					<span className="inline-flex justify-center items-center ml-2">
 						<svg
 							className="h-5 w-5 text-slate-400"

@@ -18,7 +18,7 @@ const filter = async (req: NextApiRequest, res: NextApiResponse) => {
 		await dbConnect();
 
 		// Get the query params
-		let { page, make, model } = req.query;
+		let { page, make, model, color } = req.query;
 
 		// Page as a number
 		let pageNum = 1;
@@ -34,7 +34,6 @@ const filter = async (req: NextApiRequest, res: NextApiResponse) => {
 
 		// console.log("brand", brand);
 
-		
 		// // Build the match filter
 		// const matchFilter: {
 		// 	brand?: { $in: string[] };
@@ -51,27 +50,33 @@ const filter = async (req: NextApiRequest, res: NextApiResponse) => {
 
 		// Build the match filter
 		const matchFilter: {
-			make?: string
+			make?: string;
 			model?: { $in: string[] };
+			color?: { $in: string[] };
 		} = {};
 
 		// Make
 		if (make && make.length > 0) {
-
 			// Matches any of the brands in the brand array
 			matchFilter["make"] = make as string;
-
 		}
 
 		// Model
 		if (model && model.length > 0) {
-
 			// Split the brand string into an array
 			model = (model as string).split("-");
 
 			// Matches any of the brands in the brand array
 			matchFilter["model"] = { $in: model };
+		}
 
+		// Color
+		if (color && color.length > 0) {
+			// Split the color string into an array
+			color = (color as string).split("-");
+
+			// Matches any of the colors in the color array
+			matchFilter["color"] = { $in: color };
 		}
 
 		const aggregate: PipelineStage[] = [];

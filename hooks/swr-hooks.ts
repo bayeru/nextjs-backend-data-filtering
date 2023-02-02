@@ -45,3 +45,14 @@ export const useModels = (make: string | undefined) => {
 		mutate,
 	};
 };
+
+export const useColors = () => {
+	const { data, error, mutate } = useSWR<string[]>('/api/colors', fetcher);
+
+	return {
+		colors: data,
+		loading: !error && !data,
+		error,
+		mutate,
+	};
+};

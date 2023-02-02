@@ -1,6 +1,7 @@
 import React, { useEffect } from "react";
 import { useRouter } from "next/router";
 import { Listbox, Menu, Popover } from "@headlessui/react";
+import Preloader from "./Preloader";
 
 export interface DropdownFilterState {
 	[key: string]: {
@@ -14,8 +15,9 @@ interface SelectMenuParams {
 	className?: string;
 	value?: string;
 	initialize?: boolean;
-	options: string[] | null;
+	options?: string[];
 	onValueChange: (value: string | undefined) => void;
+	loading?: boolean;
 }
 
 export default function SelectMenu(props: SelectMenuParams) {
@@ -43,6 +45,7 @@ export default function SelectMenu(props: SelectMenuParams) {
 		);
 	};
 
+	// Render options and prepend default option
 	let options = props.options?.map((option) => renderOption(option));
 	options?.unshift(renderOption(props.default));
 
@@ -62,10 +65,21 @@ export default function SelectMenu(props: SelectMenuParams) {
 			>
 				<div className="relative">
 					<Listbox.Button
-						className="inline-flex rounded bg-white px-3 py-2.5 font-medium text-slate-600 hover:bg-slate-50 border border-slate-200 shadow-sm items-center w-full justify-between
+						className="inline-flex rounded bg-white px-3 py-2.5 font-medium text-slate-600 hover:bg-slate-50 border border-slate-200 shadow-sm items-center w-full justify-between whitespace-nowrap
 					"
 					>
-						{value}
+						{props.loading ? (
+							<div className="flex">
+								<Preloader
+									className="flex w-5 h-5 items-center mr-2"
+									fillColor="fill-slate-400"
+									backgroundColor="fill-slate-200"
+								/>
+								<span>Loading...</span>
+							</div>
+						) : (
+							value
+						)}
 						<span className="inline-flex justify-center items-center ml-2">
 							<svg
 								className="h-5 w-5 text-slate-400"
