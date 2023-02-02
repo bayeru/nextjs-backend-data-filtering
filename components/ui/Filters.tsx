@@ -2,7 +2,7 @@ import { useModels } from "@/hooks/swr-hooks";
 import { shallowEqual } from "@/util/Util";
 import { useRouter } from "next/router";
 import React from "react";
-import { useEffect, useState } from "react";
+import { useEffect } from "react";
 import DropdownFilter, { DropdownFilterState } from "./DropdownFilter";
 import SelectMenu from "./SelectMenu";
 
@@ -19,7 +19,7 @@ export default function Filters(props: FiltersProps) {
 	const [model, setModel] = React.useState<DropdownFilterState>({});
 	const [make, setMake] = React.useState<string>();
 	const { models } = useModels(make);
-	const [dirty, setDirty] = useState(false);
+	const [dirty, setDirty] = React.useState(false);
 
 	// useEffect(() => {
 	// 	if (props.brandOptions) {
