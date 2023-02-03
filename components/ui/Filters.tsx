@@ -1,5 +1,5 @@
 import { AppContext } from "@/context/app-context";
-import { updateColorQuery, updateMakeQuery, updateModelQuery } from "@/lib/query-update";
+import { updateColorQuery, updateMakeQuery, updateMaxPriceQuery, updateMinPriceQuery, updateModelQuery } from "@/lib/query-update";
 import React, { useContext } from "react";
 import { useEffect } from "react";
 import DropdownFilter from "./DropdownFilter";
@@ -17,6 +17,10 @@ export default function Filters() {
 		color,
 		setColor,
 		colorsLoading,
+		minPrice,
+		setMinPrice,
+		maxPrice,
+		setMaxPrice,
 	} = useContext(AppContext);
 	const [dirty, setDirty] = React.useState<string | boolean>(false);
 
@@ -31,6 +35,12 @@ export default function Filters() {
 			} else if (dirty === "color") {
 				setDirty(false);
 				updateColorQuery(color);
+			} else if (dirty === "minPrice") {
+				setDirty(false);
+				updateMinPriceQuery(minPrice);
+			} else if (dirty === "maxPrice") {
+				setDirty(false);
+				updateMaxPriceQuery(maxPrice);
 			}
 		}
 	}, [dirty]);
@@ -66,44 +76,100 @@ export default function Filters() {
 		});
 		setDirty("color");
 	};
+
+	const onYearChange = (value: string | undefined) => {};
+
+	const onMinPriceChange = (value: string | undefined) => {
+
+		if (value) {
+			const price = value.replace("$", "");
+			setMinPrice(parseInt(price));
+			setDirty("minPrice");
+		} else {
+			setMinPrice(undefined);
+			setDirty("minPrice");
+		}		
+
+	};
 	
-	const onYearChange = (key: string, value: boolean) => {
-		
+	const onMaxPriceChange = (value: string | undefined) => {
+
+		if (value) {
+			const price = value.replace("$", "");
+			setMaxPrice(parseInt(price));
+			setDirty("maxPrice");
+		} else {
+			setMaxPrice(undefined);
+			setDirty("maxPrice");
+		}		
+
+	};
+
+
+	const buildPriceArray = (minPrice: number = 1000) => {
+		const priceArray: string[] = [];
+
+		for (let i = minPrice; i <= 5000; i += 500) {
+			priceArray.push("$" + i.toString());
+		}
+
+		return priceArray;
 	};
 
 	console.log("model", model);
 
 	return (
-		<>
-			<SelectMenu
-				default={"Make (All)"}
-				value={make}
-				options={makeOptions}
-				onValueChange={onMakeChange}
-				loading={makesLoading}
-			/>
-			<DropdownFilter
-				title={"Model"}
-				options={model}
-				onValueChange={onModelChange}
-				disabled={make === undefined}
-				className="ml-2"
-				loading={modelsLoading}
-			/>
-			<DropdownFilter
-				title={"Color"}
-				options={color}
-				onValueChange={onColorChange}
-				className="ml-2"
-				loading={colorsLoading}
-			/>
-			<DropdownFilter
-				title={"Year"}
-				options={{}}
-				onValueChange={onYearChange}
-				className="ml-2"
-				loading={false}
-			/>
-		</>
+		<div className="flex justify-between items-center w-full">
+			<div className="flex">
+				<SelectMenu
+					default={"Make (All)"}
+					value={make}
+					options={makeOptions}
+					onValueChange={onMakeChange}
+					loading={makesLoading}
+					className="w-44"
+				/>
+				<DropdownFilter
+					title={"Model"}
+					options={model}
+					onValueChange={onModelChange}
+					disabled={make === undefined}
+					className="ml-2"
+					loading={modelsLoading}
+				/>
+				<DropdownFilter
+					title={"Color"}
+					options={color}
+					onValueChange={onColorChange}
+					className="ml-2"
+					loading={colorsLoading}
+				/>
+				<DropdownFilter
+					title={"Year"}
+					options={color}
+					onValueChange={onColorChange}
+					className="ml-2"
+					loading={colorsLoading}
+				/>
+			</div>
+			<div className="flex">
+				<SelectMenu
+					default={"Min Price"}
+					value={minPrice ? "$" + minPrice : undefined}
+					options={buildPriceArray(1000)}
+					onValueChange={onMinPriceChange}
+					className="w-32"
+					loading={false}
+				/>
+				<SelectMenu
+					default={"Max Price"}
+					value={maxPrice ? "$" + maxPrice : undefined}
+					options={buildPriceArray(1000)}
+					onValueChange={onMaxPriceChange}
+					className="w-32 ml-2"
+					loading={false}
+				/>
+			</div>
+		</div>
 	);
 }

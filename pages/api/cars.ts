@@ -18,7 +18,7 @@ const filter = async (req: NextApiRequest, res: NextApiResponse) => {
 		await dbConnect();
 
 		// Get the query params
-		let { page, make, model, color } = req.query;
+		let { page, make, model, color, "min-price": minPrice, "max-price": maxPrice } = req.query;
 
 		// Page as a number
 		let pageNum = 1;
@@ -32,27 +32,12 @@ const filter = async (req: NextApiRequest, res: NextApiResponse) => {
 			}
 		}
 
-		// console.log("brand", brand);
-
-		// // Build the match filter
-		// const matchFilter: {
-		// 	brand?: { $in: string[] };
-		// } = {};
-
-		// if (brand && brand.length > 0) {
-
-		// 	// Split the brand string into an array
-		// 	brand = (brand as string).split("-");
-
-		// 	// Matches any of the brands in the brand array
-		// 	matchFilter["brand"] = { $in: brand };
-		// }
-
 		// Build the match filter
 		const matchFilter: {
 			make?: string;
 			model?: { $in: string[] };
 			color?: { $in: string[] };
+			price?: { $gte?: number; $lte?: number };
 		} = {};
 
 		// Make
@@ -79,6 +64,28 @@ const filter = async (req: NextApiRequest, res: NextApiResponse) => {
 			matchFilter["color"] = { $in: color };
 		}
 
+		// Min Price
+		if (minPrice && minPrice.length > 0) {
+			const val = parseFloat(minPrice as string);
+
+			if (!isNaN(val) && isPriceValid(val)) {
+				matchFilter["price"] = { $gte: val };
+			}
+		}
+
+		// Max Price
+		if (maxPrice && maxPrice.length > 0) {
+			const val = parseFloat(maxPrice as string);
+
+			if (!isNaN(val) && isPriceValid(val)) {
+				if (matchFilter["price"]) {
+					matchFilter["price"] = { ...matchFilter["price"], $lte: val };
+				} else {
+					matchFilter["price"] = { $lte: val };
+				}
+			}
+		}
+
 		const aggregate: PipelineStage[] = [];
 
 		aggregate.push({ $match: matchFilter });
@@ -95,6 +102,11 @@ const filter = async (req: NextApiRequest, res: NextApiResponse) => {
 	} catch (err) {
 		errorHandler(err, res);
 	}
+};
+
+const isPriceValid = (minPrice: number) => {
+	const minPricePoints = [1000, 1500, 2000, 2500, 3000, 3500, 4000, 4500, 5000];
+	return minPricePoints.find((point) => point === minPrice) !== undefined;
 };
 
 export default handler;

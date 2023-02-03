@@ -35,7 +35,7 @@ export default function SelectMenu(props: SelectMenuParams) {
 				key={option}
 				value={option}
 				className={({ active, selected }) =>
-					`relative cursor-default select-none py-2 pl-6 pr-4 ${
+					`relative cursor-default select-none py-2 pl-6 pr-4 whitespace-nowrap ${
 						active ? "bg-slate-100 text-slate-900" : "text-slate-900"
 					} ${selected ? "font-semibold bg-slate-100" : "font-normal"}`
 				}
@@ -50,7 +50,7 @@ export default function SelectMenu(props: SelectMenuParams) {
 	options?.unshift(renderOption(props.default));
 
 	return (
-		<div className="w-52">
+		<div className={props.className}>
 			<Listbox
 				value={value}
 				onChange={(value) => {
@@ -78,7 +78,7 @@ export default function SelectMenu(props: SelectMenuParams) {
 								<span>Loading...</span>
 							</div>
 						) : (
-							value
+							props.options?.includes(props?.value as string) ? props.value : props.default
 						)}
 						<span className="inline-flex justify-center items-center ml-2">
 							<svg

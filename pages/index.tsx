@@ -23,7 +23,7 @@ export default function Home() {
 					<td className="px-6 py-4">{car.model}</td>
 					<td className="px-6 py-4">{car.color}</td>
 					<td className="px-6 py-4">{car.year}</td>
-					<td className="px-6 py-4">{car.price}</td>
+					<td className="px-6 py-4">${car.price}</td>
 					<td className="px-6 py-4">{car.available ? "Available" : "Not Available"}</td>
 				</tr>
 			);

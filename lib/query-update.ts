@@ -88,3 +88,49 @@ export const updateColorQuery = (color: DropdownFilterState | undefined) => {
 		{ shallow: true }
 	);
 };
+
+export const updateMinPriceQuery = (minPrice: number | undefined) => {
+
+	let query = Router.query;
+
+	// Update the minPrice query parameter
+	if (minPrice !== undefined) {
+		query["min-price"] = minPrice.toString();
+	} else {
+		delete query["min-price"];
+	}
+
+	// Change the URL without reloading the page
+	Router.push(
+		{
+			pathname: "/",
+			query: query,
+		},
+		undefined,
+		{ shallow: true }
+	);
+
+};
+
+export const updateMaxPriceQuery = (maxPrice: number | undefined) => {
+
+	let query = Router.query;
+
+	// Update the maxPrice query parameter
+	if (maxPrice !== undefined) {
+		query["max-price"] = maxPrice.toString();
+	} else {
+		delete query["max-price"];
+	}
+
+	// Change the URL without reloading the page
+	Router.push(
+		{
+			pathname: "/",
+			query: query,
+		},
+		undefined,
+		{ shallow: true }
+	);
+
+};
