@@ -18,7 +18,7 @@ const filter = async (req: NextApiRequest, res: NextApiResponse) => {
 		await dbConnect();
 
 		// Get the query params
-		let { page, make, model, color, "min-price": minPrice, "max-price": maxPrice } = req.query;
+		let { page, make, model, color, year, "min-price": minPrice, "max-price": maxPrice } = req.query;
 
 		// Page as a number
 		let pageNum = 1;
@@ -37,6 +37,7 @@ const filter = async (req: NextApiRequest, res: NextApiResponse) => {
 			make?: string;
 			model?: { $in: string[] };
 			color?: { $in: string[] };
+			year?: { $in: number[] };
 			price?: { $gte?: number; $lte?: number };
 		} = {};
 
@@ -62,6 +63,26 @@ const filter = async (req: NextApiRequest, res: NextApiResponse) => {
 
 			// Matches any of the colors in the color array
 			matchFilter["color"] = { $in: color };
+		}
+
+		// Year
+		if (year && year.length > 0) {			
+			// Split the year string into an array
+			year = (year as string).split("-");
+
+			const yearNums: number[] = [];
+
+			// Convert the year strings to numbers
+			for (let i = 0; i < year.length; i++) {
+				const val = parseInt(year[i]);
+
+				if (!isNaN(val)) {
+					yearNums.push(val);
+				}
+			}
+
+			// Matches any of the years in the year array
+			matchFilter["year"] = { $in: yearNums };
 		}
 
 		// Min Price

@@ -13,6 +13,9 @@ interface AppContextProps {
 	modelsLoading?: boolean;
 	color?: DropdownFilterState;
 	setColor: (value: React.SetStateAction<DropdownFilterState>) => void;
+	year?: DropdownFilterState;
+	setYear: (value: React.SetStateAction<DropdownFilterState>) => void;
+	yearLoading?: boolean;
 	colorsLoading?: boolean;
 	minPrice?: number;
 	setMinPrice: (price: number | undefined) => void;
@@ -33,6 +36,8 @@ export default function AppContextProvider(props: AppContextProviderProps) {
 	const { models, loading: modelsLoading } = useModels(make);
 	const [color, setColor] = useState<DropdownFilterState>({});
 	const { colors, loading: colorsLoading } = useColors();
+	const [year, setYear] = useState<DropdownFilterState>({});
+	const [yearLoading, setYearLoading] = useState<boolean>(true);
 	const [minPrice, setMinPrice] = useState<number | undefined>(undefined);
 	const [maxPrice, setMaxPrice] = useState<number | undefined>(undefined);
 	const router = useRouter();
@@ -84,6 +89,24 @@ export default function AppContextProvider(props: AppContextProviderProps) {
 		}
 	}, [colors /*router.isReady, make*/]);
 
+	// Update year options
+	useEffect(() => {
+		if (router.isReady) {
+			let yearQuery: string[] = parseYearQuery(router);
+			let yearOptions: DropdownFilterState = {};
+
+			for (let i = 1963; i <= 2013; i++) {
+				yearOptions[i] = {
+					label: i.toString(),
+					value: yearQuery.includes(i.toString()),
+				};
+			}
+
+			setYear(yearOptions);
+			setYearLoading(false);
+		}
+	}, [router.isReady]);
+
 	// Update min price when minPrice query changes
 	useEffect(() => {
 		if (router.isReady && router.query["min-price"]) {
@@ -119,6 +142,9 @@ export default function AppContextProvider(props: AppContextProviderProps) {
 				color,
 				setColor,
 				colorsLoading,
+				year,
+				setYear,
+				yearLoading,
 				minPrice,
 				setMinPrice,
 				maxPrice,
@@ -145,6 +171,16 @@ const parseColorQuery = (router: NextRouter) => {
 		const result: string[] = [];
 		const color = router.query.color as string;
 		return color.split("-");
+	}
+
+	return [];
+};
+
+const parseYearQuery = (router: NextRouter) => {
+	if (router.query.year) {
+		const result: string[] = [];
+		const year = router.query.year as string;
+		return year.split("-");
 	}
 
 	return [];

@@ -1,8 +1,15 @@
 import { AppContext } from "@/context/app-context";
-import { updateColorQuery, updateMakeQuery, updateMaxPriceQuery, updateMinPriceQuery, updateModelQuery } from "@/lib/query-update";
+import {
+	updateColorQuery,
+	updateMakeQuery,
+	updateMaxPriceQuery,
+	updateMinPriceQuery,
+	updateModelQuery,
+	updateYearQuery,
+} from "@/lib/query-update";
 import React, { useContext } from "react";
 import { useEffect } from "react";
-import DropdownFilter from "./DropdownFilter";
+import DropdownFilter, { DropdownFilterState } from "./DropdownFilter";
 import SelectMenu from "./SelectMenu";
 
 export default function Filters() {
@@ -16,7 +23,10 @@ export default function Filters() {
 		modelsLoading,
 		color,
 		setColor,
+		year,
+		setYear,
 		colorsLoading,
+		yearLoading,
 		minPrice,
 		setMinPrice,
 		maxPrice,
@@ -35,6 +45,9 @@ export default function Filters() {
 			} else if (dirty === "color") {
 				setDirty(false);
 				updateColorQuery(color);
+			} else if (dirty === "year") {
+				setDirty(false);
+				updateYearQuery(year);
 			} else if (dirty === "minPrice") {
 				setDirty(false);
 				updateMinPriceQuery(minPrice);
@@ -77,10 +90,22 @@ export default function Filters() {
 		setDirty("color");
 	};
 
-	const onYearChange = (value: string | undefined) => {};
+	const onYearChange = (key: string, value: boolean) => {
+
+		setYear((prevState) => {
+			return {
+				...prevState,
+				[key]: {
+					...prevState[key],
+					value: value,
+				},
+			};
+		});
+		setDirty("year");
+
+	};
 
 	const onMinPriceChange = (value: string | undefined) => {
-
 		if (value) {
 			const price = value.replace("$", "");
 			setMinPrice(parseInt(price));
@@ -88,12 +113,10 @@ export default function Filters() {
 		} else {
 			setMinPrice(undefined);
 			setDirty("minPrice");
-		}		
-
+		}
 	};
-	
-	const onMaxPriceChange = (value: string | undefined) => {
 
+	const onMaxPriceChange = (value: string | undefined) => {
 		if (value) {
 			const price = value.replace("$", "");
 			setMaxPrice(parseInt(price));
@@ -101,20 +124,19 @@ export default function Filters() {
 		} else {
 			setMaxPrice(undefined);
 			setDirty("maxPrice");
-		}		
-
+		}
 	};
 
-
-	const buildPriceArray = (minPrice: number = 1000) => {
+	const buildPriceArray = (start: number = 1000, end: number = 5000) => {
 		const priceArray: string[] = [];
 
-		for (let i = minPrice; i <= 5000; i += 500) {
+		for (let i = start; i <= end; i += 500) {
 			priceArray.push("$" + i.toString());
 		}
 
 		return priceArray;
 	};
+
 
 	console.log("model", model);
 
@@ -146,17 +168,17 @@ export default function Filters() {
 				/>
 				<DropdownFilter
 					title={"Year"}
-					options={color}
-					onValueChange={onColorChange}
+					options={year}
+					onValueChange={onYearChange}
 					className="ml-2"
-					loading={colorsLoading}
+					loading={yearLoading}
 				/>
 			</div>
 			<div className="flex">
 				<SelectMenu
 					default={"Min Price"}
 					value={minPrice ? "$" + minPrice : undefined}
-					options={buildPriceArray(1000)}
+					options={buildPriceArray(1000, maxPrice)}
 					onValueChange={onMinPriceChange}
 					className="w-32"
 					loading={false}
@@ -164,7 +186,7 @@ export default function Filters() {
 				<SelectMenu
 					default={"Max Price"}
 					value={maxPrice ? "$" + maxPrice : undefined}
-					options={buildPriceArray(1000)}
+					options={buildPriceArray(minPrice)}
 					onValueChange={onMaxPriceChange}
 					className="w-32 ml-2"
 					loading={false}

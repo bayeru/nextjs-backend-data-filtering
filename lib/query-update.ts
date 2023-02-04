@@ -134,3 +134,35 @@ export const updateMaxPriceQuery = (maxPrice: number | undefined) => {
 	);
 
 };
+
+export const updateYearQuery = (year: DropdownFilterState | undefined) => {
+	let query = Router.query;
+
+	// Create an array to hold the selected years
+	const yearArr = [];
+
+	// Push all selected years into an array
+	for (const key in year) {
+		if (year[key].value === true) {
+			yearArr.push(year[key].label);
+		}
+	}
+
+	// Set the year query parameter to the array of selected years by
+	// joining them with a hyphen such as (1950-1957)
+	if (yearArr.length > 0) {
+		query["year"] = yearArr.join("-");
+	} else {
+		delete query["year"];
+	}
+
+	// Change the URL without reloading the page
+	Router.push(
+		{
+			pathname: "/",
+			query: query,
+		},
+		undefined,
+		{ shallow: true }
+	);
+};
