@@ -1,8 +1,8 @@
 import { ICar } from "@/common/types";
 import Filters from "@/components/ui/Filters";
 import Pagination from "@/components/ui/Pagination";
-import AppContextProvider, { AppContext } from "@/context/app-context";
-import { useMakes, useCars } from "@/hooks/swr-hooks";
+import AppContextProvider from "@/context/app-context";
+import { useCars } from "@/hooks/swr-hooks";
 import { useRouter } from "next/router";
 
 export default function Home() {
