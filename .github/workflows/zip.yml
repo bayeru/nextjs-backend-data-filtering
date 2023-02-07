@@ -1,0 +1,40 @@
+name: Create Zip
+
+on:
+  # pull_request:
+  #  branches: ["master"]
+  # push:
+  #    branches: ["master"]
+  workflow_dispatch:
+    branches: ["master"]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest    
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Get package version
+        id: package-version
+        uses: martinbeentjes/npm-get-version-action@main
+
+      - name: Print current version
+        run: echo ${{ steps.package-version.outputs.current-version}}
+      
+      - name: Create Zip
+        uses: thedoctor0/zip-release@main
+        with:
+          type: 'zip'
+          filename: 'nextjs-backend-data-filtering-${{ steps.package-version.outputs.current-version}}.zip'
+          exclusions: '*.git* *.github* *.vscode* .dockerignore .gitignore docker-compose.yml package.json'      
+
+      - name: Release
+        uses: ncipollo/release-action@v1
+        with:
+          artifacts: 'nextjs-backend-data-filtering-${{ steps.package-version.outputs.current-version}}.zip'
+          allowUpdates: 'true'
+          token: ${{ secrets.GITHUB_TOKEN }}
+          tag: 'nextjs-backend-data-filtering-${{ steps.package-version.outputs.current-version}}.zip'
+  

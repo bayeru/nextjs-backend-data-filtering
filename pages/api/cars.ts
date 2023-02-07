@@ -125,9 +125,12 @@ const filter = async (req: NextApiRequest, res: NextApiResponse) => {
 	}
 };
 
+/**
+ * Checks if the price is valid.
+ */
 const isPriceValid = (minPrice: number) => {
 	const minPricePoints = [1000, 1500, 2000, 2500, 3000, 3500, 4000, 4500, 5000];
-	return minPricePoints.find((point) => point === minPrice) !== undefined;
+	return minPricePoints.includes(minPrice);
 };
 
 export default handler;

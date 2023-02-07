@@ -5,7 +5,6 @@ dotenv.config({
 });
 import dbConnect from "../lib/dbConnect";
 import data from "./cars.json";
-import fs from "fs";
 import Car from "../models/Car";
 
 const seed = async () => {
@@ -30,49 +29,6 @@ const seed = async () => {
 
 };
 
-// const createFile = async () => {
-
-// 	fs.readFile("./data/cars.json", "utf8", (err, data) => {
-// 		if (err) {
-// 			console.error(err);
-// 			return;
-// 		}
-
-// 		const cars = JSON.parse(data);
-// 		const newCars = [];
-		
-// 		for (let car of cars.cars) {
-
-// 			const newCar = {
-// 				make: car.brand,
-// 				model: car.model,
-// 				color: car.color,
-// 				year: car.year,
-// 				price: car.price,
-// 				available: car.available
-// 			};
-
-// 			console.log(newCar);
-
-// 			newCars.push(newCar);
-
-// 		}
-
-// 		fs.writeFile("./data/newCars.json", JSON.stringify({ cars: newCars }), (err) => {
-// 			if (err) {
-// 				console.error(err);
-// 				return;
-// 			}
-
-// 			console.log("File has been created");
-// 		});
-
-// 	});
-
-// };
-
 seed();
-
-//createFile();
 
 export default seed;

@@ -156,6 +156,9 @@ export default function AppContextProvider(props: AppContextProviderProps) {
 	);
 }
 
+/**
+ * Parses the model query string into an array of strings.
+ */
 const parseModelQuery = (router: NextRouter) => {
 	if (router.query.model) {
 		const result: string[] = [];
@@ -166,6 +169,9 @@ const parseModelQuery = (router: NextRouter) => {
 	return [];
 };
 
+/**
+ * Parses the color query string into an array of strings.
+ */
 const parseColorQuery = (router: NextRouter) => {
 	if (router.query.color) {
 		const result: string[] = [];
@@ -176,6 +182,9 @@ const parseColorQuery = (router: NextRouter) => {
 	return [];
 };
 
+/**
+ * Parses the year query string into an array of strings.
+ */
 const parseYearQuery = (router: NextRouter) => {
 	if (router.query.year) {
 		const result: string[] = [];

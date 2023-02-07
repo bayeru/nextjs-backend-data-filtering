@@ -20,6 +20,9 @@ interface SelectMenuParams {
 	loading?: boolean;
 }
 
+/**
+ * Select menu component to be used for single selection in the filter bar.
+ */
 export default function SelectMenu(props: SelectMenuParams) {
 	const [value, setValue] = React.useState(props.value ? props.value : props.default);
 
@@ -71,7 +74,7 @@ export default function SelectMenu(props: SelectMenuParams) {
 						{props.loading ? (
 							<div className="flex">
 								<Preloader
-									className="flex w-5 h-5 items-center mr-2"
+									className="flex w-5 h-5 items-center mr-2 overflow-hidden"
 									fillColor="fill-slate-400"
 									backgroundColor="fill-slate-200"
 								/>
@@ -91,7 +94,7 @@ export default function SelectMenu(props: SelectMenuParams) {
 							</svg>
 						</span>
 					</Listbox.Button>
-					<Listbox.Options className="absolute right-0 mt-1 origin-top-right rounded-md bg-white shadow-lg flex flex-col py-4 border max-h-96 overflow-auto w-full">
+					<Listbox.Options className="absolute right-0 mt-1 origin-top-right rounded-md bg-white shadow-lg flex flex-col py-4 border max-h-96 overflow-auto w-full z-10">
 						{options}
 					</Listbox.Options>
 				</div>

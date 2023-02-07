@@ -1,33 +1,36 @@
 {
   "name": "nextjs-backend-data-filtering",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "private": true,
   "scripts": {
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "seed": "npx ts-node ./data/seed.ts",
+    "docker:build": "docker build -t nextjs-backend-data-filtering .",
+    "docker:run": "docker run --name nextjs-backend-data-filtering -p 3000:3000 nextjs-backend-data-filtering"
   },
   "dependencies": {
     "@headlessui/react": "^1.7.8",
     "@next/font": "13.1.6",
-    "@types/node": "18.11.18",
-    "@types/react": "18.0.27",
-    "@types/react-dom": "18.0.10",
     "eslint": "8.33.0",
     "eslint-config-next": "13.1.6",
     "mongoose": "^6.9.0",
     "next": "13.1.6",
     "react": "18.2.0",
     "react-dom": "18.2.0",
-    "swr": "^2.0.3",
-    "typescript": "4.9.5"
+    "swr": "^2.0.3"
   },
   "devDependencies": {
     "@tailwindcss/forms": "^0.5.3",
+    "@types/node": "^18.13.0",
+    "@types/react": "^18.0.27",
+    "@types/react-dom": "^18.0.10",
     "autoprefixer": "^10.4.13",
     "dotenv": "^16.0.3",
     "postcss": "^8.4.21",
-    "tailwindcss": "^3.2.4"
+    "tailwindcss": "^3.2.4",
+    "typescript": "^4.9.5"
   }
 }

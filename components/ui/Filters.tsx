@@ -9,7 +9,7 @@ import {
 } from "@/lib/query-update";
 import React, { useContext } from "react";
 import { useEffect } from "react";
-import DropdownFilter, { DropdownFilterState } from "./DropdownFilter";
+import DropdownFilter from "./DropdownFilter";
 import SelectMenu from "./SelectMenu";
 
 export default function Filters() {
@@ -137,12 +137,9 @@ export default function Filters() {
 		return priceArray;
 	};
 
-
-	console.log("model", model);
-
 	return (
-		<div className="flex justify-between items-center w-full">
-			<div className="flex">
+		<div className="flex justify-between items-center w-full flex-col lg:flex-row">
+			<div className="flex flex-col items-center sm:flex-row">
 				<SelectMenu
 					default={"Make (All)"}
 					value={make}
@@ -156,25 +153,25 @@ export default function Filters() {
 					options={model}
 					onValueChange={onModelChange}
 					disabled={make === undefined}
-					className="ml-2"
+					className="mt-2 sm:ml-2 sm:mt-0"
 					loading={modelsLoading}
 				/>
 				<DropdownFilter
 					title={"Color"}
 					options={color}
 					onValueChange={onColorChange}
-					className="ml-2"
+					className="mt-2 sm:ml-2 sm:mt-0"
 					loading={colorsLoading}
 				/>
 				<DropdownFilter
 					title={"Year"}
 					options={year}
 					onValueChange={onYearChange}
-					className="ml-2"
+					className="mt-2 sm:ml-2 sm:mt-0"
 					loading={yearLoading}
 				/>
 			</div>
-			<div className="flex">
+			<div className="flex mt-4 lg:mt-0">
 				<SelectMenu
 					default={"Min Price"}
 					value={minPrice ? "$" + minPrice : undefined}

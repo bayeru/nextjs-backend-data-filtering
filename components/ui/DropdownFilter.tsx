@@ -1,6 +1,5 @@
-import React, { useEffect } from "react";
-import { useRouter } from "next/router";
-import { Menu, Popover } from "@headlessui/react";
+import React from "react";
+import { Popover } from "@headlessui/react";
 import Preloader from "./Preloader";
 
 export interface DropdownFilterState {
@@ -24,16 +23,10 @@ interface DropdownFilterParams {
 	loading?: boolean;
 }
 
+/**
+ * Dropdown filter component to be used for multiple selection in the filter bar. 
+ */
 export default function DropdownFilter(props: DropdownFilterParams) {
-	//const [state, setState] = React.useState<DropdownFilterState>({});
-	// const router = useRouter();
-	// const isValid = props.options[props.initialValue] !== undefined;
-	// const [value, setValue] = React.useState(isValid ? props.initialValue : props.property);
-
-	// const handleValueChange = (value: string) => {
-	// 	setValue(value);
-	// 	props.onValueChange(value);
-	// };
 
 	const options = [];
 	let numSelected = 0;
@@ -80,7 +73,7 @@ export default function DropdownFilter(props: DropdownFilterParams) {
 					{props.loading ? (
 						<div className="flex">
 							<Preloader
-								className="flex w-5 h-5 items-center mr-2"
+								className="flex w-5 h-5 items-center mr-2 overflow-hidden"
 								fillColor="fill-slate-400"
 								backgroundColor="fill-slate-200"
 							/>
@@ -105,7 +98,7 @@ export default function DropdownFilter(props: DropdownFilterParams) {
 						</svg>
 					</span>
 				</Popover.Button>
-				<Popover.Panel className="absolute right-0 mt-2 origin-top-right rounded-md bg-white shadow-lg flex flex-col py-4 border max-h-96 overflow-auto">
+				<Popover.Panel className="absolute right-0 mt-2 origin-top-right rounded-md bg-white shadow-lg flex flex-col py-4 border max-h-96 overflow-auto z-10">
 					{options}
 				</Popover.Panel>
 			</Popover>

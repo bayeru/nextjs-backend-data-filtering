@@ -91,7 +91,7 @@ const Pagination = ({ page, totalPages }: PaginationProps) => {
 		<nav className="flex mx-auto mt-8 text-slate-500">
 			<Link
 				href={params !== '' ? `/?page=${page - 1}&${params}` : `/?page=${page - 1}`}
-				className={`inline-flex px-3 py-2 justify-center items-center mr-2 bg-white shadow-sm border border-slate-200 rounded ${page === 1 ? "opacity-50 pointer-events-none" : ""}`}
+				className={`hidden sm:inline-flex px-3 py-2 justify-center items-center mr-2 bg-white shadow-sm border border-slate-200 rounded ${page === 1 ? "opacity-50 pointer-events-none" : ""}`}
 			>
 				<svg className="w-4 h-4 fill-slate-500" viewBox="0 0 16 16">
 					<path d="M9.4 13.4l1.4-1.4-4-4 4-4-1.4-1.4L4 8z"></path>
@@ -100,7 +100,7 @@ const Pagination = ({ page, totalPages }: PaginationProps) => {
 			<ul className="inline-flex -space-x-px shadow-sm">{pages}</ul>
 			<Link
 				href={params !== '' ? `/?page=${page + 1}&${params}` : `/?page=${page + 1}`}
-				className={`inline-flex px-3 py-2 justify-center items-center ml-2 bg-white shadow-sm border border-slate-200 rounded ${page === totalPages ? "opacity-50 pointer-events-none" : ""}`}
+				className={`hidden sm:inline-flex px-3 py-2 justify-center items-center ml-2 bg-white shadow-sm border border-slate-200 rounded ${page === totalPages ? "opacity-50 pointer-events-none" : ""}`}
 			>
 				<svg className="w-4 h-4 fill-slate-500" viewBox="0 0 16 16">
 					<path d="M6.6 13.4L5.2 12l4-4-4-4 1.4-1.4L12 8z"></path>
