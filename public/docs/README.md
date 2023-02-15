@@ -38,7 +38,7 @@ npm install
 ## Environment variables
 
 - The app requires certain environment variables.
-- Open the .env.local file and edit the environment variables according to your setup.
+- Rename the .env.local.sample file as .env.local and edit the environment variables according to your setup.
 
 ```ini
 # Leave as is
