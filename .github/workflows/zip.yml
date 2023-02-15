@@ -28,7 +28,7 @@ jobs:
         with:
           type: 'zip'
           filename: 'nextjs-backend-data-filtering-${{ steps.package-version.outputs.current-version}}.zip'
-          exclusions: '*.git* *.github* *.vscode* *docs* .dockerignore .gitignore docker-compose.yml next-env.d.ts'      
+          exclusions: '*.git* *.github* *.vscode* *docs* .dockerignore .gitignore docker-compose.yml next-env.d.ts .env.production.sample'      
 
       - name: Release
         uses: ncipollo/release-action@v1.12.0

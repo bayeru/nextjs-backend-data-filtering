@@ -51,7 +51,7 @@ CLIENT_URL=http://localhost:3000
 NEXT_PUBLIC_API_URL=/api
 
 # MongoDB database uri (Replace with your connection string)
-MONGO_URI="mongodb+srv://yourUsername:yourPassword@cluster0..."
+MONGO_URI="mongodb+srv://yourUsername:yourPassword@cluster............."
 
 ````
 
