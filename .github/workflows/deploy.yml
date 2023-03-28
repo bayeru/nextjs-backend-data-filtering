@@ -10,9 +10,7 @@ on:
 
 env:
   REGISTRY: ghcr.io
-  CAPROVER_HOST: https://captain.fsmdemo.fullstack.market/
   IMAGE_NAME: ${{ github.repository }}
-  CAPROVER_APP_NAME: nextjs-backend-data-filtering
 
 jobs:
   build:
@@ -47,8 +45,8 @@ jobs:
       - name: Deploy to caprover host
         uses: floms/action-caprover@bc835272f3c1ec1a470d80d44fc2a4518eb85d9d
         with:
-          host: ${{ env.CAPROVER_HOST }}
-          app: ${{ env.CAPROVER_APP_NAME }}
+          host: ${{ vars.CAPROVER_HOST }}
+          app: ${{ vars.CAPROVER_APP_NAME }}
           password: "${{ secrets.CAPROVER_PASSWORD }}"
           image: ${{ steps.meta.outputs.tags }}
 
