@@ -20,42 +20,6 @@ const filter = async (req: NextApiRequest, res: NextApiResponse) => {
 	try {
 		await dbConnect();
 
-
-		//console.log("Page", pageNum);
-
-		// if (make) {
-
-		// 	filter["make"] = make;
-
-		// }
-
-		// if (model) {
-
-		// 	filter["model"] = model;
-
-		// }
-
-		// if (year) {
-
-		// 	filter["year"] = year;
-
-		// }
-
-		// const aggregate: PipelineStage[] = [];
-
-		// aggregate.push({ $match: filter });
-		// aggregate.push({ $facet: {
-		// 	"cars": [
-		// 		{ $skip: (pageNum - 1) * 10 },
-		// 		{ $limit: 10 },
-		// 	],
-		// 	"metadata": [
-		// 		{ $count: "count" },
-		// 		{ $addFields: { "page": pageNum } }
-		// 	]
-		// } });
-		// aggregate.push({ $limit: 10});
-
 		const makes = await Car.distinct("make");
 		res.status(200).json(makes);
 
